@@ -34,17 +34,17 @@
                                 <!--telefone-->
                                 <div class="col form-group col-md-6">
                                     <label for="inputs">Inputs</label>
-                                    <input type="text" class="form-control" id="inputs" name="inputs" >
+                                    <input type="text" class="form-control" id="inputs" name="inputs" placeholder="[x,y]">
                                 </div>
                                 <div class="col form-group col-md-6">
                                     <label for="expecteds">Saidas</label>
-                                    <input type="text" class="form-control" id="expecteds" name="expecteds">
+                                    <input type="text" class="form-control" id="expecteds" name="expecteds" placeholder="[x,y]">
                                 </div>
                             </div>
                             <div class="form-row">
                                 <div class="col form-group col-md-6">
                                     <label for="deadline">Tempo</label>
-                                    <input type="number" class="form-control" id="deadline" name="deadline">
+                                    <input type="number" class="form-control" id="deadline" name="deadline" placeholder="1minuto">
                                 </div>
                                 <div class="col form-group col-md-6">
                                     <label for="status">Status</label>
@@ -58,7 +58,7 @@
                                 </div>
                             </div>
                             <div class="form-group col-md-12">
-                                <button type="submit" class="btn btn-primary form-group" style="float: right">EDITAR</button>
+                                <button type="submit" class="btn btn-primary form-group" style="float: right">Adicionar</button>
                             </div>
                         </form>
                     </div>

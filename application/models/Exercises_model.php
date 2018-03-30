@@ -139,21 +139,15 @@ class Exercises_model extends CI_Model {
 
     }
 
-    public function convert_array_str(array $array){
 
-        $str = '';
-        foreach($array as $key => $exer){
-            $str = $str . '[';
-            $str = $str . implode(', ', $exer);
-            if ($key < count($array) - 1){
-                $str = $str . ']' . ', ';
-            } else {
-                $str = $str . ']';
-            }
+    public function convert_str_array($str){
+        $str = 'array(' . $str . ')';
 
-        }
+        $return = '';
 
-        return $str;
+        eval('$return ='. $str . ';');
+
+        return $return;
     }
 
     public function add_exercise(array $new_exercise){
@@ -166,12 +160,13 @@ class Exercises_model extends CI_Model {
     }
 
     public function remove_exercise($id){
+
         $file = $this->openFile();
 
         $newFile = [];
 
         foreach ($file as $exercise){
-            if ($exercise['id'] != $id){
+            if ($exercise['id_exercise'] != $id){
                 $newFile[] = $exercise;
             }
         }

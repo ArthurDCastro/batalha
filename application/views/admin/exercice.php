@@ -1,6 +1,10 @@
 <!--CONTATOS-->
-<div class="row" >
+
+
+<div class="row" style="margin-top:-100px">
     <div class="col-md-12" >
+
+        <h1>Controlador de Exercícios</h1>
 
         <!-- Conteúdo -->
         <div class="table-responsive">
@@ -23,7 +27,7 @@
                         <td>            <span class="label label-success"><?=$exer['status']?></span></td>
                         <td>            <?=$exer['deadline']/60?>minutos</td>
                         <td><a type="button" class="btn btn-warning" href="<?=base_url("/admin/edit_exercise_view?id={$exer['id_exercise']}")?>"><span class="fa fa-pencil"></span></a></td>
-                        <td><a type="button" class="btn btn-danger" href="contralador_agenda.php?acao=exclui&id=2"><span class="fa fa-remove"></span></a></td>
+                        <td><a type="button" class="btn btn-danger" href="<?=base_url("/admin/remove_exercise?id={$exer['id_exercise']}")?>"><span class="fa fa-remove"></span></a></td>
                     </tr>
                 <?php endforeach; ?>
                 </tbody>

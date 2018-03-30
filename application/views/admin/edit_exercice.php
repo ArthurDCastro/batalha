@@ -31,17 +31,6 @@
                                 </div>
                             </div>
                             <div class="form-row">
-                                <!--telefone-->
-                                <div class="col form-group col-md-6">
-                                    <label for="inputs">Inputs</label>
-                                    <input type="text" class="form-control" id="inputs" name="inputs" value="<?=$exercise['inputs']?>">
-                                </div>
-                                <div class="col form-group col-md-6">
-                                    <label for="expecteds">Saidas</label>
-                                    <input type="text" class="form-control" id="expecteds" name="expecteds" value="<?=$exercise['expecteds']?>">
-                                </div>
-                            </div>
-                            <div class="form-row">
                                 <div class="col form-group col-md-6">
                                     <label for="deadline">Tempo</label>
                                     <input type="number" class="form-control" id="deadline" name="deadline" value="<?=$exercise['deadline']/60?>">
