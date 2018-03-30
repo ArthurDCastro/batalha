@@ -51,5 +51,5 @@
         </nav>
     </div>
 
-    <div class="container" style="margin-top: 100px;margin-left: 275px; margin-right:  375px">
+    <div class="container" style="margin-top: 100px;margin-left: 275px;max-width: 90%">
             <!-- Content Goes here-->

@@ -1,9 +1,9 @@
    <!--CONTATOS-->
-    <div class="row">
-        <div class="col-md-12">
+    <div class="row" style="max-width: 90%">
+        <div class="col-md-12" style="max-width: 90%">
 
             <!-- Conteúdo -->
-            <div class="table-responsive">
+            <div class="table-responsive" style="max-width: 90%">
                 <table class="table" style="max-width: 90%">
                     <thead>
                     <tr>
@@ -31,7 +31,3 @@
             </div>
         </div>
     </div>
-
-    <?php
-
-    print_r($exercises);
