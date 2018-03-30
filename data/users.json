@@ -1,0 +1,134 @@
+[
+  {
+    "id"      : "593358aabfc04",
+    "username": "bruno",
+    "equipe"  : "azul",
+    "email"   : "",
+    "password": "5933",
+    "atividae": 1
+  },
+  {
+    "id"      : "5933v5949d5acd",
+    "username": "guilherme",
+    "equipe"  : "vermelho",
+    "email"   : "",
+    "password": "9335",
+    "atividae": 1
+  },
+  {
+    "id"      : "593359xc94630e",
+    "username": "victor",
+    "equipe"  : "vermelho",
+    "email"   : "",
+    "password": "59c9",
+    "atividae": 1
+  },
+  {
+    "id"      : "5933c59d288950",
+    "username": "felipe",
+    "equipe"  : "vermelho",
+    "email"   : "",
+    "password": "d288",
+    "atividae": 1
+  },
+  {
+    "id"      : "59335a9df1ba83",
+    "username": "vitor",
+    "equipe"  : "rosa",
+    "email"   : "",
+    "password": "7788",
+    "atividae": 1
+  },
+  {
+    "id"      : "593359ljsne7f1f0e",
+    "username": "jeliel",
+    "equipe"  : "rosa",
+    "email"   : "",
+    "password": "59e7",
+    "atividae": 1
+  },
+  {
+    "id"      : "593334jlla54559e72017f1",
+    "username": "rafael",
+    "equipe"  : "rosa",
+    "email"   : "",
+    "password": "4545",
+    "atividae": 1
+  },
+  {
+    "id"      : "59333720uam17f1",
+    "username": "arthur",
+    "equipe"  : "preto",
+    "email"   : "",
+    "password": "3720",
+    "atividae": 1
+  },
+  {
+    "id"      : "59338avdw85372017f1",
+    "username": "jessica",
+    "equipe"  : "preto",
+    "email"   : "",
+    "password": "8514",
+    "atividae": 1
+  },
+  {
+    "id"      : "5933851465685372017f1",
+    "username": "pedro",
+    "equipe"  : "preto",
+    "email"   : "",
+    "password": "8514",
+    "atividae": 1
+  },
+  {
+    "id"      : "59336255183244555886",
+    "username": "matheus",
+    "equipe"  : "verde",
+    "email"   : "",
+    "password": "8514",
+    "atividae": 1
+  }
+  ,
+  {
+    "id"      : "83244555886",
+    "username": "pedroh",
+    "equipe"  : "verde",
+    "email"   : "",
+    "password": "0832",
+    "atividae": 1
+  }
+    ,
+  {
+    "id"      : "8324455454555886",
+    "username": "henrique",
+    "equipe"  : "branco",
+    "email"   : "",
+    "password": "0886",
+    "atividae": 1
+  }
+      ,
+  {
+    "id"      : "83246",
+    "username": "lucas",
+    "equipe"  : "branco",
+    "email"   : "",
+    "password": "0678",
+    "atividae": 1
+  }
+        ,
+  {
+    "id"      : "832454542566",
+    "username": "heitor",
+    "equipe"  : "branco",
+    "email"   : "",
+    "password": "5698",
+    "atividae": 1
+  },
+  {
+    "id"      : "832777",
+    "username": "ifc",
+    "equipe"  : "ifc",
+    "email"   : "",
+    "password": "ifc123",
+    "atividae": 1
+  }
+]

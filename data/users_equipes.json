@@ -1,0 +1,58 @@
+[
+  {
+    "id"      : "593358aabfc04",
+    "username": "azul",
+    "equipe"  : "azul",
+    "email"   : "",
+    "password": "123456",
+    "status"  : "batalhando"
+  },
+  {
+    "id"      : "59335949d5acd",
+    "username": "branco",
+    "equipe"  : "branco",
+    "email"   : "",
+    "password": "123456",
+    "status"  : "batalhando"
+  },
+  {
+    "id"      : "593359c94630e",
+    "username": "preto",
+    "equipe"  : "preto",
+    "email"   : "",
+    "password": "123456",
+    "status"  : "batalhando"
+  },
+  {
+    "id"      : "593359d288950",
+    "username": "rosa",
+    "equipe"  : "rosa",
+    "email"   : "",
+    "password": "123456",
+    "status"  : "batalhando"
+  },
+  {
+    "id"      : "593359df1ba83",
+    "username": "verde",
+    "equipe"  : "verde",
+    "email"   : "",
+    "password": "123456",
+    "status"  : "batalhando"
+  },
+  {
+    "id"      : "593359e7f1f0e",
+    "username": "vermelho",
+    "equipe"  : "vermelho",
+    "email"   : "",
+    "password": "123456",
+    "status"  : "batalhando"
+  },
+  {
+    "id"      : "59333454559e72017f1",
+    "username": "ifc",
+    "equipe"  : "ifc",
+    "email"   : "",
+    "password": "123456",
+    "status"  : "batalhando"
+  }
+]

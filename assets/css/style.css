@@ -1,0 +1,163 @@
+/*.btn-file {*/
+    /*position: relative;*/
+    /*!*overflow: hidden;*!*/
+/*}*/
+/*.btn-file input[type=file] {*/
+    /*position: absolute;*/
+    /*top: 0;*/
+    /*right: 0;*/
+    /*min-width: 100%;*/
+    /*min-height: 100%;*/
+    /*font-size: 100px;*/
+    /*text-align: right;*/
+    /*filter: alpha(opacity=0);*/
+    /*opacity: 0;*/
+    /*outline: none;*/
+    /*background: white;*/
+    /*cursor: inherit;*/
+    /*display: block;*/
+/*}*/
+html,body{
+    height:100%;
+}
+
+body {
+    font-size: 16px;
+    background: #f5f5f5;
+    font-family: Ubuntu;
+}
+
+.code-bg {
+    background: url("bg.jpg");
+    height: 100%;
+    position: relative;
+}
+
+.navbar-inverse {
+    background-color: #c0392b;
+    border-color: transparent;
+}
+
+.navbar-inverse .navbar-nav>.active>a, .navbar-inverse .navbar-nav>.active>a:focus, .navbar-inverse .navbar-nav>.active>a:hover {
+    color: #fff;
+    background-color: transparent;
+    font-weight: bold;
+}
+
+.navbar-inverse .navbar-nav>li>a {
+    color: #fff;
+}
+
+input[type=file].form-control {
+    height    : auto;
+    background: white;
+}
+
+.card-container.card {
+    max-width: 350px;
+    padding: 40px 40px;
+}
+
+.btn {
+    font-weight: 700;
+    height: 36px;
+    -moz-user-select: none;
+    -webkit-user-select: none;
+    user-select: none;
+    cursor: default;
+}
+
+/*
+ * Card component
+ */
+.card {
+    background : #f7f7f7;
+    padding    : 20px 25px 30px;
+    margin     : 100px auto 25px auto;
+    border-radius: 2px;
+    box-shadow : 0px 2px 2px rgba(0, 0, 0, 0.3);
+}
+
+.profile-img-card {
+    width: 75px;
+    height: auto;
+    margin: 0 auto 10px;
+    display: block;
+}
+
+.profile-name-card {
+    font-size: 16px;
+    font-weight: bold;
+    text-align: center;
+    margin: 10px 0 0;
+    min-height: 1em;
+}
+
+/*PANEL STYLE*/
+
+.panel {
+    box-shadow: 1px 1px 1px rgba(0,0,0,0.09) !important;
+}
+
+.panel hr {
+    margin-top: 12px;
+    margin-bottom: 10px;
+}
+
+.panel-heading {
+    /*border-bottom: solid 1px #CCCCCC;*/
+}
+
+.panel-title {
+    font-size      : 18px;
+    text-transform : uppercase;
+    font-family    : "Montserrat Semi Bold";
+}
+
+.panel-heading {
+    background: #fff !important;
+}
+
+.test-cases-result {  
+    background: url("../bg_results.jpg") center;
+    background-size  : auto 100%;
+    background-repeat: no-repeat;
+}
+    .test-cases-result {
+        color      : #fff;
+        text-shadow: 1px 1px 5px #000000;
+    }
+
+    .test-cases-result h1 {
+        color: #fff;
+        margin-top : 50px;
+        text-align : center;
+        font-size  : 50px;
+        text-shadow: 1px 1px 5px #000000;
+        font-weight: bold;
+    }
+
+    .test-cases-result ul {
+        font-size  : 15px;
+        margin-left: -22px;
+    }
+
+    #ranking .avatar {
+
+        width: 80px;
+        margin: 0 auto;
+        height: 80px;
+        border-radius: 50%;
+        overflow: hidden;
+        display: block;
+        text-align: center;
+        background-position: center !important;
+        background-size  : auto 100% !important;
+        background-repeat: no-repeat !important;
+    }
+
+    #ranking td {
+        vertical-align: middle;
+        font-size: 20px;
+        font-weight: bold;
+    }
