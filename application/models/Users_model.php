@@ -68,7 +68,7 @@ class Users_model extends CI_Model {
         $file[] = $new_user;
 
         $salveFile = json_encode($file, JSON_PRETTY_PRINT);                                      //Transforma um array em um tipo json
-        file_put_contents("../../data/users.json", $salveFile);
+        file_put_contents(APPDATA_PATH."users.json", $salveFile);
     }
 
     public function remove_user($id){
@@ -83,7 +83,7 @@ class Users_model extends CI_Model {
         }
 
         $salveFile = json_encode($newFile, JSON_PRETTY_PRINT);                                      //Transforma um array em um tipo json
-        file_put_contents("../../data/users.json", $salveFile);
+        file_put_contents(APPDATA_PATH."data/users.json", $salveFile);
     }
 
     public function edit_user(array $edit_user){
@@ -96,7 +96,7 @@ class Users_model extends CI_Model {
         }
 
         $salveFile = json_encode($file, JSON_PRETTY_PRINT);                                      //Transforma um array em um tipo json
-        file_put_contents("../../data/users.json", $salveFile);
+        file_put_contents(APPDATA_PATH."data/users.json", $salveFile);
     }
 
 

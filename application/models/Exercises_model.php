@@ -138,4 +138,22 @@ class Exercises_model extends CI_Model {
         return false;
 
     }
+
+    public function convert_array_str(array $array){
+        $str = '';
+        foreach($array as $key => $exer){
+            $str = $str . '[';
+            $str = $str . implode(', ', $exer);
+            if ($key < count($array) - 1){
+                $str = $str . ']' . ', ';
+            } else {
+                $str = $str . ']';
+            }
+
+        }
+
+        return $str;
+    }
+
+    
 }
