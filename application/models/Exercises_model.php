@@ -140,6 +140,7 @@ class Exercises_model extends CI_Model {
     }
 
     public function convert_array_str(array $array){
+
         $str = '';
         foreach($array as $key => $exer){
             $str = $str . '[';
@@ -155,5 +156,41 @@ class Exercises_model extends CI_Model {
         return $str;
     }
 
-    
+    public function add_exercise(array $new_exercise){
+        $file = $this->openFile();
+
+        $file[] = $new_exercise;
+
+        $salveFile = json_encode($file, JSON_PRETTY_PRINT);                                      //Transforma um array em um tipo json
+        file_put_contents(APPDATA_PATH."exercises.json", $salveFile);
+    }
+
+    public function remove_exercise($id){
+        $file = $this->openFile();
+
+        $newFile = [];
+
+        foreach ($file as $exercise){
+            if ($exercise['id'] != $id){
+                $newFile[] = $exercise;
+            }
+        }
+
+        $salveFile = json_encode($newFile, JSON_PRETTY_PRINT);                                      //Transforma um array em um tipo json
+        file_put_contents(APPDATA_PATH."exercises.json", $salveFile);
+    }
+
+    public function edit_exercise(array $edit_exercise){
+        $file = $this->openFile();
+
+        foreach ($file as $key => $exercise){
+            if ($exercise['id_exercise'] == $edit_exercise['id_exercise']){
+                $file[$key] = $edit_exercise;
+            }
+        }
+
+        $salveFile = json_encode($file, JSON_PRETTY_PRINT);                                      //Transforma um array em um tipo json
+        file_put_contents(APPDATA_PATH."exercises.json", $salveFile);
+    }
+
 }

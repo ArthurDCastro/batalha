@@ -15,46 +15,46 @@
             <div class="modal-body">
                 <div class="row">
                     <div class="col-md-12">
-                        <form action="<?=base_url("/admin/edit_exercise?id={$exercise['id_exercise']}")?>" method="post">
+                        <form action="<?=base_url("/admin/add_exercise")?>" method="post">
 
                             <div class="form-row">
                                 <!--nome-->
                                 <div class="col form-group col-md-6">
                                     <label for="exercise">Nome</label>
-                                    <input type="text" class="form-control" id="exercise" name="exercise" value="<?=$exercise['exercise']?>">
+                                    <input type="text" class="form-control" id="exercise" name="exercise" ">
                                 </div>
 
                                 <!--Nome da func-->
                                 <div class="col form-group col-md-6">
                                     <label for="func_name">Nome da Função</label>
-                                    <input type="text" class="form-control" id="func_name" name="func_name" value="<?=$exercise['func_name']?>">
+                                    <input type="text" class="form-control" id="func_name" name="func_name" >
                                 </div>
                             </div>
                             <div class="form-row">
                                 <!--telefone-->
                                 <div class="col form-group col-md-6">
                                     <label for="inputs">Inputs</label>
-                                    <input type="text" class="form-control" id="inputs" name="inputs" value="<?=$exercise['inputs']?>">
+                                    <input type="text" class="form-control" id="inputs" name="inputs" >
                                 </div>
                                 <div class="col form-group col-md-6">
                                     <label for="expecteds">Saidas</label>
-                                    <input type="text" class="form-control" id="expecteds" name="expecteds" value="<?=$exercise['expecteds']?>">
+                                    <input type="text" class="form-control" id="expecteds" name="expecteds">
                                 </div>
                             </div>
                             <div class="form-row">
                                 <div class="col form-group col-md-6">
                                     <label for="deadline">Tempo</label>
-                                    <input type="number" class="form-control" id="deadline" name="deadline" value="<?=$exercise['deadline']/60?>">
+                                    <input type="number" class="form-control" id="deadline" name="deadline">
                                 </div>
                                 <div class="col form-group col-md-6">
                                     <label for="status">Status</label>
-                                    <input type="text" class="form-control" id="status" name="status" value="<?=$exercise['status']?>">
+                                    <input type="text" class="form-control" id="status" name="status">
                                 </div>
                             </div>
                             <div class="form-row">
                                 <div class="col form-group col-md-12" >
                                     <label for="description">Descrição</label> <br>
-                                    <textarea class="form-control" rows="5" id="description"  name="description"><?=$exercise['description']?></textarea>
+                                    <textarea class="form-control" rows="5" id="description"  name="description">   </textarea>
                                 </div>
                             </div>
                             <div class="form-group col-md-12">

@@ -29,5 +29,9 @@
                 </tbody>
             </table>
         </div>
+        <div>
+            <h2>Adicionar Exercício <a href="<?=base_url("/admin/add_exercise_view")?>" type="button" class="btn btn-primary"><i class="fa fa-plus"></i></a></h2>
+
+        </div>
     </div>
 </div>

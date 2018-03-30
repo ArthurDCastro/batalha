@@ -1,183 +1,1074 @@
 [
     {
-      "id_exercise": 1,
-      "func_name"  : "soma",
-      "exercise"   : "Somar Valores",
-      "inputs"     : [[1,2], [2,2], [5,3],[1,2], [9,1]],
-      "expecteds"  : [[3],[4], [8], [3], [10]],
-      "deadline"   : 600,
-      "status"     : "aberto",
-      "fight"      : ["ifc", "victor","heitor", "jeliel", "lucas", "arthur", "pedro", "felipe", "vitor", "jessica", "guilherme", "rafael"],
-      "description": "<strong>Nomeie sua fun\u00e7\u00e3o de: soma</strong><br><br> Escreva uma fun\u00e7\u00e3o que receba dois inteiros como par\u00e2metros e retorne a soma dos dois n\u00fameros.<br /><br /><strong>Exemplo:</strong><br /><br />Para param1 = 1 e param2 = 2, a sa\u00edda deve ser soma(param1, param2) = 3.<br /><br /><strong>Entradas:</strong><br /><br />[Entrada] n\u00famero inteiro param1<br />[Entrada] n\u00famero inteiro param2<br /><br /><strong>Sa\u00edda:</strong><br /><br />Um n\u00famero inteiro que represente a soma das duas entradas."
-    },{
-      "id_exercise": 2,
-      "func_name"  : "alugueis",
-      "exercise"   : "Lucro de alugueis",
-      "inputs"     : [ [[[800, 200, 500],[500, 600, 400],[500, 0, 500]]], [[[0, 0, 0],[0, 0, 0],[0, 0, 0]]], [[[10, 10, 10],[10, 10, 10],[10, 10, 10]]]],
-      "expecteds"  : [[3900], [-900], [90]],
-      "deadline"   : 900,
-      "status"     : "aberto",
-      "fight"      : ["ifc", "lucas", "arthur"],
-      "description": "<strong>Nomeie sua fun\u00e7\u00e3o de: alugueis</strong><br><br> <strong>Tempo: </strong> 15 minutos"
-    },{
-      "id_exercise": 3,
-      "func_name"  : "chineque",
-      "exercise"   : "Dividindo os chineques",
-      "inputs"     : [[3,10], [5,10], [7,10],[1,2], [9,1]],
-      "expecteds"  : [[9], [10], [7], [2], [0]],
-      "deadline"   : 1200,
-      "status"     : "aberto",
-      "fight"      : ["ifc"],
-      "description": "<strong>Nomeie sua fun\u00e7\u00e3o de: chineque</strong><br><br> <strong>Tempo: </strong> 15 minutos"
-    },{
-      "id_exercise": 4,
-      "func_name"  : "maior_numero",
-      "exercise"   : "Maior numero de n digitos",
-      "inputs"     : [[6], [8], [14],[1], [3]],
-      "expecteds"  : [[999999],[99999999], [99999999999999], [9], [999]],
-      "deadline"   : 900,
-      "status"     : "aberto",
-      "fight"      : ["ifc", "rafael", "victor"],
-      "description": "<strong>Nomeie sua fun\u00e7\u00e3o de: maior_numero</strong><br><br> <strong>Tempo: </strong> 20 minutos"
-    },{
-      "id_exercise": 5,
-      "func_name"  : "maiores_strings",
-      "exercise"   : "Maiores Strings",
-      "inputs"     : [[["aba", "aa", "ad", "vcd", "aba"]], [ ["x","xy", "xyz"]]],
-      "expecteds"  : [[["aba", "vcd", "aba"]],[["xyz"]]],
-      "deadline"   : 1200,
-      "status"     : "aberto",
-      "fight"      : ["ifc", "jeliel", "heitor"],
-      "description": "<strong>Nomeie sua fun\u00e7\u00e3o de: maiores_strings</strong><br><br> <strong>Tempo: </strong> 25 minutos"
-    },{
-      "id_exercise": 6,
-      "func_name"  : "repetidos",
-      "exercise"   : "Caracteres repetidos",
-      "inputs"     : [["aabcc"], ["adcaa"], ["abc"],["cba"], ["aabcc"]],
-      "expecteds"  : [[2],[1], [0], [0], [2]],
-      "deadline"   : 1500,
-      "status"     : "aberto",
-      "fight"      : ["ifc", "pedro", "felipe"],
-      "description": "<strong>Nomeie sua fun\u00e7\u00e3o de: repetidos</strong><br><br> <strong>Tempo: </strong> 12 minutos"
-    },{
-      "id_exercise": 7,
-      "func_name"  : "palindromo",
-      "exercise"   : "Encontrando palindromos",
-      "inputs"     : [["ana"], ["sol"], ["arara"], ["araquari"], ["ovo"]],
-      "expecteds"  : [[true], [false], [true], [false],[true]],
-      "deadline"   : 600,
-      "status"     : "aberto",
-      "fight"      : ["ifc", "vitor", "arthur"],
-      "description": "<strong>Nomeie sua fun\u00e7\u00e3o de: palindromo</strong><br><br> <strong>Tempo: </strong> 18 minutos"
-    },{
-      "id_exercise": 8,
-      "func_name"  : "fila",
-      "exercise"   : "Ordenar Listas",
-      "inputs"     : [[[1,4,5,2,4,5,0]], [[3,2,1]], [[2,3,1]], [[0,0,1]], [[4,3,5,6,2,1,0]]],
-      "expecteds"  : [[[0,1,2,4,4,5,5]], [[1,2,3]], [[1,2,3]], [[0,0,1]], [[0,1,2,3,4,5,6]]],
-      "deadline"   : 600,
-      "status"     : "aberto",
-      "fight"      : ["ifc", "jessica", "guilherme"],
-      "description": "<strong>Nomeie sua fun\u00e7\u00e3o de: fila</strong><br><br> <strong>Tempo: </strong> 18 minutos"
-    },{
-      "id_exercise": 9,
-      "func_name"  : "soma_dupla",
-      "exercise"   : "Soma dupla",
-      "inputs"     : [[[1,4,5,2,4,5,0], 5], [[1,4,5,2,4,5,0], 30], [[1,4,5,2,4,5,0], 15],[[1,4,5,2,4,5,0], 9], [[1,4,5,2,4,5,0], 7]],
-      "expecteds"  : [[true],[false], [false], [true], [true]],
-      "deadline"   : 1500,
-      "status"     : "aberto",
-      "fight"      : ["ifc"],
-      "description": "<strong>Nomeie sua fun\u00e7\u00e3o de: soma_dupla</strong><br><br> <strong>Tempo: </strong> 15 minutos"
-    },{
-      "id_exercise": 10,
-      "func_name"  : "combinacoes",
-      "exercise"   : "Vamos combinar",
-      "inputs"     : [["CBA"], ["ABA"], ["A"],["C"], ["D"]],
-      "expecteds"  : [[["ABC", "ACB", "BAC", "BCA", "CAB", "CBA"]],[["AAB", "ABA", "BAA"]], [["A"]], [["C"]], [["D"]]],
-      "deadline"   : 1200,
-      "status"     : "aberto",
-      "fight"      : ["ifc", "lucas", "guilherme"],
-      "description": "<strong>Nomeie sua fun\u00e7\u00e3o de: combinacoes</strong><br><br> <strong>Tempo: </strong> 18 minutos"
-    },{
-      "id_exercise": 11,
-      "func_name"  : "reverso",
-      "exercise"   : "Reverso de um numero",
-      "inputs"     : [[321],[999], [789], [12], [9]],
-      "expecteds"  : [[123],[999], [987], [21], [9]],
-      "deadline"   : 1500,
-      "status"     : "aberto",
-      "fight"      : ["ifc", "pedro", "lucas"],
-      "description": "<strong>Nomeie sua fun\u00e7\u00e3o de: reverso</strong><br><br> <strong>Tempo: </strong> 16 minutos"
-    },{
-      "id_exercise": 12,
-      "func_name"  : "triangulo",
-      "exercise"   : "Mas e triangulo ou nao e",
-      "inputs"     : [[2,2,2], [2,200, 8], [5,7,9],[7,7,7], [9,1, 0]],
-      "expecteds"  : [[true],  [false],    [true], [true], [false]],
-      "deadline"   : 600,
-      "status"     : "aberto",
-      "fight"      : ["ifc"],
-      "description": "<strong>Nomeie sua fun\u00e7\u00e3o de: triangulo</strong><br><br> <strong>Tempo: </strong> 15 minutos"
-    },{
-      "id_exercise": 13,
-      "func_name"  : "produto_vizinhos",
-      "exercise"   : "Multiplicando os vizinhos",
-      "inputs"     : [[[3, 6, 10, 15, 7, 3]], [[3, 6, -2, -5, 7, 3]], [[3, 6, 1]],[[2, 2, 2, 2, 2, 5]], [[2, 5, 1, 1, 1, 1]]],
-      "expecteds"  : [[150],[21], [18], [10], [10]],
-      "deadline"   : 960,
-      "status"     : "aberto",
-      "fight"      : ["ifc", "lucas", "arthur"],
-      "description": "<strong>Nomeie sua fun\u00e7\u00e3o de: produto_vizinhos</strong><br><br> <strong>Tempo: </strong> 18 minutos"
-    },{
-      "id_exercise": 14,
-      "func_name"  : "telefones",
-      "exercise"   : "Telefones",
-      "inputs"     : [[242468], [842468], [242467],[242461], [242468]],
-      "expecteds"  : [[true],[false], [false], [false], [true]],
-      "deadline"   : 1200,
-      "status"     : "aberto",
-      "fight"      : ["ifc", "arthur"],
-      "description": "<strong>Nomeie sua fun\u00e7\u00e3o de: telefones</strong><br><br> <strong>Tempo: </strong> 18 minutos"
-    },{
-      "id_exercise": 15,
-      "func_name"  : "fibonnacci",
-      "exercise"   : "Fibonnacci",
-      "inputs"     : [[4], [5], [15],[16], [11]],
-      "expecteds"  : [[2],[3], [377], [610], [55]],
-      "deadline"   : 600,
-      "status"     : "aberto",
-      "fight"      : ["ifc"],
-      "description": "<strong>Nomeie sua fun\u00e7\u00e3o de: fibonnacci</strong><br><br> <strong>Tempo: </strong> 20 minutos"
-    },{
-      "id_exercise": 16,
-      "func_name"  : "linguica",
-      "exercise"   : "Linguica",
-      "inputs"     : [[8], [12], [10],[11], [21]],
-      "expecteds"  : [[64],[90], [80], [82.5], [157.5]],
-      "deadline"   : 1020,
-      "status"     : "aberto",
-      "fight"      : ["ifc","victor"],
-      "description": "<strong>Nomeie sua fun\u00e7\u00e3o de: linguica</strong><br><br> <strong>Tempo: </strong> 12 minutos"
-    },{
-      "id_exercise": 17,
-      "func_name"  : "troca",
-      "exercise"   : "Troca",
-      "inputs"     : [[[1,2,3,4,5,6,7,8,9,10]], [[6,7,8,9,10,1,2,3,4,5]]],
-      "expecteds"  : [[[6,7,8,9,10,1,2,3,4,5]], [[1,2,3,4,5,6,7,8,9,10]]],
-      "deadline"   : 1080,
-      "status"     : "aberto",
-      "fight"      : ["ifc", "guilherme", "rafael"],
-      "description": "<strong>Nomeie sua fun\u00e7\u00e3o de: troca</strong><br><br> <strong>Tempo: </strong> 18 minutos"
-    },{
-      "id_exercise": 18,
-      "func_name"  : "posicao_maior",
-      "exercise"   : "Posicao do maior",
-      "inputs"     : [[[6,7,8,9,10,1,2,3,4,5]], [[99,7,8,9,10,1,2,3,4,5]], [[2,4,6]], [[2,4,6]], [[2,4,6]] ],
-      "expecteds"  : [[4],[0], [2], [2], [2]],
-      "deadline"   : 540,
-      "status"     : "aberto",
-      "fight"      : ["ifc","vitor", "jessica"],
-      "description": "<strong>Nomeie sua fun\u00e7\u00e3o de: posicao_maior</strong><br><br> <strong>Tempo: </strong> 15 minutos"
+        "id_exercise": 1,
+        "func_name": "soma",
+        "exercise": "Somar Valores",
+        "inputs": "[1, 2], [2, 2], [5, 3], [1, 2], [9, 1]",
+        "expecteds": "[3], [4], [8], [3], [10]",
+        "deadline": 660,
+        "status": "aberto",
+        "fight": [
+            "ifc",
+            "victor",
+            "heitor",
+            "jeliel",
+            "lucas",
+            "arthur",
+            "pedro",
+            "felipe",
+            "vitor",
+            "jessica",
+            "guilherme",
+            "rafael"
+        ],
+        "description": "<strong>Nomeie sua fun\u00e7\u00e3o de: soma<\/strong><br><br> Escreva uma fun\u00e7\u00e3o que receba dois inteiros como par\u00e2metros e retorne a soma dos dois n\u00fameros.<br \/><br \/><strong>Exemplo:<\/strong><br \/><br \/>Para param1 = 1 e param2 = 2, a sa\u00edda deve ser soma(param1, param2) = 3.<br \/><br \/><strong>Entradas:<\/strong><br \/><br \/>[Entrada] n\u00famero inteiro param1<br \/>[Entrada] n\u00famero inteiro param2<br \/><br \/><strong>Sa\u00edda:<\/strong><br \/><br \/>Um n\u00famero inteiro que represente a soma das duas entradas."
+    },
+    {
+        "id_exercise": 2,
+        "func_name": "alugueis",
+        "exercise": "Lucro de alugueis",
+        "inputs": [
+            [
+                [
+                    [
+                        800,
+                        200,
+                        500
+                    ],
+                    [
+                        500,
+                        600,
+                        400
+                    ],
+                    [
+                        500,
+                        0,
+                        500
+                    ]
+                ]
+            ],
+            [
+                [
+                    [
+                        0,
+                        0,
+                        0
+                    ],
+                    [
+                        0,
+                        0,
+                        0
+                    ],
+                    [
+                        0,
+                        0,
+                        0
+                    ]
+                ]
+            ],
+            [
+                [
+                    [
+                        10,
+                        10,
+                        10
+                    ],
+                    [
+                        10,
+                        10,
+                        10
+                    ],
+                    [
+                        10,
+                        10,
+                        10
+                    ]
+                ]
+            ]
+        ],
+        "expecteds": [
+            [
+                3900
+            ],
+            [
+                -900
+            ],
+            [
+                90
+            ]
+        ],
+        "deadline": 900,
+        "status": "aberto",
+        "fight": [
+            "ifc",
+            "lucas",
+            "arthur"
+        ],
+        "description": "<strong>Nomeie sua fun\u00e7\u00e3o de: alugueis<\/strong><br><br> <strong>Tempo: <\/strong> 15 minutos"
+    },
+    {
+        "id_exercise": 3,
+        "func_name": "chineque",
+        "exercise": "Dividindo os chineques",
+        "inputs": [
+            [
+                3,
+                10
+            ],
+            [
+                5,
+                10
+            ],
+            [
+                7,
+                10
+            ],
+            [
+                1,
+                2
+            ],
+            [
+                9,
+                1
+            ]
+        ],
+        "expecteds": [
+            [
+                9
+            ],
+            [
+                10
+            ],
+            [
+                7
+            ],
+            [
+                2
+            ],
+            [
+                0
+            ]
+        ],
+        "deadline": 1200,
+        "status": "aberto",
+        "fight": [
+            "ifc"
+        ],
+        "description": "<strong>Nomeie sua fun\u00e7\u00e3o de: chineque<\/strong><br><br> <strong>Tempo: <\/strong> 15 minutos"
+    },
+    {
+        "id_exercise": 4,
+        "func_name": "maior_numero",
+        "exercise": "Maior numero de n digitos",
+        "inputs": [
+            [
+                6
+            ],
+            [
+                8
+            ],
+            [
+                14
+            ],
+            [
+                1
+            ],
+            [
+                3
+            ]
+        ],
+        "expecteds": [
+            [
+                999999
+            ],
+            [
+                99999999
+            ],
+            [
+                99999999999999
+            ],
+            [
+                9
+            ],
+            [
+                999
+            ]
+        ],
+        "deadline": 900,
+        "status": "aberto",
+        "fight": [
+            "ifc",
+            "rafael",
+            "victor"
+        ],
+        "description": "<strong>Nomeie sua fun\u00e7\u00e3o de: maior_numero<\/strong><br><br> <strong>Tempo: <\/strong> 20 minutos"
+    },
+    {
+        "id_exercise": 5,
+        "func_name": "maiores_strings",
+        "exercise": "Maiores Strings",
+        "inputs": [
+            [
+                [
+                    "aba",
+                    "aa",
+                    "ad",
+                    "vcd",
+                    "aba"
+                ]
+            ],
+            [
+                [
+                    "x",
+                    "xy",
+                    "xyz"
+                ]
+            ]
+        ],
+        "expecteds": [
+            [
+                [
+                    "aba",
+                    "vcd",
+                    "aba"
+                ]
+            ],
+            [
+                [
+                    "xyz"
+                ]
+            ]
+        ],
+        "deadline": 1200,
+        "status": "aberto",
+        "fight": [
+            "ifc",
+            "jeliel",
+            "heitor"
+        ],
+        "description": "<strong>Nomeie sua fun\u00e7\u00e3o de: maiores_strings<\/strong><br><br> <strong>Tempo: <\/strong> 25 minutos"
+    },
+    {
+        "id_exercise": 6,
+        "func_name": "repetidos",
+        "exercise": "Caracteres repetidos",
+        "inputs": [
+            [
+                "aabcc"
+            ],
+            [
+                "adcaa"
+            ],
+            [
+                "abc"
+            ],
+            [
+                "cba"
+            ],
+            [
+                "aabcc"
+            ]
+        ],
+        "expecteds": [
+            [
+                2
+            ],
+            [
+                1
+            ],
+            [
+                0
+            ],
+            [
+                0
+            ],
+            [
+                2
+            ]
+        ],
+        "deadline": 1500,
+        "status": "aberto",
+        "fight": [
+            "ifc",
+            "pedro",
+            "felipe"
+        ],
+        "description": "<strong>Nomeie sua fun\u00e7\u00e3o de: repetidos<\/strong><br><br> <strong>Tempo: <\/strong> 12 minutos"
+    },
+    {
+        "id_exercise": 7,
+        "func_name": "palindromo",
+        "exercise": "Encontrando palindromos",
+        "inputs": [
+            [
+                "ana"
+            ],
+            [
+                "sol"
+            ],
+            [
+                "arara"
+            ],
+            [
+                "araquari"
+            ],
+            [
+                "ovo"
+            ]
+        ],
+        "expecteds": [
+            [
+                true
+            ],
+            [
+                false
+            ],
+            [
+                true
+            ],
+            [
+                false
+            ],
+            [
+                true
+            ]
+        ],
+        "deadline": 600,
+        "status": "aberto",
+        "fight": [
+            "ifc",
+            "vitor",
+            "arthur"
+        ],
+        "description": "<strong>Nomeie sua fun\u00e7\u00e3o de: palindromo<\/strong><br><br> <strong>Tempo: <\/strong> 18 minutos"
+    },
+    {
+        "id_exercise": 8,
+        "func_name": "fila",
+        "exercise": "Ordenar Listas",
+        "inputs": [
+            [
+                [
+                    1,
+                    4,
+                    5,
+                    2,
+                    4,
+                    5,
+                    0
+                ]
+            ],
+            [
+                [
+                    3,
+                    2,
+                    1
+                ]
+            ],
+            [
+                [
+                    2,
+                    3,
+                    1
+                ]
+            ],
+            [
+                [
+                    0,
+                    0,
+                    1
+                ]
+            ],
+            [
+                [
+                    4,
+                    3,
+                    5,
+                    6,
+                    2,
+                    1,
+                    0
+                ]
+            ]
+        ],
+        "expecteds": [
+            [
+                [
+                    0,
+                    1,
+                    2,
+                    4,
+                    4,
+                    5,
+                    5
+                ]
+            ],
+            [
+                [
+                    1,
+                    2,
+                    3
+                ]
+            ],
+            [
+                [
+                    1,
+                    2,
+                    3
+                ]
+            ],
+            [
+                [
+                    0,
+                    0,
+                    1
+                ]
+            ],
+            [
+                [
+                    0,
+                    1,
+                    2,
+                    3,
+                    4,
+                    5,
+                    6
+                ]
+            ]
+        ],
+        "deadline": 600,
+        "status": "aberto",
+        "fight": [
+            "ifc",
+            "jessica",
+            "guilherme"
+        ],
+        "description": "<strong>Nomeie sua fun\u00e7\u00e3o de: fila<\/strong><br><br> <strong>Tempo: <\/strong> 18 minutos"
+    },
+    {
+        "id_exercise": 9,
+        "func_name": "soma_dupla",
+        "exercise": "Soma dupla",
+        "inputs": [
+            [
+                [
+                    1,
+                    4,
+                    5,
+                    2,
+                    4,
+                    5,
+                    0
+                ],
+                5
+            ],
+            [
+                [
+                    1,
+                    4,
+                    5,
+                    2,
+                    4,
+                    5,
+                    0
+                ],
+                30
+            ],
+            [
+                [
+                    1,
+                    4,
+                    5,
+                    2,
+                    4,
+                    5,
+                    0
+                ],
+                15
+            ],
+            [
+                [
+                    1,
+                    4,
+                    5,
+                    2,
+                    4,
+                    5,
+                    0
+                ],
+                9
+            ],
+            [
+                [
+                    1,
+                    4,
+                    5,
+                    2,
+                    4,
+                    5,
+                    0
+                ],
+                7
+            ]
+        ],
+        "expecteds": [
+            [
+                true
+            ],
+            [
+                false
+            ],
+            [
+                false
+            ],
+            [
+                true
+            ],
+            [
+                true
+            ]
+        ],
+        "deadline": 1500,
+        "status": "aberto",
+        "fight": [
+            "ifc"
+        ],
+        "description": "<strong>Nomeie sua fun\u00e7\u00e3o de: soma_dupla<\/strong><br><br> <strong>Tempo: <\/strong> 15 minutos"
+    },
+    {
+        "id_exercise": 10,
+        "func_name": "combinacoes",
+        "exercise": "Vamos combinar",
+        "inputs": [
+            [
+                "CBA"
+            ],
+            [
+                "ABA"
+            ],
+            [
+                "A"
+            ],
+            [
+                "C"
+            ],
+            [
+                "D"
+            ]
+        ],
+        "expecteds": [
+            [
+                [
+                    "ABC",
+                    "ACB",
+                    "BAC",
+                    "BCA",
+                    "CAB",
+                    "CBA"
+                ]
+            ],
+            [
+                [
+                    "AAB",
+                    "ABA",
+                    "BAA"
+                ]
+            ],
+            [
+                [
+                    "A"
+                ]
+            ],
+            [
+                [
+                    "C"
+                ]
+            ],
+            [
+                [
+                    "D"
+                ]
+            ]
+        ],
+        "deadline": 1200,
+        "status": "aberto",
+        "fight": [
+            "ifc",
+            "lucas",
+            "guilherme"
+        ],
+        "description": "<strong>Nomeie sua fun\u00e7\u00e3o de: combinacoes<\/strong><br><br> <strong>Tempo: <\/strong> 18 minutos"
+    },
+    {
+        "id_exercise": 11,
+        "func_name": "reverso",
+        "exercise": "Reverso de um numero",
+        "inputs": [
+            [
+                321
+            ],
+            [
+                999
+            ],
+            [
+                789
+            ],
+            [
+                12
+            ],
+            [
+                9
+            ]
+        ],
+        "expecteds": [
+            [
+                123
+            ],
+            [
+                999
+            ],
+            [
+                987
+            ],
+            [
+                21
+            ],
+            [
+                9
+            ]
+        ],
+        "deadline": 1500,
+        "status": "aberto",
+        "fight": [
+            "ifc",
+            "pedro",
+            "lucas"
+        ],
+        "description": "<strong>Nomeie sua fun\u00e7\u00e3o de: reverso<\/strong><br><br> <strong>Tempo: <\/strong> 16 minutos"
+    },
+    {
+        "id_exercise": 12,
+        "func_name": "triangulo",
+        "exercise": "Mas e triangulo ou nao e",
+        "inputs": [
+            [
+                2,
+                2,
+                2
+            ],
+            [
+                2,
+                200,
+                8
+            ],
+            [
+                5,
+                7,
+                9
+            ],
+            [
+                7,
+                7,
+                7
+            ],
+            [
+                9,
+                1,
+                0
+            ]
+        ],
+        "expecteds": [
+            [
+                true
+            ],
+            [
+                false
+            ],
+            [
+                true
+            ],
+            [
+                true
+            ],
+            [
+                false
+            ]
+        ],
+        "deadline": 600,
+        "status": "aberto",
+        "fight": [
+            "ifc"
+        ],
+        "description": "<strong>Nomeie sua fun\u00e7\u00e3o de: triangulo<\/strong><br><br> <strong>Tempo: <\/strong> 15 minutos"
+    },
+    {
+        "id_exercise": 13,
+        "func_name": "produto_vizinhos",
+        "exercise": "Multiplicando os vizinhos",
+        "inputs": [
+            [
+                [
+                    3,
+                    6,
+                    10,
+                    15,
+                    7,
+                    3
+                ]
+            ],
+            [
+                [
+                    3,
+                    6,
+                    -2,
+                    -5,
+                    7,
+                    3
+                ]
+            ],
+            [
+                [
+                    3,
+                    6,
+                    1
+                ]
+            ],
+            [
+                [
+                    2,
+                    2,
+                    2,
+                    2,
+                    2,
+                    5
+                ]
+            ],
+            [
+                [
+                    2,
+                    5,
+                    1,
+                    1,
+                    1,
+                    1
+                ]
+            ]
+        ],
+        "expecteds": [
+            [
+                150
+            ],
+            [
+                21
+            ],
+            [
+                18
+            ],
+            [
+                10
+            ],
+            [
+                10
+            ]
+        ],
+        "deadline": 960,
+        "status": "aberto",
+        "fight": [
+            "ifc",
+            "lucas",
+            "arthur"
+        ],
+        "description": "<strong>Nomeie sua fun\u00e7\u00e3o de: produto_vizinhos<\/strong><br><br> <strong>Tempo: <\/strong> 18 minutos"
+    },
+    {
+        "id_exercise": 14,
+        "func_name": "telefones",
+        "exercise": "Telefones",
+        "inputs": [
+            [
+                242468
+            ],
+            [
+                842468
+            ],
+            [
+                242467
+            ],
+            [
+                242461
+            ],
+            [
+                242468
+            ]
+        ],
+        "expecteds": [
+            [
+                true
+            ],
+            [
+                false
+            ],
+            [
+                false
+            ],
+            [
+                false
+            ],
+            [
+                true
+            ]
+        ],
+        "deadline": 1200,
+        "status": "aberto",
+        "fight": [
+            "ifc",
+            "arthur"
+        ],
+        "description": "<strong>Nomeie sua fun\u00e7\u00e3o de: telefones<\/strong><br><br> <strong>Tempo: <\/strong> 18 minutos"
+    },
+    {
+        "id_exercise": 15,
+        "func_name": "fibonnacci",
+        "exercise": "Fibonnacci",
+        "inputs": [
+            [
+                4
+            ],
+            [
+                5
+            ],
+            [
+                15
+            ],
+            [
+                16
+            ],
+            [
+                11
+            ]
+        ],
+        "expecteds": [
+            [
+                2
+            ],
+            [
+                3
+            ],
+            [
+                377
+            ],
+            [
+                610
+            ],
+            [
+                55
+            ]
+        ],
+        "deadline": 600,
+        "status": "aberto",
+        "fight": [
+            "ifc"
+        ],
+        "description": "<strong>Nomeie sua fun\u00e7\u00e3o de: fibonnacci<\/strong><br><br> <strong>Tempo: <\/strong> 20 minutos"
+    },
+    {
+        "id_exercise": 16,
+        "func_name": "linguica",
+        "exercise": "Linguica",
+        "inputs": [
+            [
+                8
+            ],
+            [
+                12
+            ],
+            [
+                10
+            ],
+            [
+                11
+            ],
+            [
+                21
+            ]
+        ],
+        "expecteds": [
+            [
+                64
+            ],
+            [
+                90
+            ],
+            [
+                80
+            ],
+            [
+                82.5
+            ],
+            [
+                157.5
+            ]
+        ],
+        "deadline": 1020,
+        "status": "aberto",
+        "fight": [
+            "ifc",
+            "victor"
+        ],
+        "description": "<strong>Nomeie sua fun\u00e7\u00e3o de: linguica<\/strong><br><br> <strong>Tempo: <\/strong> 12 minutos"
+    },
+    {
+        "id_exercise": 17,
+        "func_name": "troca",
+        "exercise": "Troca",
+        "inputs": [
+            [
+                [
+                    1,
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7,
+                    8,
+                    9,
+                    10
+                ]
+            ],
+            [
+                [
+                    6,
+                    7,
+                    8,
+                    9,
+                    10,
+                    1,
+                    2,
+                    3,
+                    4,
+                    5
+                ]
+            ]
+        ],
+        "expecteds": [
+            [
+                [
+                    6,
+                    7,
+                    8,
+                    9,
+                    10,
+                    1,
+                    2,
+                    3,
+                    4,
+                    5
+                ]
+            ],
+            [
+                [
+                    1,
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7,
+                    8,
+                    9,
+                    10
+                ]
+            ]
+        ],
+        "deadline": 1080,
+        "status": "aberto",
+        "fight": [
+            "ifc",
+            "guilherme",
+            "rafael"
+        ],
+        "description": "<strong>Nomeie sua fun\u00e7\u00e3o de: troca<\/strong><br><br> <strong>Tempo: <\/strong> 18 minutos"
+    },
+    {
+        "id_exercise": 18,
+        "func_name": "posicao_maior",
+        "exercise": "Posicao do maior",
+        "inputs": [
+            [
+                [
+                    6,
+                    7,
+                    8,
+                    9,
+                    10,
+                    1,
+                    2,
+                    3,
+                    4,
+                    5
+                ]
+            ],
+            [
+                [
+                    99,
+                    7,
+                    8,
+                    9,
+                    10,
+                    1,
+                    2,
+                    3,
+                    4,
+                    5
+                ]
+            ],
+            [
+                [
+                    2,
+                    4,
+                    6
+                ]
+            ],
+            [
+                [
+                    2,
+                    4,
+                    6
+                ]
+            ],
+            [
+                [
+                    2,
+                    4,
+                    6
+                ]
+            ]
+        ],
+        "expecteds": [
+            [
+                4
+            ],
+            [
+                0
+            ],
+            [
+                2
+            ],
+            [
+                2
+            ],
+            [
+                2
+            ]
+        ],
+        "deadline": 540,
+        "status": "aberto",
+        "fight": [
+            "ifc",
+            "vitor",
+            "jessica"
+        ],
+        "description": "<strong>Nomeie sua fun\u00e7\u00e3o de: posicao_maior<\/strong><br><br> <strong>Tempo: <\/strong> 15 minutos"
     }
 ]

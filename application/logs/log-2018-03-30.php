@@ -6535,3 +6535,1904 @@ INFO - 2018-03-30 18:12:37 --> File loaded: C:\xampp\htdocs\algoritmos\batalha_a
 INFO - 2018-03-30 18:12:37 --> File loaded: C:\xampp\htdocs\algoritmos\batalha_algoritmos\application\views\admin/edit_exercice.php
 INFO - 2018-03-30 18:12:37 --> Final output sent to browser
 DEBUG - 2018-03-30 18:12:37 --> Total execution time: 0.3990
+INFO - 2018-03-30 18:22:03 --> Config Class Initialized
+INFO - 2018-03-30 18:22:03 --> Hooks Class Initialized
+DEBUG - 2018-03-30 18:22:03 --> UTF-8 Support Enabled
+INFO - 2018-03-30 18:22:03 --> Utf8 Class Initialized
+INFO - 2018-03-30 18:22:03 --> URI Class Initialized
+INFO - 2018-03-30 18:22:03 --> Router Class Initialized
+INFO - 2018-03-30 18:22:03 --> Output Class Initialized
+INFO - 2018-03-30 18:22:03 --> Security Class Initialized
+DEBUG - 2018-03-30 18:22:03 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-03-30 18:22:03 --> Input Class Initialized
+INFO - 2018-03-30 18:22:04 --> Language Class Initialized
+INFO - 2018-03-30 18:22:04 --> Loader Class Initialized
+INFO - 2018-03-30 18:22:04 --> Helper loaded: url_helper
+INFO - 2018-03-30 18:22:04 --> Helper loaded: string_helper
+INFO - 2018-03-30 18:22:04 --> Helper loaded: download_helper
+INFO - 2018-03-30 18:22:04 --> Helper loaded: form_helper
+INFO - 2018-03-30 18:22:04 --> Upload Class Initialized
+DEBUG - 2018-03-30 18:22:04 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2018-03-30 18:22:04 --> Session: Class initialized using 'files' driver.
+INFO - 2018-03-30 18:22:04 --> Controller Class Initialized
+INFO - 2018-03-30 18:22:04 --> Model Class Initialized
+INFO - 2018-03-30 18:22:04 --> Helper loaded: date_helper
+INFO - 2018-03-30 18:22:04 --> File loaded: C:\xampp\htdocs\algoritmos\batalha_algoritmos\application\views\admin/admin.php
+INFO - 2018-03-30 18:22:04 --> File loaded: C:\xampp\htdocs\algoritmos\batalha_algoritmos\application\views\admin/exercice.php
+INFO - 2018-03-30 18:22:04 --> File loaded: C:\xampp\htdocs\algoritmos\batalha_algoritmos\application\views\footer.php
+INFO - 2018-03-30 18:22:04 --> File loaded: C:\xampp\htdocs\algoritmos\batalha_algoritmos\application\views\admin/edit_exercice.php
+INFO - 2018-03-30 18:22:04 --> Final output sent to browser
+DEBUG - 2018-03-30 18:22:04 --> Total execution time: 0.4258
+INFO - 2018-03-30 18:22:05 --> Config Class Initialized
+INFO - 2018-03-30 18:22:05 --> Hooks Class Initialized
+DEBUG - 2018-03-30 18:22:05 --> UTF-8 Support Enabled
+INFO - 2018-03-30 18:22:05 --> Utf8 Class Initialized
+INFO - 2018-03-30 18:22:05 --> URI Class Initialized
+INFO - 2018-03-30 18:22:05 --> Router Class Initialized
+INFO - 2018-03-30 18:22:05 --> Output Class Initialized
+INFO - 2018-03-30 18:22:05 --> Security Class Initialized
+DEBUG - 2018-03-30 18:22:05 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-03-30 18:22:05 --> Input Class Initialized
+INFO - 2018-03-30 18:22:05 --> Language Class Initialized
+INFO - 2018-03-30 18:22:05 --> Loader Class Initialized
+INFO - 2018-03-30 18:22:05 --> Helper loaded: url_helper
+INFO - 2018-03-30 18:22:05 --> Helper loaded: string_helper
+INFO - 2018-03-30 18:22:05 --> Helper loaded: download_helper
+INFO - 2018-03-30 18:22:05 --> Helper loaded: form_helper
+INFO - 2018-03-30 18:22:05 --> Upload Class Initialized
+DEBUG - 2018-03-30 18:22:05 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2018-03-30 18:22:05 --> Session: Class initialized using 'files' driver.
+INFO - 2018-03-30 18:22:05 --> Controller Class Initialized
+INFO - 2018-03-30 18:22:05 --> Model Class Initialized
+INFO - 2018-03-30 18:22:05 --> Final output sent to browser
+DEBUG - 2018-03-30 18:22:05 --> Total execution time: 0.3458
+INFO - 2018-03-30 18:29:16 --> Config Class Initialized
+INFO - 2018-03-30 18:29:16 --> Hooks Class Initialized
+DEBUG - 2018-03-30 18:29:16 --> UTF-8 Support Enabled
+INFO - 2018-03-30 18:29:16 --> Utf8 Class Initialized
+INFO - 2018-03-30 18:29:16 --> URI Class Initialized
+INFO - 2018-03-30 18:29:16 --> Router Class Initialized
+INFO - 2018-03-30 18:29:16 --> Output Class Initialized
+INFO - 2018-03-30 18:29:16 --> Security Class Initialized
+DEBUG - 2018-03-30 18:29:16 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-03-30 18:29:16 --> Input Class Initialized
+INFO - 2018-03-30 18:29:16 --> Language Class Initialized
+INFO - 2018-03-30 18:29:16 --> Loader Class Initialized
+INFO - 2018-03-30 18:29:16 --> Helper loaded: url_helper
+INFO - 2018-03-30 18:29:16 --> Helper loaded: string_helper
+INFO - 2018-03-30 18:29:16 --> Helper loaded: download_helper
+INFO - 2018-03-30 18:29:16 --> Helper loaded: form_helper
+INFO - 2018-03-30 18:29:16 --> Upload Class Initialized
+DEBUG - 2018-03-30 18:29:17 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2018-03-30 18:29:17 --> Session: Class initialized using 'files' driver.
+INFO - 2018-03-30 18:29:17 --> Controller Class Initialized
+INFO - 2018-03-30 18:29:17 --> Model Class Initialized
+ERROR - 2018-03-30 18:29:17 --> Severity: Notice --> Undefined index: func_name C:\xampp\htdocs\algoritmos\batalha_algoritmos\application\controllers\Admin.php 50
+ERROR - 2018-03-30 18:29:17 --> Severity: Notice --> Undefined index: exercise C:\xampp\htdocs\algoritmos\batalha_algoritmos\application\controllers\Admin.php 51
+ERROR - 2018-03-30 18:29:17 --> Severity: Notice --> Undefined index: inputs C:\xampp\htdocs\algoritmos\batalha_algoritmos\application\controllers\Admin.php 52
+ERROR - 2018-03-30 18:29:17 --> Severity: Notice --> Undefined index: expecteds C:\xampp\htdocs\algoritmos\batalha_algoritmos\application\controllers\Admin.php 53
+ERROR - 2018-03-30 18:29:17 --> Severity: Notice --> Undefined index: deadline C:\xampp\htdocs\algoritmos\batalha_algoritmos\application\controllers\Admin.php 54
+ERROR - 2018-03-30 18:29:17 --> Severity: Notice --> Undefined index: status C:\xampp\htdocs\algoritmos\batalha_algoritmos\application\controllers\Admin.php 55
+ERROR - 2018-03-30 18:29:17 --> Severity: Notice --> Undefined index: description C:\xampp\htdocs\algoritmos\batalha_algoritmos\application\controllers\Admin.php 57
+ERROR - 2018-03-30 18:29:17 --> Severity: Notice --> Undefined variable: user C:\xampp\htdocs\algoritmos\batalha_algoritmos\application\models\Exercises_model.php 187
+ERROR - 2018-03-30 18:29:17 --> Severity: Notice --> Undefined variable: user C:\xampp\htdocs\algoritmos\batalha_algoritmos\application\models\Exercises_model.php 187
+ERROR - 2018-03-30 18:29:17 --> Severity: Notice --> Undefined variable: user C:\xampp\htdocs\algoritmos\batalha_algoritmos\application\models\Exercises_model.php 187
+ERROR - 2018-03-30 18:29:17 --> Severity: Notice --> Undefined variable: user C:\xampp\htdocs\algoritmos\batalha_algoritmos\application\models\Exercises_model.php 187
+ERROR - 2018-03-30 18:29:17 --> Severity: Notice --> Undefined variable: user C:\xampp\htdocs\algoritmos\batalha_algoritmos\application\models\Exercises_model.php 187
+ERROR - 2018-03-30 18:29:17 --> Severity: Notice --> Undefined variable: user C:\xampp\htdocs\algoritmos\batalha_algoritmos\application\models\Exercises_model.php 187
+ERROR - 2018-03-30 18:29:17 --> Severity: Notice --> Undefined variable: user C:\xampp\htdocs\algoritmos\batalha_algoritmos\application\models\Exercises_model.php 187
+ERROR - 2018-03-30 18:29:17 --> Severity: Notice --> Undefined variable: user C:\xampp\htdocs\algoritmos\batalha_algoritmos\application\models\Exercises_model.php 187
+ERROR - 2018-03-30 18:29:17 --> Severity: Notice --> Undefined variable: user C:\xampp\htdocs\algoritmos\batalha_algoritmos\application\models\Exercises_model.php 187
+ERROR - 2018-03-30 18:29:17 --> Severity: Notice --> Undefined variable: user C:\xampp\htdocs\algoritmos\batalha_algoritmos\application\models\Exercises_model.php 187
+ERROR - 2018-03-30 18:29:17 --> Severity: Notice --> Undefined variable: user C:\xampp\htdocs\algoritmos\batalha_algoritmos\application\models\Exercises_model.php 187
+ERROR - 2018-03-30 18:29:17 --> Severity: Notice --> Undefined variable: user C:\xampp\htdocs\algoritmos\batalha_algoritmos\application\models\Exercises_model.php 187
+ERROR - 2018-03-30 18:29:17 --> Severity: Notice --> Undefined variable: user C:\xampp\htdocs\algoritmos\batalha_algoritmos\application\models\Exercises_model.php 187
+ERROR - 2018-03-30 18:29:17 --> Severity: Notice --> Undefined variable: user C:\xampp\htdocs\algoritmos\batalha_algoritmos\application\models\Exercises_model.php 187
+ERROR - 2018-03-30 18:29:17 --> Severity: Notice --> Undefined variable: user C:\xampp\htdocs\algoritmos\batalha_algoritmos\application\models\Exercises_model.php 187
+ERROR - 2018-03-30 18:29:17 --> Severity: Notice --> Undefined variable: user C:\xampp\htdocs\algoritmos\batalha_algoritmos\application\models\Exercises_model.php 187
+ERROR - 2018-03-30 18:29:17 --> Severity: Notice --> Undefined variable: user C:\xampp\htdocs\algoritmos\batalha_algoritmos\application\models\Exercises_model.php 187
+ERROR - 2018-03-30 18:29:17 --> Severity: Notice --> Undefined variable: user C:\xampp\htdocs\algoritmos\batalha_algoritmos\application\models\Exercises_model.php 187
+ERROR - 2018-03-30 18:29:17 --> Severity: Warning --> file_put_contents(C:\xampp\htdocs\algoritmos\batalha_algoritmos\data/data/users.json): failed to open stream: No such file or directory C:\xampp\htdocs\algoritmos\batalha_algoritmos\application\models\Exercises_model.php 193
+ERROR - 2018-03-30 18:29:17 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\algoritmos\batalha_algoritmos\system\core\Exceptions.php:271) C:\xampp\htdocs\algoritmos\batalha_algoritmos\system\helpers\url_helper.php 564
+INFO - 2018-03-30 18:29:56 --> Config Class Initialized
+INFO - 2018-03-30 18:29:56 --> Hooks Class Initialized
+DEBUG - 2018-03-30 18:29:56 --> UTF-8 Support Enabled
+INFO - 2018-03-30 18:29:56 --> Utf8 Class Initialized
+INFO - 2018-03-30 18:29:56 --> URI Class Initialized
+INFO - 2018-03-30 18:29:56 --> Router Class Initialized
+INFO - 2018-03-30 18:29:56 --> Output Class Initialized
+INFO - 2018-03-30 18:29:56 --> Security Class Initialized
+DEBUG - 2018-03-30 18:29:56 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-03-30 18:29:56 --> Input Class Initialized
+INFO - 2018-03-30 18:29:56 --> Language Class Initialized
+INFO - 2018-03-30 18:29:56 --> Loader Class Initialized
+INFO - 2018-03-30 18:29:56 --> Helper loaded: url_helper
+INFO - 2018-03-30 18:29:56 --> Helper loaded: string_helper
+INFO - 2018-03-30 18:29:56 --> Helper loaded: download_helper
+INFO - 2018-03-30 18:29:56 --> Helper loaded: form_helper
+INFO - 2018-03-30 18:29:56 --> Upload Class Initialized
+DEBUG - 2018-03-30 18:29:56 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2018-03-30 18:29:56 --> Session: Class initialized using 'files' driver.
+INFO - 2018-03-30 18:29:56 --> Controller Class Initialized
+INFO - 2018-03-30 18:29:56 --> Model Class Initialized
+INFO - 2018-03-30 18:29:56 --> Helper loaded: date_helper
+INFO - 2018-03-30 18:29:56 --> File loaded: C:\xampp\htdocs\algoritmos\batalha_algoritmos\application\views\admin/admin.php
+INFO - 2018-03-30 18:29:56 --> File loaded: C:\xampp\htdocs\algoritmos\batalha_algoritmos\application\views\admin/exercice.php
+INFO - 2018-03-30 18:29:56 --> File loaded: C:\xampp\htdocs\algoritmos\batalha_algoritmos\application\views\footer.php
+INFO - 2018-03-30 18:29:56 --> Final output sent to browser
+INFO - 2018-03-30 18:29:56 --> Config Class Initialized
+DEBUG - 2018-03-30 18:29:56 --> Total execution time: 0.3884
+INFO - 2018-03-30 18:29:56 --> Hooks Class Initialized
+DEBUG - 2018-03-30 18:29:56 --> UTF-8 Support Enabled
+INFO - 2018-03-30 18:29:56 --> Utf8 Class Initialized
+INFO - 2018-03-30 18:29:56 --> URI Class Initialized
+INFO - 2018-03-30 18:29:56 --> Router Class Initialized
+INFO - 2018-03-30 18:29:56 --> Output Class Initialized
+INFO - 2018-03-30 18:29:56 --> Security Class Initialized
+DEBUG - 2018-03-30 18:29:56 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-03-30 18:29:56 --> Input Class Initialized
+INFO - 2018-03-30 18:29:56 --> Language Class Initialized
+INFO - 2018-03-30 18:29:56 --> Loader Class Initialized
+INFO - 2018-03-30 18:29:56 --> Helper loaded: url_helper
+INFO - 2018-03-30 18:29:56 --> Helper loaded: string_helper
+INFO - 2018-03-30 18:29:56 --> Helper loaded: download_helper
+INFO - 2018-03-30 18:29:56 --> Helper loaded: form_helper
+INFO - 2018-03-30 18:29:56 --> Upload Class Initialized
+DEBUG - 2018-03-30 18:29:56 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2018-03-30 18:29:56 --> Session: Class initialized using 'files' driver.
+INFO - 2018-03-30 18:29:56 --> Controller Class Initialized
+INFO - 2018-03-30 18:29:56 --> Model Class Initialized
+INFO - 2018-03-30 18:29:56 --> Helper loaded: date_helper
+INFO - 2018-03-30 18:29:56 --> File loaded: C:\xampp\htdocs\algoritmos\batalha_algoritmos\application\views\admin/admin.php
+INFO - 2018-03-30 18:29:56 --> File loaded: C:\xampp\htdocs\algoritmos\batalha_algoritmos\application\views\admin/exercice.php
+INFO - 2018-03-30 18:29:56 --> File loaded: C:\xampp\htdocs\algoritmos\batalha_algoritmos\application\views\footer.php
+INFO - 2018-03-30 18:29:56 --> Final output sent to browser
+DEBUG - 2018-03-30 18:29:57 --> Total execution time: 0.4240
+INFO - 2018-03-30 18:29:58 --> Config Class Initialized
+INFO - 2018-03-30 18:29:58 --> Hooks Class Initialized
+DEBUG - 2018-03-30 18:29:58 --> UTF-8 Support Enabled
+INFO - 2018-03-30 18:29:58 --> Utf8 Class Initialized
+INFO - 2018-03-30 18:29:58 --> URI Class Initialized
+INFO - 2018-03-30 18:29:58 --> Router Class Initialized
+INFO - 2018-03-30 18:29:58 --> Output Class Initialized
+INFO - 2018-03-30 18:29:58 --> Security Class Initialized
+DEBUG - 2018-03-30 18:29:58 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-03-30 18:29:58 --> Input Class Initialized
+INFO - 2018-03-30 18:29:58 --> Language Class Initialized
+INFO - 2018-03-30 18:29:58 --> Loader Class Initialized
+INFO - 2018-03-30 18:29:58 --> Helper loaded: url_helper
+INFO - 2018-03-30 18:29:58 --> Helper loaded: string_helper
+INFO - 2018-03-30 18:29:58 --> Helper loaded: download_helper
+INFO - 2018-03-30 18:29:58 --> Helper loaded: form_helper
+INFO - 2018-03-30 18:29:58 --> Upload Class Initialized
+DEBUG - 2018-03-30 18:29:58 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2018-03-30 18:29:58 --> Session: Class initialized using 'files' driver.
+INFO - 2018-03-30 18:29:58 --> Controller Class Initialized
+INFO - 2018-03-30 18:29:58 --> Config Class Initialized
+INFO - 2018-03-30 18:29:58 --> Hooks Class Initialized
+INFO - 2018-03-30 18:29:58 --> Model Class Initialized
+DEBUG - 2018-03-30 18:29:58 --> UTF-8 Support Enabled
+INFO - 2018-03-30 18:29:58 --> Utf8 Class Initialized
+INFO - 2018-03-30 18:29:58 --> Helper loaded: date_helper
+INFO - 2018-03-30 18:29:58 --> File loaded: C:\xampp\htdocs\algoritmos\batalha_algoritmos\application\views\admin/admin.php
+INFO - 2018-03-30 18:29:58 --> URI Class Initialized
+INFO - 2018-03-30 18:29:58 --> File loaded: C:\xampp\htdocs\algoritmos\batalha_algoritmos\application\views\admin/exercice.php
+INFO - 2018-03-30 18:29:58 --> Router Class Initialized
+INFO - 2018-03-30 18:29:58 --> File loaded: C:\xampp\htdocs\algoritmos\batalha_algoritmos\application\views\footer.php
+INFO - 2018-03-30 18:29:58 --> Output Class Initialized
+INFO - 2018-03-30 18:29:58 --> File loaded: C:\xampp\htdocs\algoritmos\batalha_algoritmos\application\views\admin/edit_exercice.php
+INFO - 2018-03-30 18:29:58 --> Security Class Initialized
+INFO - 2018-03-30 18:29:58 --> Final output sent to browser
+DEBUG - 2018-03-30 18:29:58 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2018-03-30 18:29:58 --> Total execution time: 0.4671
+INFO - 2018-03-30 18:29:58 --> Input Class Initialized
+INFO - 2018-03-30 18:29:59 --> Language Class Initialized
+INFO - 2018-03-30 18:29:59 --> Loader Class Initialized
+INFO - 2018-03-30 18:29:59 --> Helper loaded: url_helper
+INFO - 2018-03-30 18:29:59 --> Helper loaded: string_helper
+INFO - 2018-03-30 18:29:59 --> Helper loaded: download_helper
+INFO - 2018-03-30 18:29:59 --> Helper loaded: form_helper
+INFO - 2018-03-30 18:29:59 --> Upload Class Initialized
+DEBUG - 2018-03-30 18:29:59 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2018-03-30 18:29:59 --> Session: Class initialized using 'files' driver.
+INFO - 2018-03-30 18:29:59 --> Controller Class Initialized
+INFO - 2018-03-30 18:29:59 --> Model Class Initialized
+INFO - 2018-03-30 18:29:59 --> Helper loaded: date_helper
+INFO - 2018-03-30 18:29:59 --> File loaded: C:\xampp\htdocs\algoritmos\batalha_algoritmos\application\views\admin/admin.php
+INFO - 2018-03-30 18:29:59 --> File loaded: C:\xampp\htdocs\algoritmos\batalha_algoritmos\application\views\admin/exercice.php
+INFO - 2018-03-30 18:29:59 --> File loaded: C:\xampp\htdocs\algoritmos\batalha_algoritmos\application\views\footer.php
+INFO - 2018-03-30 18:29:59 --> File loaded: C:\xampp\htdocs\algoritmos\batalha_algoritmos\application\views\admin/edit_exercice.php
+INFO - 2018-03-30 18:29:59 --> Final output sent to browser
+DEBUG - 2018-03-30 18:29:59 --> Total execution time: 0.4543
+INFO - 2018-03-30 18:30:04 --> Config Class Initialized
+INFO - 2018-03-30 18:30:04 --> Hooks Class Initialized
+DEBUG - 2018-03-30 18:30:04 --> UTF-8 Support Enabled
+INFO - 2018-03-30 18:30:04 --> Utf8 Class Initialized
+INFO - 2018-03-30 18:30:04 --> URI Class Initialized
+INFO - 2018-03-30 18:30:04 --> Router Class Initialized
+INFO - 2018-03-30 18:30:04 --> Output Class Initialized
+INFO - 2018-03-30 18:30:04 --> Security Class Initialized
+DEBUG - 2018-03-30 18:30:04 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-03-30 18:30:04 --> Input Class Initialized
+INFO - 2018-03-30 18:30:04 --> Language Class Initialized
+INFO - 2018-03-30 18:30:04 --> Loader Class Initialized
+INFO - 2018-03-30 18:30:04 --> Helper loaded: url_helper
+INFO - 2018-03-30 18:30:04 --> Helper loaded: string_helper
+INFO - 2018-03-30 18:30:04 --> Helper loaded: download_helper
+INFO - 2018-03-30 18:30:04 --> Helper loaded: form_helper
+INFO - 2018-03-30 18:30:04 --> Upload Class Initialized
+DEBUG - 2018-03-30 18:30:04 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2018-03-30 18:30:04 --> Session: Class initialized using 'files' driver.
+INFO - 2018-03-30 18:30:04 --> Controller Class Initialized
+INFO - 2018-03-30 18:30:04 --> Model Class Initialized
+ERROR - 2018-03-30 18:30:04 --> Severity: Notice --> Undefined variable: user C:\xampp\htdocs\algoritmos\batalha_algoritmos\application\models\Exercises_model.php 187
+ERROR - 2018-03-30 18:30:04 --> Severity: Notice --> Undefined variable: user C:\xampp\htdocs\algoritmos\batalha_algoritmos\application\models\Exercises_model.php 187
+ERROR - 2018-03-30 18:30:04 --> Severity: Notice --> Undefined variable: user C:\xampp\htdocs\algoritmos\batalha_algoritmos\application\models\Exercises_model.php 187
+ERROR - 2018-03-30 18:30:04 --> Severity: Notice --> Undefined variable: user C:\xampp\htdocs\algoritmos\batalha_algoritmos\application\models\Exercises_model.php 187
+ERROR - 2018-03-30 18:30:04 --> Severity: Notice --> Undefined variable: user C:\xampp\htdocs\algoritmos\batalha_algoritmos\application\models\Exercises_model.php 187
+ERROR - 2018-03-30 18:30:04 --> Severity: Notice --> Undefined variable: user C:\xampp\htdocs\algoritmos\batalha_algoritmos\application\models\Exercises_model.php 187
+ERROR - 2018-03-30 18:30:04 --> Severity: Notice --> Undefined variable: user C:\xampp\htdocs\algoritmos\batalha_algoritmos\application\models\Exercises_model.php 187
+ERROR - 2018-03-30 18:30:04 --> Severity: Notice --> Undefined variable: user C:\xampp\htdocs\algoritmos\batalha_algoritmos\application\models\Exercises_model.php 187
+ERROR - 2018-03-30 18:30:04 --> Severity: Notice --> Undefined variable: user C:\xampp\htdocs\algoritmos\batalha_algoritmos\application\models\Exercises_model.php 187
+ERROR - 2018-03-30 18:30:04 --> Severity: Notice --> Undefined variable: user C:\xampp\htdocs\algoritmos\batalha_algoritmos\application\models\Exercises_model.php 187
+ERROR - 2018-03-30 18:30:04 --> Severity: Notice --> Undefined variable: user C:\xampp\htdocs\algoritmos\batalha_algoritmos\application\models\Exercises_model.php 187
+ERROR - 2018-03-30 18:30:04 --> Severity: Notice --> Undefined variable: user C:\xampp\htdocs\algoritmos\batalha_algoritmos\application\models\Exercises_model.php 187
+ERROR - 2018-03-30 18:30:04 --> Severity: Notice --> Undefined variable: user C:\xampp\htdocs\algoritmos\batalha_algoritmos\application\models\Exercises_model.php 187
+ERROR - 2018-03-30 18:30:04 --> Severity: Notice --> Undefined variable: user C:\xampp\htdocs\algoritmos\batalha_algoritmos\application\models\Exercises_model.php 187
+ERROR - 2018-03-30 18:30:04 --> Severity: Notice --> Undefined variable: user C:\xampp\htdocs\algoritmos\batalha_algoritmos\application\models\Exercises_model.php 187
+ERROR - 2018-03-30 18:30:04 --> Severity: Notice --> Undefined variable: user C:\xampp\htdocs\algoritmos\batalha_algoritmos\application\models\Exercises_model.php 187
+ERROR - 2018-03-30 18:30:04 --> Severity: Notice --> Undefined variable: user C:\xampp\htdocs\algoritmos\batalha_algoritmos\application\models\Exercises_model.php 187
+ERROR - 2018-03-30 18:30:04 --> Severity: Notice --> Undefined variable: user C:\xampp\htdocs\algoritmos\batalha_algoritmos\application\models\Exercises_model.php 187
+ERROR - 2018-03-30 18:30:04 --> Severity: Warning --> file_put_contents(C:\xampp\htdocs\algoritmos\batalha_algoritmos\data/data/users.json): failed to open stream: No such file or directory C:\xampp\htdocs\algoritmos\batalha_algoritmos\application\models\Exercises_model.php 193
+ERROR - 2018-03-30 18:30:04 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\algoritmos\batalha_algoritmos\system\core\Exceptions.php:271) C:\xampp\htdocs\algoritmos\batalha_algoritmos\system\helpers\url_helper.php 564
+INFO - 2018-03-30 18:30:30 --> Config Class Initialized
+INFO - 2018-03-30 18:30:30 --> Hooks Class Initialized
+DEBUG - 2018-03-30 18:30:30 --> UTF-8 Support Enabled
+INFO - 2018-03-30 18:30:30 --> Utf8 Class Initialized
+INFO - 2018-03-30 18:30:30 --> URI Class Initialized
+INFO - 2018-03-30 18:30:30 --> Router Class Initialized
+INFO - 2018-03-30 18:30:30 --> Output Class Initialized
+INFO - 2018-03-30 18:30:30 --> Security Class Initialized
+DEBUG - 2018-03-30 18:30:30 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-03-30 18:30:30 --> Input Class Initialized
+INFO - 2018-03-30 18:30:31 --> Language Class Initialized
+INFO - 2018-03-30 18:30:31 --> Loader Class Initialized
+INFO - 2018-03-30 18:30:31 --> Helper loaded: url_helper
+INFO - 2018-03-30 18:30:31 --> Helper loaded: string_helper
+INFO - 2018-03-30 18:30:31 --> Helper loaded: download_helper
+INFO - 2018-03-30 18:30:31 --> Helper loaded: form_helper
+INFO - 2018-03-30 18:30:31 --> Upload Class Initialized
+DEBUG - 2018-03-30 18:30:31 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2018-03-30 18:30:31 --> Session: Class initialized using 'files' driver.
+INFO - 2018-03-30 18:30:31 --> Controller Class Initialized
+INFO - 2018-03-30 18:30:31 --> Model Class Initialized
+INFO - 2018-03-30 18:30:31 --> Helper loaded: date_helper
+INFO - 2018-03-30 18:30:31 --> File loaded: C:\xampp\htdocs\algoritmos\batalha_algoritmos\application\views\admin/admin.php
+INFO - 2018-03-30 18:30:31 --> File loaded: C:\xampp\htdocs\algoritmos\batalha_algoritmos\application\views\admin/exercice.php
+INFO - 2018-03-30 18:30:31 --> File loaded: C:\xampp\htdocs\algoritmos\batalha_algoritmos\application\views\footer.php
+INFO - 2018-03-30 18:30:31 --> Final output sent to browser
+INFO - 2018-03-30 18:30:31 --> Config Class Initialized
+DEBUG - 2018-03-30 18:30:31 --> Total execution time: 0.4738
+INFO - 2018-03-30 18:30:31 --> Hooks Class Initialized
+DEBUG - 2018-03-30 18:30:31 --> UTF-8 Support Enabled
+INFO - 2018-03-30 18:30:31 --> Utf8 Class Initialized
+INFO - 2018-03-30 18:30:31 --> URI Class Initialized
+INFO - 2018-03-30 18:30:31 --> Router Class Initialized
+INFO - 2018-03-30 18:30:31 --> Output Class Initialized
+INFO - 2018-03-30 18:30:31 --> Security Class Initialized
+DEBUG - 2018-03-30 18:30:31 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-03-30 18:30:31 --> Input Class Initialized
+INFO - 2018-03-30 18:30:31 --> Language Class Initialized
+INFO - 2018-03-30 18:30:31 --> Loader Class Initialized
+INFO - 2018-03-30 18:30:31 --> Helper loaded: url_helper
+INFO - 2018-03-30 18:30:31 --> Helper loaded: string_helper
+INFO - 2018-03-30 18:30:31 --> Helper loaded: download_helper
+INFO - 2018-03-30 18:30:31 --> Helper loaded: form_helper
+INFO - 2018-03-30 18:30:31 --> Upload Class Initialized
+DEBUG - 2018-03-30 18:30:31 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2018-03-30 18:30:31 --> Session: Class initialized using 'files' driver.
+INFO - 2018-03-30 18:30:31 --> Controller Class Initialized
+INFO - 2018-03-30 18:30:31 --> Model Class Initialized
+INFO - 2018-03-30 18:30:31 --> Helper loaded: date_helper
+INFO - 2018-03-30 18:30:31 --> File loaded: C:\xampp\htdocs\algoritmos\batalha_algoritmos\application\views\admin/admin.php
+INFO - 2018-03-30 18:30:31 --> File loaded: C:\xampp\htdocs\algoritmos\batalha_algoritmos\application\views\admin/exercice.php
+INFO - 2018-03-30 18:30:31 --> File loaded: C:\xampp\htdocs\algoritmos\batalha_algoritmos\application\views\footer.php
+INFO - 2018-03-30 18:30:31 --> Final output sent to browser
+DEBUG - 2018-03-30 18:30:31 --> Total execution time: 0.4269
+INFO - 2018-03-30 18:30:32 --> Config Class Initialized
+INFO - 2018-03-30 18:30:32 --> Hooks Class Initialized
+DEBUG - 2018-03-30 18:30:32 --> UTF-8 Support Enabled
+INFO - 2018-03-30 18:30:32 --> Utf8 Class Initialized
+INFO - 2018-03-30 18:30:32 --> URI Class Initialized
+INFO - 2018-03-30 18:30:32 --> Router Class Initialized
+INFO - 2018-03-30 18:30:32 --> Output Class Initialized
+INFO - 2018-03-30 18:30:32 --> Security Class Initialized
+DEBUG - 2018-03-30 18:30:32 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-03-30 18:30:32 --> Input Class Initialized
+INFO - 2018-03-30 18:30:32 --> Language Class Initialized
+INFO - 2018-03-30 18:30:32 --> Loader Class Initialized
+INFO - 2018-03-30 18:30:32 --> Helper loaded: url_helper
+INFO - 2018-03-30 18:30:33 --> Helper loaded: string_helper
+INFO - 2018-03-30 18:30:33 --> Helper loaded: download_helper
+INFO - 2018-03-30 18:30:33 --> Helper loaded: form_helper
+INFO - 2018-03-30 18:30:33 --> Upload Class Initialized
+DEBUG - 2018-03-30 18:30:33 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2018-03-30 18:30:33 --> Session: Class initialized using 'files' driver.
+INFO - 2018-03-30 18:30:33 --> Controller Class Initialized
+INFO - 2018-03-30 18:30:33 --> Model Class Initialized
+INFO - 2018-03-30 18:30:33 --> Helper loaded: date_helper
+INFO - 2018-03-30 18:30:33 --> File loaded: C:\xampp\htdocs\algoritmos\batalha_algoritmos\application\views\admin/admin.php
+INFO - 2018-03-30 18:30:33 --> File loaded: C:\xampp\htdocs\algoritmos\batalha_algoritmos\application\views\admin/exercice.php
+INFO - 2018-03-30 18:30:33 --> File loaded: C:\xampp\htdocs\algoritmos\batalha_algoritmos\application\views\footer.php
+INFO - 2018-03-30 18:30:33 --> File loaded: C:\xampp\htdocs\algoritmos\batalha_algoritmos\application\views\admin/edit_exercice.php
+INFO - 2018-03-30 18:30:33 --> Final output sent to browser
+DEBUG - 2018-03-30 18:30:33 --> Total execution time: 0.3830
+INFO - 2018-03-30 18:30:38 --> Config Class Initialized
+INFO - 2018-03-30 18:30:38 --> Hooks Class Initialized
+DEBUG - 2018-03-30 18:30:38 --> UTF-8 Support Enabled
+INFO - 2018-03-30 18:30:38 --> Utf8 Class Initialized
+INFO - 2018-03-30 18:30:38 --> URI Class Initialized
+INFO - 2018-03-30 18:30:38 --> Router Class Initialized
+INFO - 2018-03-30 18:30:38 --> Output Class Initialized
+INFO - 2018-03-30 18:30:38 --> Security Class Initialized
+DEBUG - 2018-03-30 18:30:38 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-03-30 18:30:38 --> Input Class Initialized
+INFO - 2018-03-30 18:30:38 --> Language Class Initialized
+INFO - 2018-03-30 18:30:38 --> Loader Class Initialized
+INFO - 2018-03-30 18:30:38 --> Helper loaded: url_helper
+INFO - 2018-03-30 18:30:38 --> Helper loaded: string_helper
+INFO - 2018-03-30 18:30:38 --> Helper loaded: download_helper
+INFO - 2018-03-30 18:30:38 --> Helper loaded: form_helper
+INFO - 2018-03-30 18:30:38 --> Upload Class Initialized
+DEBUG - 2018-03-30 18:30:38 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2018-03-30 18:30:38 --> Session: Class initialized using 'files' driver.
+INFO - 2018-03-30 18:30:38 --> Controller Class Initialized
+INFO - 2018-03-30 18:30:38 --> Model Class Initialized
+ERROR - 2018-03-30 18:30:38 --> Severity: Warning --> file_put_contents(C:\xampp\htdocs\algoritmos\batalha_algoritmos\data/data/users.json): failed to open stream: No such file or directory C:\xampp\htdocs\algoritmos\batalha_algoritmos\application\models\Exercises_model.php 193
+INFO - 2018-03-30 18:30:38 --> Config Class Initialized
+INFO - 2018-03-30 18:30:38 --> Hooks Class Initialized
+DEBUG - 2018-03-30 18:30:38 --> UTF-8 Support Enabled
+INFO - 2018-03-30 18:30:38 --> Utf8 Class Initialized
+INFO - 2018-03-30 18:30:38 --> URI Class Initialized
+INFO - 2018-03-30 18:30:38 --> Router Class Initialized
+INFO - 2018-03-30 18:30:38 --> Output Class Initialized
+INFO - 2018-03-30 18:30:38 --> Security Class Initialized
+DEBUG - 2018-03-30 18:30:39 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-03-30 18:30:39 --> Input Class Initialized
+INFO - 2018-03-30 18:30:39 --> Language Class Initialized
+INFO - 2018-03-30 18:30:39 --> Loader Class Initialized
+INFO - 2018-03-30 18:30:39 --> Helper loaded: url_helper
+INFO - 2018-03-30 18:30:39 --> Helper loaded: string_helper
+INFO - 2018-03-30 18:30:39 --> Helper loaded: download_helper
+INFO - 2018-03-30 18:30:39 --> Helper loaded: form_helper
+INFO - 2018-03-30 18:30:39 --> Upload Class Initialized
+DEBUG - 2018-03-30 18:30:39 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2018-03-30 18:30:39 --> Session: Class initialized using 'files' driver.
+INFO - 2018-03-30 18:30:39 --> Controller Class Initialized
+INFO - 2018-03-30 18:30:39 --> Model Class Initialized
+INFO - 2018-03-30 18:30:39 --> Helper loaded: date_helper
+INFO - 2018-03-30 18:30:39 --> File loaded: C:\xampp\htdocs\algoritmos\batalha_algoritmos\application\views\admin/admin.php
+INFO - 2018-03-30 18:30:39 --> File loaded: C:\xampp\htdocs\algoritmos\batalha_algoritmos\application\views\admin/exercice.php
+INFO - 2018-03-30 18:30:39 --> File loaded: C:\xampp\htdocs\algoritmos\batalha_algoritmos\application\views\footer.php
+INFO - 2018-03-30 18:30:39 --> Final output sent to browser
+DEBUG - 2018-03-30 18:30:39 --> Total execution time: 0.3672
+INFO - 2018-03-30 18:30:44 --> Config Class Initialized
+INFO - 2018-03-30 18:30:44 --> Hooks Class Initialized
+DEBUG - 2018-03-30 18:30:44 --> UTF-8 Support Enabled
+INFO - 2018-03-30 18:30:44 --> Utf8 Class Initialized
+INFO - 2018-03-30 18:30:44 --> URI Class Initialized
+INFO - 2018-03-30 18:30:44 --> Router Class Initialized
+INFO - 2018-03-30 18:30:44 --> Output Class Initialized
+INFO - 2018-03-30 18:30:44 --> Security Class Initialized
+DEBUG - 2018-03-30 18:30:44 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-03-30 18:30:44 --> Input Class Initialized
+INFO - 2018-03-30 18:30:44 --> Language Class Initialized
+INFO - 2018-03-30 18:30:44 --> Loader Class Initialized
+INFO - 2018-03-30 18:30:44 --> Helper loaded: url_helper
+INFO - 2018-03-30 18:30:44 --> Helper loaded: string_helper
+INFO - 2018-03-30 18:30:44 --> Helper loaded: download_helper
+INFO - 2018-03-30 18:30:44 --> Helper loaded: form_helper
+INFO - 2018-03-30 18:30:44 --> Upload Class Initialized
+DEBUG - 2018-03-30 18:30:44 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2018-03-30 18:30:44 --> Session: Class initialized using 'files' driver.
+INFO - 2018-03-30 18:30:44 --> Controller Class Initialized
+INFO - 2018-03-30 18:30:44 --> Model Class Initialized
+INFO - 2018-03-30 18:30:44 --> Helper loaded: date_helper
+INFO - 2018-03-30 18:30:44 --> File loaded: C:\xampp\htdocs\algoritmos\batalha_algoritmos\application\views\admin/admin.php
+INFO - 2018-03-30 18:30:44 --> File loaded: C:\xampp\htdocs\algoritmos\batalha_algoritmos\application\views\admin/exercice.php
+INFO - 2018-03-30 18:30:44 --> File loaded: C:\xampp\htdocs\algoritmos\batalha_algoritmos\application\views\footer.php
+INFO - 2018-03-30 18:30:44 --> File loaded: C:\xampp\htdocs\algoritmos\batalha_algoritmos\application\views\admin/edit_exercice.php
+INFO - 2018-03-30 18:30:44 --> Final output sent to browser
+DEBUG - 2018-03-30 18:30:44 --> Total execution time: 0.3839
+INFO - 2018-03-30 18:30:49 --> Config Class Initialized
+INFO - 2018-03-30 18:30:49 --> Hooks Class Initialized
+DEBUG - 2018-03-30 18:30:49 --> UTF-8 Support Enabled
+INFO - 2018-03-30 18:30:49 --> Utf8 Class Initialized
+INFO - 2018-03-30 18:30:49 --> URI Class Initialized
+INFO - 2018-03-30 18:30:49 --> Router Class Initialized
+INFO - 2018-03-30 18:30:49 --> Output Class Initialized
+INFO - 2018-03-30 18:30:49 --> Security Class Initialized
+DEBUG - 2018-03-30 18:30:49 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-03-30 18:30:49 --> Input Class Initialized
+INFO - 2018-03-30 18:30:49 --> Language Class Initialized
+INFO - 2018-03-30 18:30:49 --> Loader Class Initialized
+INFO - 2018-03-30 18:30:49 --> Helper loaded: url_helper
+INFO - 2018-03-30 18:30:49 --> Helper loaded: string_helper
+INFO - 2018-03-30 18:30:49 --> Helper loaded: download_helper
+INFO - 2018-03-30 18:30:49 --> Helper loaded: form_helper
+INFO - 2018-03-30 18:30:49 --> Upload Class Initialized
+DEBUG - 2018-03-30 18:30:49 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2018-03-30 18:30:49 --> Session: Class initialized using 'files' driver.
+INFO - 2018-03-30 18:30:49 --> Controller Class Initialized
+INFO - 2018-03-30 18:30:49 --> Model Class Initialized
+ERROR - 2018-03-30 18:30:49 --> Severity: Warning --> file_put_contents(C:\xampp\htdocs\algoritmos\batalha_algoritmos\data/data/users.json): failed to open stream: No such file or directory C:\xampp\htdocs\algoritmos\batalha_algoritmos\application\models\Exercises_model.php 193
+INFO - 2018-03-30 18:30:49 --> Config Class Initialized
+INFO - 2018-03-30 18:30:49 --> Hooks Class Initialized
+DEBUG - 2018-03-30 18:30:49 --> UTF-8 Support Enabled
+INFO - 2018-03-30 18:30:49 --> Utf8 Class Initialized
+INFO - 2018-03-30 18:30:49 --> URI Class Initialized
+INFO - 2018-03-30 18:30:49 --> Router Class Initialized
+INFO - 2018-03-30 18:30:49 --> Output Class Initialized
+INFO - 2018-03-30 18:30:49 --> Security Class Initialized
+DEBUG - 2018-03-30 18:30:49 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-03-30 18:30:49 --> Input Class Initialized
+INFO - 2018-03-30 18:30:49 --> Language Class Initialized
+INFO - 2018-03-30 18:30:49 --> Loader Class Initialized
+INFO - 2018-03-30 18:30:49 --> Helper loaded: url_helper
+INFO - 2018-03-30 18:30:49 --> Helper loaded: string_helper
+INFO - 2018-03-30 18:30:49 --> Helper loaded: download_helper
+INFO - 2018-03-30 18:30:49 --> Helper loaded: form_helper
+INFO - 2018-03-30 18:30:49 --> Upload Class Initialized
+DEBUG - 2018-03-30 18:30:49 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2018-03-30 18:30:49 --> Session: Class initialized using 'files' driver.
+INFO - 2018-03-30 18:30:49 --> Controller Class Initialized
+INFO - 2018-03-30 18:30:49 --> Model Class Initialized
+INFO - 2018-03-30 18:30:49 --> Helper loaded: date_helper
+INFO - 2018-03-30 18:30:49 --> File loaded: C:\xampp\htdocs\algoritmos\batalha_algoritmos\application\views\admin/admin.php
+INFO - 2018-03-30 18:30:49 --> File loaded: C:\xampp\htdocs\algoritmos\batalha_algoritmos\application\views\admin/exercice.php
+INFO - 2018-03-30 18:30:49 --> File loaded: C:\xampp\htdocs\algoritmos\batalha_algoritmos\application\views\footer.php
+INFO - 2018-03-30 18:30:50 --> Final output sent to browser
+DEBUG - 2018-03-30 18:30:50 --> Total execution time: 0.3800
+INFO - 2018-03-30 18:31:44 --> Config Class Initialized
+INFO - 2018-03-30 18:31:44 --> Hooks Class Initialized
+DEBUG - 2018-03-30 18:31:44 --> UTF-8 Support Enabled
+INFO - 2018-03-30 18:31:44 --> Utf8 Class Initialized
+INFO - 2018-03-30 18:31:44 --> URI Class Initialized
+INFO - 2018-03-30 18:31:44 --> Router Class Initialized
+INFO - 2018-03-30 18:31:44 --> Output Class Initialized
+INFO - 2018-03-30 18:31:44 --> Security Class Initialized
+DEBUG - 2018-03-30 18:31:44 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-03-30 18:31:44 --> Input Class Initialized
+INFO - 2018-03-30 18:31:44 --> Language Class Initialized
+INFO - 2018-03-30 18:31:44 --> Loader Class Initialized
+INFO - 2018-03-30 18:31:44 --> Helper loaded: url_helper
+INFO - 2018-03-30 18:31:44 --> Helper loaded: string_helper
+INFO - 2018-03-30 18:31:44 --> Helper loaded: download_helper
+INFO - 2018-03-30 18:31:44 --> Helper loaded: form_helper
+INFO - 2018-03-30 18:31:44 --> Upload Class Initialized
+DEBUG - 2018-03-30 18:31:44 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2018-03-30 18:31:44 --> Session: Class initialized using 'files' driver.
+INFO - 2018-03-30 18:31:44 --> Controller Class Initialized
+INFO - 2018-03-30 18:31:44 --> Model Class Initialized
+INFO - 2018-03-30 18:31:45 --> Helper loaded: date_helper
+INFO - 2018-03-30 18:31:45 --> File loaded: C:\xampp\htdocs\algoritmos\batalha_algoritmos\application\views\admin/admin.php
+INFO - 2018-03-30 18:31:45 --> File loaded: C:\xampp\htdocs\algoritmos\batalha_algoritmos\application\views\admin/exercice.php
+INFO - 2018-03-30 18:31:45 --> File loaded: C:\xampp\htdocs\algoritmos\batalha_algoritmos\application\views\footer.php
+INFO - 2018-03-30 18:31:45 --> File loaded: C:\xampp\htdocs\algoritmos\batalha_algoritmos\application\views\admin/edit_exercice.php
+INFO - 2018-03-30 18:31:45 --> Final output sent to browser
+DEBUG - 2018-03-30 18:31:45 --> Total execution time: 0.4637
+INFO - 2018-03-30 18:31:49 --> Config Class Initialized
+INFO - 2018-03-30 18:31:49 --> Hooks Class Initialized
+DEBUG - 2018-03-30 18:31:49 --> UTF-8 Support Enabled
+INFO - 2018-03-30 18:31:49 --> Utf8 Class Initialized
+INFO - 2018-03-30 18:31:49 --> URI Class Initialized
+INFO - 2018-03-30 18:31:49 --> Router Class Initialized
+INFO - 2018-03-30 18:31:49 --> Output Class Initialized
+INFO - 2018-03-30 18:31:49 --> Security Class Initialized
+DEBUG - 2018-03-30 18:31:49 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-03-30 18:31:49 --> Input Class Initialized
+INFO - 2018-03-30 18:31:49 --> Language Class Initialized
+INFO - 2018-03-30 18:31:49 --> Loader Class Initialized
+INFO - 2018-03-30 18:31:49 --> Helper loaded: url_helper
+INFO - 2018-03-30 18:31:49 --> Helper loaded: string_helper
+INFO - 2018-03-30 18:31:49 --> Helper loaded: download_helper
+INFO - 2018-03-30 18:31:49 --> Helper loaded: form_helper
+INFO - 2018-03-30 18:31:49 --> Upload Class Initialized
+DEBUG - 2018-03-30 18:31:49 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2018-03-30 18:31:49 --> Session: Class initialized using 'files' driver.
+INFO - 2018-03-30 18:31:49 --> Controller Class Initialized
+INFO - 2018-03-30 18:31:49 --> Model Class Initialized
+ERROR - 2018-03-30 18:31:49 --> Severity: Notice --> Undefined variable: edit_exercice C:\xampp\htdocs\algoritmos\batalha_algoritmos\application\controllers\Admin.php 59
+ERROR - 2018-03-30 18:31:49 --> Severity: Warning --> file_put_contents(C:\xampp\htdocs\algoritmos\batalha_algoritmos\data/data/users.json): failed to open stream: No such file or directory C:\xampp\htdocs\algoritmos\batalha_algoritmos\application\models\Exercises_model.php 193
+INFO - 2018-03-30 18:31:49 --> Final output sent to browser
+DEBUG - 2018-03-30 18:31:49 --> Total execution time: 0.3554
+INFO - 2018-03-30 18:32:00 --> Config Class Initialized
+INFO - 2018-03-30 18:32:00 --> Hooks Class Initialized
+DEBUG - 2018-03-30 18:32:00 --> UTF-8 Support Enabled
+INFO - 2018-03-30 18:32:00 --> Utf8 Class Initialized
+INFO - 2018-03-30 18:32:00 --> URI Class Initialized
+INFO - 2018-03-30 18:32:00 --> Router Class Initialized
+INFO - 2018-03-30 18:32:00 --> Output Class Initialized
+INFO - 2018-03-30 18:32:00 --> Security Class Initialized
+DEBUG - 2018-03-30 18:32:00 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-03-30 18:32:00 --> Input Class Initialized
+INFO - 2018-03-30 18:32:00 --> Language Class Initialized
+INFO - 2018-03-30 18:32:00 --> Loader Class Initialized
+INFO - 2018-03-30 18:32:00 --> Helper loaded: url_helper
+INFO - 2018-03-30 18:32:00 --> Helper loaded: string_helper
+INFO - 2018-03-30 18:32:00 --> Helper loaded: download_helper
+INFO - 2018-03-30 18:32:00 --> Helper loaded: form_helper
+INFO - 2018-03-30 18:32:00 --> Upload Class Initialized
+DEBUG - 2018-03-30 18:32:00 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2018-03-30 18:32:00 --> Session: Class initialized using 'files' driver.
+INFO - 2018-03-30 18:32:00 --> Controller Class Initialized
+INFO - 2018-03-30 18:32:00 --> Model Class Initialized
+ERROR - 2018-03-30 18:32:00 --> Severity: Notice --> Undefined index: func_name C:\xampp\htdocs\algoritmos\batalha_algoritmos\application\controllers\Admin.php 50
+ERROR - 2018-03-30 18:32:00 --> Severity: Notice --> Undefined index: exercise C:\xampp\htdocs\algoritmos\batalha_algoritmos\application\controllers\Admin.php 51
+ERROR - 2018-03-30 18:32:00 --> Severity: Notice --> Undefined index: inputs C:\xampp\htdocs\algoritmos\batalha_algoritmos\application\controllers\Admin.php 52
+ERROR - 2018-03-30 18:32:00 --> Severity: Notice --> Undefined index: expecteds C:\xampp\htdocs\algoritmos\batalha_algoritmos\application\controllers\Admin.php 53
+ERROR - 2018-03-30 18:32:00 --> Severity: Notice --> Undefined index: deadline C:\xampp\htdocs\algoritmos\batalha_algoritmos\application\controllers\Admin.php 54
+ERROR - 2018-03-30 18:32:00 --> Severity: Notice --> Undefined index: status C:\xampp\htdocs\algoritmos\batalha_algoritmos\application\controllers\Admin.php 55
+ERROR - 2018-03-30 18:32:00 --> Severity: Notice --> Undefined index: description C:\xampp\htdocs\algoritmos\batalha_algoritmos\application\controllers\Admin.php 57
+ERROR - 2018-03-30 18:32:00 --> Severity: Warning --> file_put_contents(C:\xampp\htdocs\algoritmos\batalha_algoritmos\data/data/users.json): failed to open stream: No such file or directory C:\xampp\htdocs\algoritmos\batalha_algoritmos\application\models\Exercises_model.php 193
+INFO - 2018-03-30 18:32:00 --> Final output sent to browser
+DEBUG - 2018-03-30 18:32:00 --> Total execution time: 0.4772
+INFO - 2018-03-30 18:32:04 --> Config Class Initialized
+INFO - 2018-03-30 18:32:04 --> Hooks Class Initialized
+DEBUG - 2018-03-30 18:32:04 --> UTF-8 Support Enabled
+INFO - 2018-03-30 18:32:04 --> Utf8 Class Initialized
+INFO - 2018-03-30 18:32:04 --> URI Class Initialized
+INFO - 2018-03-30 18:32:04 --> Router Class Initialized
+INFO - 2018-03-30 18:32:04 --> Output Class Initialized
+INFO - 2018-03-30 18:32:04 --> Security Class Initialized
+DEBUG - 2018-03-30 18:32:04 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-03-30 18:32:04 --> Input Class Initialized
+INFO - 2018-03-30 18:32:04 --> Language Class Initialized
+INFO - 2018-03-30 18:32:04 --> Loader Class Initialized
+INFO - 2018-03-30 18:32:04 --> Helper loaded: url_helper
+INFO - 2018-03-30 18:32:04 --> Helper loaded: string_helper
+INFO - 2018-03-30 18:32:04 --> Helper loaded: download_helper
+INFO - 2018-03-30 18:32:04 --> Helper loaded: form_helper
+INFO - 2018-03-30 18:32:04 --> Upload Class Initialized
+DEBUG - 2018-03-30 18:32:04 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2018-03-30 18:32:04 --> Session: Class initialized using 'files' driver.
+INFO - 2018-03-30 18:32:04 --> Controller Class Initialized
+INFO - 2018-03-30 18:32:04 --> Model Class Initialized
+INFO - 2018-03-30 18:32:04 --> Helper loaded: date_helper
+INFO - 2018-03-30 18:32:04 --> File loaded: C:\xampp\htdocs\algoritmos\batalha_algoritmos\application\views\admin/admin.php
+INFO - 2018-03-30 18:32:04 --> File loaded: C:\xampp\htdocs\algoritmos\batalha_algoritmos\application\views\admin/exercice.php
+INFO - 2018-03-30 18:32:04 --> File loaded: C:\xampp\htdocs\algoritmos\batalha_algoritmos\application\views\footer.php
+INFO - 2018-03-30 18:32:04 --> Final output sent to browser
+DEBUG - 2018-03-30 18:32:04 --> Total execution time: 0.3819
+INFO - 2018-03-30 18:32:05 --> Config Class Initialized
+INFO - 2018-03-30 18:32:05 --> Hooks Class Initialized
+DEBUG - 2018-03-30 18:32:05 --> UTF-8 Support Enabled
+INFO - 2018-03-30 18:32:05 --> Utf8 Class Initialized
+INFO - 2018-03-30 18:32:05 --> URI Class Initialized
+INFO - 2018-03-30 18:32:05 --> Router Class Initialized
+INFO - 2018-03-30 18:32:05 --> Output Class Initialized
+INFO - 2018-03-30 18:32:05 --> Security Class Initialized
+DEBUG - 2018-03-30 18:32:05 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-03-30 18:32:05 --> Input Class Initialized
+INFO - 2018-03-30 18:32:05 --> Language Class Initialized
+INFO - 2018-03-30 18:32:05 --> Loader Class Initialized
+INFO - 2018-03-30 18:32:05 --> Helper loaded: url_helper
+INFO - 2018-03-30 18:32:05 --> Helper loaded: string_helper
+INFO - 2018-03-30 18:32:05 --> Helper loaded: download_helper
+INFO - 2018-03-30 18:32:05 --> Helper loaded: form_helper
+INFO - 2018-03-30 18:32:05 --> Upload Class Initialized
+DEBUG - 2018-03-30 18:32:05 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2018-03-30 18:32:05 --> Session: Class initialized using 'files' driver.
+INFO - 2018-03-30 18:32:05 --> Controller Class Initialized
+INFO - 2018-03-30 18:32:05 --> Model Class Initialized
+INFO - 2018-03-30 18:32:05 --> Helper loaded: date_helper
+INFO - 2018-03-30 18:32:05 --> File loaded: C:\xampp\htdocs\algoritmos\batalha_algoritmos\application\views\admin/admin.php
+INFO - 2018-03-30 18:32:05 --> File loaded: C:\xampp\htdocs\algoritmos\batalha_algoritmos\application\views\admin/exercice.php
+INFO - 2018-03-30 18:32:05 --> File loaded: C:\xampp\htdocs\algoritmos\batalha_algoritmos\application\views\footer.php
+INFO - 2018-03-30 18:32:05 --> File loaded: C:\xampp\htdocs\algoritmos\batalha_algoritmos\application\views\admin/edit_exercice.php
+INFO - 2018-03-30 18:32:05 --> Final output sent to browser
+DEBUG - 2018-03-30 18:32:06 --> Total execution time: 0.3830
+INFO - 2018-03-30 18:32:10 --> Config Class Initialized
+INFO - 2018-03-30 18:32:10 --> Hooks Class Initialized
+DEBUG - 2018-03-30 18:32:10 --> UTF-8 Support Enabled
+INFO - 2018-03-30 18:32:10 --> Utf8 Class Initialized
+INFO - 2018-03-30 18:32:10 --> URI Class Initialized
+INFO - 2018-03-30 18:32:10 --> Router Class Initialized
+INFO - 2018-03-30 18:32:10 --> Output Class Initialized
+INFO - 2018-03-30 18:32:10 --> Security Class Initialized
+DEBUG - 2018-03-30 18:32:10 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-03-30 18:32:10 --> Input Class Initialized
+INFO - 2018-03-30 18:32:10 --> Language Class Initialized
+INFO - 2018-03-30 18:32:10 --> Loader Class Initialized
+INFO - 2018-03-30 18:32:10 --> Helper loaded: url_helper
+INFO - 2018-03-30 18:32:10 --> Helper loaded: string_helper
+INFO - 2018-03-30 18:32:10 --> Helper loaded: download_helper
+INFO - 2018-03-30 18:32:10 --> Helper loaded: form_helper
+INFO - 2018-03-30 18:32:10 --> Upload Class Initialized
+DEBUG - 2018-03-30 18:32:10 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2018-03-30 18:32:10 --> Session: Class initialized using 'files' driver.
+INFO - 2018-03-30 18:32:10 --> Controller Class Initialized
+INFO - 2018-03-30 18:32:10 --> Model Class Initialized
+ERROR - 2018-03-30 18:32:10 --> Severity: Warning --> file_put_contents(C:\xampp\htdocs\algoritmos\batalha_algoritmos\data/data/users.json): failed to open stream: No such file or directory C:\xampp\htdocs\algoritmos\batalha_algoritmos\application\models\Exercises_model.php 193
+INFO - 2018-03-30 18:32:10 --> Final output sent to browser
+DEBUG - 2018-03-30 18:32:10 --> Total execution time: 0.3365
+INFO - 2018-03-30 18:32:46 --> Config Class Initialized
+INFO - 2018-03-30 18:32:46 --> Hooks Class Initialized
+DEBUG - 2018-03-30 18:32:46 --> UTF-8 Support Enabled
+INFO - 2018-03-30 18:32:46 --> Utf8 Class Initialized
+INFO - 2018-03-30 18:32:46 --> URI Class Initialized
+INFO - 2018-03-30 18:32:46 --> Router Class Initialized
+INFO - 2018-03-30 18:32:46 --> Output Class Initialized
+INFO - 2018-03-30 18:32:46 --> Security Class Initialized
+DEBUG - 2018-03-30 18:32:46 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-03-30 18:32:46 --> Input Class Initialized
+INFO - 2018-03-30 18:32:46 --> Language Class Initialized
+INFO - 2018-03-30 18:32:46 --> Loader Class Initialized
+INFO - 2018-03-30 18:32:46 --> Helper loaded: url_helper
+INFO - 2018-03-30 18:32:46 --> Helper loaded: string_helper
+INFO - 2018-03-30 18:32:46 --> Helper loaded: download_helper
+INFO - 2018-03-30 18:32:46 --> Helper loaded: form_helper
+INFO - 2018-03-30 18:32:46 --> Upload Class Initialized
+DEBUG - 2018-03-30 18:32:46 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2018-03-30 18:32:46 --> Session: Class initialized using 'files' driver.
+INFO - 2018-03-30 18:32:46 --> Controller Class Initialized
+INFO - 2018-03-30 18:32:46 --> Model Class Initialized
+INFO - 2018-03-30 18:32:46 --> Helper loaded: date_helper
+INFO - 2018-03-30 18:32:46 --> File loaded: C:\xampp\htdocs\algoritmos\batalha_algoritmos\application\views\admin/admin.php
+INFO - 2018-03-30 18:32:46 --> File loaded: C:\xampp\htdocs\algoritmos\batalha_algoritmos\application\views\admin/exercice.php
+INFO - 2018-03-30 18:32:46 --> File loaded: C:\xampp\htdocs\algoritmos\batalha_algoritmos\application\views\footer.php
+INFO - 2018-03-30 18:32:46 --> Final output sent to browser
+INFO - 2018-03-30 18:32:46 --> Config Class Initialized
+DEBUG - 2018-03-30 18:32:46 --> Total execution time: 0.3898
+INFO - 2018-03-30 18:32:46 --> Hooks Class Initialized
+DEBUG - 2018-03-30 18:32:46 --> UTF-8 Support Enabled
+INFO - 2018-03-30 18:32:46 --> Utf8 Class Initialized
+INFO - 2018-03-30 18:32:46 --> URI Class Initialized
+INFO - 2018-03-30 18:32:46 --> Router Class Initialized
+INFO - 2018-03-30 18:32:46 --> Output Class Initialized
+INFO - 2018-03-30 18:32:46 --> Security Class Initialized
+DEBUG - 2018-03-30 18:32:46 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-03-30 18:32:46 --> Input Class Initialized
+INFO - 2018-03-30 18:32:47 --> Language Class Initialized
+INFO - 2018-03-30 18:32:47 --> Loader Class Initialized
+INFO - 2018-03-30 18:32:47 --> Helper loaded: url_helper
+INFO - 2018-03-30 18:32:47 --> Helper loaded: string_helper
+INFO - 2018-03-30 18:32:47 --> Helper loaded: download_helper
+INFO - 2018-03-30 18:32:47 --> Helper loaded: form_helper
+INFO - 2018-03-30 18:32:47 --> Upload Class Initialized
+DEBUG - 2018-03-30 18:32:47 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2018-03-30 18:32:47 --> Session: Class initialized using 'files' driver.
+INFO - 2018-03-30 18:32:47 --> Controller Class Initialized
+INFO - 2018-03-30 18:32:47 --> Model Class Initialized
+INFO - 2018-03-30 18:32:47 --> Helper loaded: date_helper
+INFO - 2018-03-30 18:32:47 --> File loaded: C:\xampp\htdocs\algoritmos\batalha_algoritmos\application\views\admin/admin.php
+INFO - 2018-03-30 18:32:47 --> File loaded: C:\xampp\htdocs\algoritmos\batalha_algoritmos\application\views\admin/exercice.php
+INFO - 2018-03-30 18:32:47 --> File loaded: C:\xampp\htdocs\algoritmos\batalha_algoritmos\application\views\footer.php
+INFO - 2018-03-30 18:32:47 --> Final output sent to browser
+DEBUG - 2018-03-30 18:32:47 --> Total execution time: 0.3974
+INFO - 2018-03-30 18:32:48 --> Config Class Initialized
+INFO - 2018-03-30 18:32:48 --> Hooks Class Initialized
+DEBUG - 2018-03-30 18:32:48 --> UTF-8 Support Enabled
+INFO - 2018-03-30 18:32:48 --> Utf8 Class Initialized
+INFO - 2018-03-30 18:32:48 --> URI Class Initialized
+INFO - 2018-03-30 18:32:48 --> Router Class Initialized
+INFO - 2018-03-30 18:32:48 --> Output Class Initialized
+INFO - 2018-03-30 18:32:48 --> Security Class Initialized
+DEBUG - 2018-03-30 18:32:48 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-03-30 18:32:48 --> Input Class Initialized
+INFO - 2018-03-30 18:32:48 --> Language Class Initialized
+INFO - 2018-03-30 18:32:48 --> Loader Class Initialized
+INFO - 2018-03-30 18:32:48 --> Helper loaded: url_helper
+INFO - 2018-03-30 18:32:48 --> Helper loaded: string_helper
+INFO - 2018-03-30 18:32:48 --> Helper loaded: download_helper
+INFO - 2018-03-30 18:32:48 --> Helper loaded: form_helper
+INFO - 2018-03-30 18:32:48 --> Upload Class Initialized
+DEBUG - 2018-03-30 18:32:48 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2018-03-30 18:32:48 --> Session: Class initialized using 'files' driver.
+INFO - 2018-03-30 18:32:48 --> Controller Class Initialized
+INFO - 2018-03-30 18:32:48 --> Model Class Initialized
+INFO - 2018-03-30 18:32:48 --> Helper loaded: date_helper
+INFO - 2018-03-30 18:32:48 --> File loaded: C:\xampp\htdocs\algoritmos\batalha_algoritmos\application\views\admin/admin.php
+INFO - 2018-03-30 18:32:48 --> File loaded: C:\xampp\htdocs\algoritmos\batalha_algoritmos\application\views\admin/exercice.php
+INFO - 2018-03-30 18:32:48 --> File loaded: C:\xampp\htdocs\algoritmos\batalha_algoritmos\application\views\footer.php
+INFO - 2018-03-30 18:32:48 --> File loaded: C:\xampp\htdocs\algoritmos\batalha_algoritmos\application\views\admin/edit_exercice.php
+INFO - 2018-03-30 18:32:48 --> Final output sent to browser
+DEBUG - 2018-03-30 18:32:48 --> Total execution time: 0.3858
+INFO - 2018-03-30 18:32:52 --> Config Class Initialized
+INFO - 2018-03-30 18:32:52 --> Hooks Class Initialized
+DEBUG - 2018-03-30 18:32:52 --> UTF-8 Support Enabled
+INFO - 2018-03-30 18:32:52 --> Utf8 Class Initialized
+INFO - 2018-03-30 18:32:52 --> URI Class Initialized
+INFO - 2018-03-30 18:32:52 --> Router Class Initialized
+INFO - 2018-03-30 18:32:52 --> Output Class Initialized
+INFO - 2018-03-30 18:32:52 --> Security Class Initialized
+DEBUG - 2018-03-30 18:32:52 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-03-30 18:32:52 --> Input Class Initialized
+INFO - 2018-03-30 18:32:52 --> Language Class Initialized
+INFO - 2018-03-30 18:32:52 --> Loader Class Initialized
+INFO - 2018-03-30 18:32:52 --> Helper loaded: url_helper
+INFO - 2018-03-30 18:32:52 --> Helper loaded: string_helper
+INFO - 2018-03-30 18:32:52 --> Helper loaded: download_helper
+INFO - 2018-03-30 18:32:52 --> Helper loaded: form_helper
+INFO - 2018-03-30 18:32:52 --> Upload Class Initialized
+DEBUG - 2018-03-30 18:32:52 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2018-03-30 18:32:52 --> Session: Class initialized using 'files' driver.
+INFO - 2018-03-30 18:32:52 --> Controller Class Initialized
+INFO - 2018-03-30 18:32:52 --> Model Class Initialized
+INFO - 2018-03-30 18:32:52 --> Final output sent to browser
+DEBUG - 2018-03-30 18:32:52 --> Total execution time: 0.3190
+INFO - 2018-03-30 18:33:06 --> Config Class Initialized
+INFO - 2018-03-30 18:33:06 --> Hooks Class Initialized
+DEBUG - 2018-03-30 18:33:06 --> UTF-8 Support Enabled
+INFO - 2018-03-30 18:33:06 --> Utf8 Class Initialized
+INFO - 2018-03-30 18:33:06 --> URI Class Initialized
+INFO - 2018-03-30 18:33:06 --> Router Class Initialized
+INFO - 2018-03-30 18:33:06 --> Output Class Initialized
+INFO - 2018-03-30 18:33:06 --> Security Class Initialized
+DEBUG - 2018-03-30 18:33:06 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-03-30 18:33:06 --> Input Class Initialized
+INFO - 2018-03-30 18:33:06 --> Language Class Initialized
+INFO - 2018-03-30 18:33:06 --> Loader Class Initialized
+INFO - 2018-03-30 18:33:06 --> Helper loaded: url_helper
+INFO - 2018-03-30 18:33:06 --> Helper loaded: string_helper
+INFO - 2018-03-30 18:33:06 --> Helper loaded: download_helper
+INFO - 2018-03-30 18:33:06 --> Helper loaded: form_helper
+INFO - 2018-03-30 18:33:06 --> Upload Class Initialized
+DEBUG - 2018-03-30 18:33:06 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2018-03-30 18:33:06 --> Session: Class initialized using 'files' driver.
+INFO - 2018-03-30 18:33:06 --> Controller Class Initialized
+INFO - 2018-03-30 18:33:06 --> Model Class Initialized
+ERROR - 2018-03-30 18:33:06 --> Severity: Notice --> Undefined index: func_name C:\xampp\htdocs\algoritmos\batalha_algoritmos\application\controllers\Admin.php 50
+ERROR - 2018-03-30 18:33:06 --> Severity: Notice --> Undefined index: exercise C:\xampp\htdocs\algoritmos\batalha_algoritmos\application\controllers\Admin.php 51
+ERROR - 2018-03-30 18:33:06 --> Severity: Notice --> Undefined index: inputs C:\xampp\htdocs\algoritmos\batalha_algoritmos\application\controllers\Admin.php 52
+ERROR - 2018-03-30 18:33:06 --> Severity: Notice --> Undefined index: expecteds C:\xampp\htdocs\algoritmos\batalha_algoritmos\application\controllers\Admin.php 53
+ERROR - 2018-03-30 18:33:06 --> Severity: Notice --> Undefined index: deadline C:\xampp\htdocs\algoritmos\batalha_algoritmos\application\controllers\Admin.php 54
+ERROR - 2018-03-30 18:33:06 --> Severity: Notice --> Undefined index: status C:\xampp\htdocs\algoritmos\batalha_algoritmos\application\controllers\Admin.php 55
+ERROR - 2018-03-30 18:33:06 --> Severity: Notice --> Undefined index: description C:\xampp\htdocs\algoritmos\batalha_algoritmos\application\controllers\Admin.php 57
+ERROR - 2018-03-30 18:33:06 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\algoritmos\batalha_algoritmos\system\core\Exceptions.php:271) C:\xampp\htdocs\algoritmos\batalha_algoritmos\system\helpers\url_helper.php 564
+INFO - 2018-03-30 18:33:09 --> Config Class Initialized
+INFO - 2018-03-30 18:33:09 --> Hooks Class Initialized
+DEBUG - 2018-03-30 18:33:09 --> UTF-8 Support Enabled
+INFO - 2018-03-30 18:33:09 --> Utf8 Class Initialized
+INFO - 2018-03-30 18:33:09 --> URI Class Initialized
+INFO - 2018-03-30 18:33:09 --> Router Class Initialized
+INFO - 2018-03-30 18:33:09 --> Output Class Initialized
+INFO - 2018-03-30 18:33:09 --> Security Class Initialized
+DEBUG - 2018-03-30 18:33:09 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-03-30 18:33:09 --> Input Class Initialized
+INFO - 2018-03-30 18:33:09 --> Language Class Initialized
+INFO - 2018-03-30 18:33:09 --> Loader Class Initialized
+INFO - 2018-03-30 18:33:09 --> Helper loaded: url_helper
+INFO - 2018-03-30 18:33:09 --> Helper loaded: string_helper
+INFO - 2018-03-30 18:33:09 --> Helper loaded: download_helper
+INFO - 2018-03-30 18:33:09 --> Helper loaded: form_helper
+INFO - 2018-03-30 18:33:09 --> Upload Class Initialized
+DEBUG - 2018-03-30 18:33:09 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2018-03-30 18:33:09 --> Session: Class initialized using 'files' driver.
+INFO - 2018-03-30 18:33:09 --> Controller Class Initialized
+INFO - 2018-03-30 18:33:09 --> Model Class Initialized
+ERROR - 2018-03-30 18:33:09 --> Severity: Notice --> Undefined index: id C:\xampp\htdocs\algoritmos\batalha_algoritmos\application\models\Users_model.php 49
+INFO - 2018-03-30 18:33:09 --> Helper loaded: date_helper
+INFO - 2018-03-30 18:33:09 --> File loaded: C:\xampp\htdocs\algoritmos\batalha_algoritmos\application\views\admin/admin.php
+INFO - 2018-03-30 18:33:09 --> File loaded: C:\xampp\htdocs\algoritmos\batalha_algoritmos\application\views\admin/exercice.php
+INFO - 2018-03-30 18:33:09 --> File loaded: C:\xampp\htdocs\algoritmos\batalha_algoritmos\application\views\footer.php
+INFO - 2018-03-30 18:33:09 --> Final output sent to browser
+DEBUG - 2018-03-30 18:33:09 --> Total execution time: 0.3878
+INFO - 2018-03-30 18:33:16 --> Config Class Initialized
+INFO - 2018-03-30 18:33:16 --> Hooks Class Initialized
+DEBUG - 2018-03-30 18:33:16 --> UTF-8 Support Enabled
+INFO - 2018-03-30 18:33:16 --> Utf8 Class Initialized
+INFO - 2018-03-30 18:33:16 --> URI Class Initialized
+INFO - 2018-03-30 18:33:16 --> Router Class Initialized
+INFO - 2018-03-30 18:33:16 --> Output Class Initialized
+INFO - 2018-03-30 18:33:16 --> Security Class Initialized
+DEBUG - 2018-03-30 18:33:16 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-03-30 18:33:16 --> Input Class Initialized
+INFO - 2018-03-30 18:33:16 --> Language Class Initialized
+INFO - 2018-03-30 18:33:16 --> Loader Class Initialized
+INFO - 2018-03-30 18:33:16 --> Helper loaded: url_helper
+INFO - 2018-03-30 18:33:16 --> Helper loaded: string_helper
+INFO - 2018-03-30 18:33:16 --> Helper loaded: download_helper
+INFO - 2018-03-30 18:33:16 --> Helper loaded: form_helper
+INFO - 2018-03-30 18:33:16 --> Upload Class Initialized
+DEBUG - 2018-03-30 18:33:16 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2018-03-30 18:33:16 --> Session: Class initialized using 'files' driver.
+INFO - 2018-03-30 18:33:16 --> Controller Class Initialized
+INFO - 2018-03-30 18:33:16 --> Model Class Initialized
+ERROR - 2018-03-30 18:33:16 --> Severity: Notice --> Undefined index: id C:\xampp\htdocs\algoritmos\batalha_algoritmos\application\models\Users_model.php 49
+INFO - 2018-03-30 18:33:16 --> Helper loaded: date_helper
+INFO - 2018-03-30 18:33:16 --> File loaded: C:\xampp\htdocs\algoritmos\batalha_algoritmos\application\views\admin/admin.php
+INFO - 2018-03-30 18:33:16 --> File loaded: C:\xampp\htdocs\algoritmos\batalha_algoritmos\application\views\admin/exercice.php
+INFO - 2018-03-30 18:33:16 --> File loaded: C:\xampp\htdocs\algoritmos\batalha_algoritmos\application\views\footer.php
+INFO - 2018-03-30 18:33:16 --> Final output sent to browser
+DEBUG - 2018-03-30 18:33:16 --> Total execution time: 0.4210
+INFO - 2018-03-30 18:33:29 --> Config Class Initialized
+INFO - 2018-03-30 18:33:29 --> Hooks Class Initialized
+DEBUG - 2018-03-30 18:33:29 --> UTF-8 Support Enabled
+INFO - 2018-03-30 18:33:29 --> Utf8 Class Initialized
+INFO - 2018-03-30 18:33:29 --> URI Class Initialized
+DEBUG - 2018-03-30 18:33:29 --> No URI present. Default controller set.
+INFO - 2018-03-30 18:33:29 --> Router Class Initialized
+INFO - 2018-03-30 18:33:29 --> Output Class Initialized
+INFO - 2018-03-30 18:33:29 --> Security Class Initialized
+DEBUG - 2018-03-30 18:33:29 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-03-30 18:33:29 --> Input Class Initialized
+INFO - 2018-03-30 18:33:29 --> Language Class Initialized
+INFO - 2018-03-30 18:33:29 --> Loader Class Initialized
+INFO - 2018-03-30 18:33:29 --> Helper loaded: url_helper
+INFO - 2018-03-30 18:33:29 --> Helper loaded: string_helper
+INFO - 2018-03-30 18:33:29 --> Helper loaded: download_helper
+INFO - 2018-03-30 18:33:30 --> Helper loaded: form_helper
+INFO - 2018-03-30 18:33:30 --> Upload Class Initialized
+DEBUG - 2018-03-30 18:33:30 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2018-03-30 18:33:30 --> Session: Class initialized using 'files' driver.
+INFO - 2018-03-30 18:33:30 --> Controller Class Initialized
+INFO - 2018-03-30 18:33:30 --> Model Class Initialized
+INFO - 2018-03-30 18:33:30 --> Config Class Initialized
+INFO - 2018-03-30 18:33:30 --> Config Class Initialized
+INFO - 2018-03-30 18:33:30 --> Hooks Class Initialized
+INFO - 2018-03-30 18:33:30 --> Hooks Class Initialized
+DEBUG - 2018-03-30 18:33:30 --> UTF-8 Support Enabled
+DEBUG - 2018-03-30 18:33:30 --> UTF-8 Support Enabled
+INFO - 2018-03-30 18:33:30 --> Utf8 Class Initialized
+INFO - 2018-03-30 18:33:30 --> Utf8 Class Initialized
+INFO - 2018-03-30 18:33:30 --> URI Class Initialized
+INFO - 2018-03-30 18:33:30 --> URI Class Initialized
+DEBUG - 2018-03-30 18:33:30 --> No URI present. Default controller set.
+INFO - 2018-03-30 18:33:30 --> Router Class Initialized
+INFO - 2018-03-30 18:33:30 --> Router Class Initialized
+INFO - 2018-03-30 18:33:30 --> Output Class Initialized
+INFO - 2018-03-30 18:33:30 --> Output Class Initialized
+INFO - 2018-03-30 18:33:30 --> Security Class Initialized
+INFO - 2018-03-30 18:33:30 --> Security Class Initialized
+DEBUG - 2018-03-30 18:33:30 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-03-30 18:33:30 --> Input Class Initialized
+DEBUG - 2018-03-30 18:33:30 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-03-30 18:33:30 --> Input Class Initialized
+INFO - 2018-03-30 18:33:30 --> Language Class Initialized
+INFO - 2018-03-30 18:33:30 --> Language Class Initialized
+INFO - 2018-03-30 18:33:30 --> Loader Class Initialized
+INFO - 2018-03-30 18:33:30 --> Loader Class Initialized
+INFO - 2018-03-30 18:33:30 --> Helper loaded: url_helper
+INFO - 2018-03-30 18:33:30 --> Helper loaded: url_helper
+INFO - 2018-03-30 18:33:30 --> Helper loaded: string_helper
+INFO - 2018-03-30 18:33:30 --> Helper loaded: string_helper
+INFO - 2018-03-30 18:33:30 --> Helper loaded: download_helper
+INFO - 2018-03-30 18:33:30 --> Helper loaded: download_helper
+INFO - 2018-03-30 18:33:30 --> Helper loaded: form_helper
+INFO - 2018-03-30 18:33:30 --> Helper loaded: form_helper
+INFO - 2018-03-30 18:33:30 --> Upload Class Initialized
+INFO - 2018-03-30 18:33:30 --> Upload Class Initialized
+DEBUG - 2018-03-30 18:33:30 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2018-03-30 18:33:30 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2018-03-30 18:33:30 --> Session: Class initialized using 'files' driver.
+INFO - 2018-03-30 18:33:30 --> Controller Class Initialized
+INFO - 2018-03-30 18:33:30 --> Model Class Initialized
+INFO - 2018-03-30 18:33:30 --> Session: Class initialized using 'files' driver.
+INFO - 2018-03-30 18:33:30 --> Controller Class Initialized
+INFO - 2018-03-30 18:33:30 --> Form Validation Class Initialized
+INFO - 2018-03-30 18:33:30 --> File loaded: C:\xampp\htdocs\algoritmos\batalha_algoritmos\application\views\login.php
+INFO - 2018-03-30 18:33:30 --> Final output sent to browser
+DEBUG - 2018-03-30 18:33:30 --> Total execution time: 0.6630
+INFO - 2018-03-30 18:33:30 --> Config Class Initialized
+INFO - 2018-03-30 18:33:30 --> Hooks Class Initialized
+DEBUG - 2018-03-30 18:33:30 --> UTF-8 Support Enabled
+INFO - 2018-03-30 18:33:30 --> Utf8 Class Initialized
+INFO - 2018-03-30 18:33:30 --> URI Class Initialized
+INFO - 2018-03-30 18:33:30 --> Router Class Initialized
+INFO - 2018-03-30 18:33:30 --> Output Class Initialized
+INFO - 2018-03-30 18:33:30 --> Security Class Initialized
+DEBUG - 2018-03-30 18:33:31 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-03-30 18:33:31 --> Input Class Initialized
+INFO - 2018-03-30 18:33:31 --> Language Class Initialized
+INFO - 2018-03-30 18:33:31 --> Loader Class Initialized
+INFO - 2018-03-30 18:33:31 --> Helper loaded: url_helper
+INFO - 2018-03-30 18:33:31 --> Helper loaded: string_helper
+INFO - 2018-03-30 18:33:31 --> Helper loaded: download_helper
+INFO - 2018-03-30 18:33:31 --> Helper loaded: form_helper
+INFO - 2018-03-30 18:33:31 --> Upload Class Initialized
+DEBUG - 2018-03-30 18:33:31 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2018-03-30 18:33:31 --> Session: Class initialized using 'files' driver.
+INFO - 2018-03-30 18:33:31 --> Controller Class Initialized
+INFO - 2018-03-30 18:33:31 --> Form Validation Class Initialized
+INFO - 2018-03-30 18:33:31 --> File loaded: C:\xampp\htdocs\algoritmos\batalha_algoritmos\application\views\login.php
+INFO - 2018-03-30 18:33:31 --> Final output sent to browser
+DEBUG - 2018-03-30 18:33:31 --> Total execution time: 0.4317
+INFO - 2018-03-30 18:33:37 --> Config Class Initialized
+INFO - 2018-03-30 18:33:37 --> Hooks Class Initialized
+DEBUG - 2018-03-30 18:33:37 --> UTF-8 Support Enabled
+INFO - 2018-03-30 18:33:37 --> Utf8 Class Initialized
+INFO - 2018-03-30 18:33:37 --> URI Class Initialized
+INFO - 2018-03-30 18:33:37 --> Router Class Initialized
+INFO - 2018-03-30 18:33:37 --> Output Class Initialized
+INFO - 2018-03-30 18:33:37 --> Security Class Initialized
+DEBUG - 2018-03-30 18:33:37 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-03-30 18:33:37 --> Input Class Initialized
+INFO - 2018-03-30 18:33:37 --> Language Class Initialized
+INFO - 2018-03-30 18:33:37 --> Loader Class Initialized
+INFO - 2018-03-30 18:33:37 --> Helper loaded: url_helper
+INFO - 2018-03-30 18:33:37 --> Helper loaded: string_helper
+INFO - 2018-03-30 18:33:37 --> Helper loaded: download_helper
+INFO - 2018-03-30 18:33:37 --> Helper loaded: form_helper
+INFO - 2018-03-30 18:33:37 --> Upload Class Initialized
+DEBUG - 2018-03-30 18:33:37 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2018-03-30 18:33:37 --> Session: Class initialized using 'files' driver.
+INFO - 2018-03-30 18:33:37 --> Controller Class Initialized
+INFO - 2018-03-30 18:33:37 --> Form Validation Class Initialized
+INFO - 2018-03-30 18:33:37 --> Language file loaded: language/english/form_validation_lang.php
+ERROR - 2018-03-30 18:33:37 --> Severity: Notice --> Undefined index: username C:\xampp\htdocs\algoritmos\batalha_algoritmos\application\models\Users_model.php 25
+ERROR - 2018-03-30 18:33:37 --> Severity: Notice --> Undefined index: username C:\xampp\htdocs\algoritmos\batalha_algoritmos\application\models\Users_model.php 25
+ERROR - 2018-03-30 18:33:37 --> Severity: Notice --> Undefined index: username C:\xampp\htdocs\algoritmos\batalha_algoritmos\application\models\Users_model.php 25
+ERROR - 2018-03-30 18:33:37 --> Severity: Notice --> Undefined index: username C:\xampp\htdocs\algoritmos\batalha_algoritmos\application\models\Users_model.php 25
+ERROR - 2018-03-30 18:33:37 --> Severity: Notice --> Undefined index: username C:\xampp\htdocs\algoritmos\batalha_algoritmos\application\models\Users_model.php 25
+ERROR - 2018-03-30 18:33:37 --> Severity: Notice --> Undefined index: username C:\xampp\htdocs\algoritmos\batalha_algoritmos\application\models\Users_model.php 25
+ERROR - 2018-03-30 18:33:37 --> Severity: Notice --> Undefined index: username C:\xampp\htdocs\algoritmos\batalha_algoritmos\application\models\Users_model.php 25
+ERROR - 2018-03-30 18:33:37 --> Severity: Notice --> Undefined index: username C:\xampp\htdocs\algoritmos\batalha_algoritmos\application\models\Users_model.php 25
+ERROR - 2018-03-30 18:33:37 --> Severity: Notice --> Undefined index: username C:\xampp\htdocs\algoritmos\batalha_algoritmos\application\models\Users_model.php 25
+ERROR - 2018-03-30 18:33:37 --> Severity: Notice --> Undefined index: username C:\xampp\htdocs\algoritmos\batalha_algoritmos\application\models\Users_model.php 25
+ERROR - 2018-03-30 18:33:37 --> Severity: Notice --> Undefined index: username C:\xampp\htdocs\algoritmos\batalha_algoritmos\application\models\Users_model.php 25
+ERROR - 2018-03-30 18:33:37 --> Severity: Notice --> Undefined index: username C:\xampp\htdocs\algoritmos\batalha_algoritmos\application\models\Users_model.php 25
+ERROR - 2018-03-30 18:33:37 --> Severity: Notice --> Undefined index: username C:\xampp\htdocs\algoritmos\batalha_algoritmos\application\models\Users_model.php 25
+ERROR - 2018-03-30 18:33:37 --> Severity: Notice --> Undefined index: username C:\xampp\htdocs\algoritmos\batalha_algoritmos\application\models\Users_model.php 25
+ERROR - 2018-03-30 18:33:37 --> Severity: Notice --> Undefined index: username C:\xampp\htdocs\algoritmos\batalha_algoritmos\application\models\Users_model.php 25
+ERROR - 2018-03-30 18:33:37 --> Severity: Notice --> Undefined index: username C:\xampp\htdocs\algoritmos\batalha_algoritmos\application\models\Users_model.php 25
+ERROR - 2018-03-30 18:33:37 --> Severity: Notice --> Undefined index: username C:\xampp\htdocs\algoritmos\batalha_algoritmos\application\models\Users_model.php 25
+ERROR - 2018-03-30 18:33:37 --> Severity: Notice --> Undefined index: username C:\xampp\htdocs\algoritmos\batalha_algoritmos\application\models\Users_model.php 25
+INFO - 2018-03-30 18:33:37 --> File loaded: C:\xampp\htdocs\algoritmos\batalha_algoritmos\application\views\login.php
+INFO - 2018-03-30 18:33:37 --> Final output sent to browser
+DEBUG - 2018-03-30 18:33:37 --> Total execution time: 0.7777
+INFO - 2018-03-30 18:34:02 --> Config Class Initialized
+INFO - 2018-03-30 18:34:02 --> Hooks Class Initialized
+DEBUG - 2018-03-30 18:34:03 --> UTF-8 Support Enabled
+INFO - 2018-03-30 18:34:03 --> Utf8 Class Initialized
+INFO - 2018-03-30 18:34:03 --> URI Class Initialized
+DEBUG - 2018-03-30 18:34:03 --> No URI present. Default controller set.
+INFO - 2018-03-30 18:34:03 --> Router Class Initialized
+INFO - 2018-03-30 18:34:03 --> Output Class Initialized
+INFO - 2018-03-30 18:34:03 --> Security Class Initialized
+DEBUG - 2018-03-30 18:34:03 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-03-30 18:34:03 --> Input Class Initialized
+INFO - 2018-03-30 18:34:03 --> Language Class Initialized
+INFO - 2018-03-30 18:34:03 --> Loader Class Initialized
+INFO - 2018-03-30 18:34:03 --> Helper loaded: url_helper
+INFO - 2018-03-30 18:34:03 --> Helper loaded: string_helper
+INFO - 2018-03-30 18:34:03 --> Helper loaded: download_helper
+INFO - 2018-03-30 18:34:03 --> Helper loaded: form_helper
+INFO - 2018-03-30 18:34:03 --> Upload Class Initialized
+DEBUG - 2018-03-30 18:34:03 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2018-03-30 18:34:03 --> Session: Class initialized using 'files' driver.
+INFO - 2018-03-30 18:34:03 --> Controller Class Initialized
+INFO - 2018-03-30 18:34:03 --> Model Class Initialized
+INFO - 2018-03-30 18:34:03 --> Config Class Initialized
+INFO - 2018-03-30 18:34:03 --> Hooks Class Initialized
+INFO - 2018-03-30 18:34:03 --> Config Class Initialized
+INFO - 2018-03-30 18:34:03 --> Hooks Class Initialized
+DEBUG - 2018-03-30 18:34:03 --> UTF-8 Support Enabled
+DEBUG - 2018-03-30 18:34:03 --> UTF-8 Support Enabled
+INFO - 2018-03-30 18:34:03 --> Utf8 Class Initialized
+INFO - 2018-03-30 18:34:03 --> Utf8 Class Initialized
+INFO - 2018-03-30 18:34:03 --> URI Class Initialized
+INFO - 2018-03-30 18:34:03 --> URI Class Initialized
+DEBUG - 2018-03-30 18:34:03 --> No URI present. Default controller set.
+INFO - 2018-03-30 18:34:03 --> Router Class Initialized
+INFO - 2018-03-30 18:34:03 --> Router Class Initialized
+INFO - 2018-03-30 18:34:03 --> Output Class Initialized
+INFO - 2018-03-30 18:34:03 --> Output Class Initialized
+INFO - 2018-03-30 18:34:03 --> Security Class Initialized
+INFO - 2018-03-30 18:34:03 --> Security Class Initialized
+DEBUG - 2018-03-30 18:34:03 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2018-03-30 18:34:03 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-03-30 18:34:03 --> Input Class Initialized
+INFO - 2018-03-30 18:34:03 --> Input Class Initialized
+INFO - 2018-03-30 18:34:03 --> Language Class Initialized
+INFO - 2018-03-30 18:34:03 --> Language Class Initialized
+INFO - 2018-03-30 18:34:03 --> Loader Class Initialized
+INFO - 2018-03-30 18:34:03 --> Loader Class Initialized
+INFO - 2018-03-30 18:34:03 --> Helper loaded: url_helper
+INFO - 2018-03-30 18:34:03 --> Helper loaded: url_helper
+INFO - 2018-03-30 18:34:03 --> Helper loaded: string_helper
+INFO - 2018-03-30 18:34:03 --> Helper loaded: string_helper
+INFO - 2018-03-30 18:34:03 --> Helper loaded: download_helper
+INFO - 2018-03-30 18:34:03 --> Helper loaded: download_helper
+INFO - 2018-03-30 18:34:03 --> Helper loaded: form_helper
+INFO - 2018-03-30 18:34:03 --> Helper loaded: form_helper
+INFO - 2018-03-30 18:34:03 --> Upload Class Initialized
+INFO - 2018-03-30 18:34:03 --> Upload Class Initialized
+DEBUG - 2018-03-30 18:34:03 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2018-03-30 18:34:03 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2018-03-30 18:34:03 --> Session: Class initialized using 'files' driver.
+INFO - 2018-03-30 18:34:03 --> Controller Class Initialized
+INFO - 2018-03-30 18:34:04 --> Form Validation Class Initialized
+INFO - 2018-03-30 18:34:04 --> File loaded: C:\xampp\htdocs\algoritmos\batalha_algoritmos\application\views\login.php
+INFO - 2018-03-30 18:34:04 --> Final output sent to browser
+DEBUG - 2018-03-30 18:34:04 --> Total execution time: 0.6461
+INFO - 2018-03-30 18:34:04 --> Session: Class initialized using 'files' driver.
+INFO - 2018-03-30 18:34:04 --> Controller Class Initialized
+INFO - 2018-03-30 18:34:04 --> Model Class Initialized
+INFO - 2018-03-30 18:34:04 --> Config Class Initialized
+INFO - 2018-03-30 18:34:04 --> Hooks Class Initialized
+DEBUG - 2018-03-30 18:34:04 --> UTF-8 Support Enabled
+INFO - 2018-03-30 18:34:04 --> Utf8 Class Initialized
+INFO - 2018-03-30 18:34:04 --> URI Class Initialized
+INFO - 2018-03-30 18:34:04 --> Router Class Initialized
+INFO - 2018-03-30 18:34:04 --> Output Class Initialized
+INFO - 2018-03-30 18:34:04 --> Security Class Initialized
+DEBUG - 2018-03-30 18:34:04 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-03-30 18:34:04 --> Input Class Initialized
+INFO - 2018-03-30 18:34:04 --> Language Class Initialized
+INFO - 2018-03-30 18:34:04 --> Loader Class Initialized
+INFO - 2018-03-30 18:34:04 --> Helper loaded: url_helper
+INFO - 2018-03-30 18:34:04 --> Helper loaded: string_helper
+INFO - 2018-03-30 18:34:04 --> Helper loaded: download_helper
+INFO - 2018-03-30 18:34:04 --> Helper loaded: form_helper
+INFO - 2018-03-30 18:34:04 --> Upload Class Initialized
+DEBUG - 2018-03-30 18:34:04 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2018-03-30 18:34:04 --> Session: Class initialized using 'files' driver.
+INFO - 2018-03-30 18:34:04 --> Controller Class Initialized
+INFO - 2018-03-30 18:34:04 --> Form Validation Class Initialized
+INFO - 2018-03-30 18:34:04 --> File loaded: C:\xampp\htdocs\algoritmos\batalha_algoritmos\application\views\login.php
+INFO - 2018-03-30 18:34:04 --> Final output sent to browser
+DEBUG - 2018-03-30 18:34:04 --> Total execution time: 0.3941
+INFO - 2018-03-30 18:34:31 --> Config Class Initialized
+INFO - 2018-03-30 18:34:31 --> Hooks Class Initialized
+DEBUG - 2018-03-30 18:34:31 --> UTF-8 Support Enabled
+INFO - 2018-03-30 18:34:31 --> Utf8 Class Initialized
+INFO - 2018-03-30 18:34:31 --> URI Class Initialized
+INFO - 2018-03-30 18:34:31 --> Router Class Initialized
+INFO - 2018-03-30 18:34:31 --> Output Class Initialized
+INFO - 2018-03-30 18:34:31 --> Security Class Initialized
+DEBUG - 2018-03-30 18:34:31 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-03-30 18:34:31 --> Input Class Initialized
+INFO - 2018-03-30 18:34:31 --> Language Class Initialized
+INFO - 2018-03-30 18:34:31 --> Loader Class Initialized
+INFO - 2018-03-30 18:34:31 --> Helper loaded: url_helper
+INFO - 2018-03-30 18:34:31 --> Helper loaded: string_helper
+INFO - 2018-03-30 18:34:31 --> Helper loaded: download_helper
+INFO - 2018-03-30 18:34:31 --> Helper loaded: form_helper
+INFO - 2018-03-30 18:34:31 --> Upload Class Initialized
+DEBUG - 2018-03-30 18:34:31 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2018-03-30 18:34:31 --> Session: Class initialized using 'files' driver.
+INFO - 2018-03-30 18:34:32 --> Controller Class Initialized
+INFO - 2018-03-30 18:34:32 --> Form Validation Class Initialized
+INFO - 2018-03-30 18:34:32 --> Language file loaded: language/english/form_validation_lang.php
+ERROR - 2018-03-30 18:34:32 --> Severity: Notice --> Undefined index: username C:\xampp\htdocs\algoritmos\batalha_algoritmos\application\models\Users_model.php 25
+ERROR - 2018-03-30 18:34:32 --> Severity: Notice --> Undefined index: username C:\xampp\htdocs\algoritmos\batalha_algoritmos\application\models\Users_model.php 25
+ERROR - 2018-03-30 18:34:32 --> Severity: Notice --> Undefined index: username C:\xampp\htdocs\algoritmos\batalha_algoritmos\application\models\Users_model.php 25
+ERROR - 2018-03-30 18:34:32 --> Severity: Notice --> Undefined index: username C:\xampp\htdocs\algoritmos\batalha_algoritmos\application\models\Users_model.php 25
+ERROR - 2018-03-30 18:34:32 --> Severity: Notice --> Undefined index: username C:\xampp\htdocs\algoritmos\batalha_algoritmos\application\models\Users_model.php 25
+ERROR - 2018-03-30 18:34:32 --> Severity: Notice --> Undefined index: username C:\xampp\htdocs\algoritmos\batalha_algoritmos\application\models\Users_model.php 25
+ERROR - 2018-03-30 18:34:32 --> Severity: Notice --> Undefined index: username C:\xampp\htdocs\algoritmos\batalha_algoritmos\application\models\Users_model.php 25
+ERROR - 2018-03-30 18:34:32 --> Severity: Notice --> Undefined index: username C:\xampp\htdocs\algoritmos\batalha_algoritmos\application\models\Users_model.php 25
+ERROR - 2018-03-30 18:34:32 --> Severity: Notice --> Undefined index: username C:\xampp\htdocs\algoritmos\batalha_algoritmos\application\models\Users_model.php 25
+ERROR - 2018-03-30 18:34:32 --> Severity: Notice --> Undefined index: username C:\xampp\htdocs\algoritmos\batalha_algoritmos\application\models\Users_model.php 25
+ERROR - 2018-03-30 18:34:32 --> Severity: Notice --> Undefined index: username C:\xampp\htdocs\algoritmos\batalha_algoritmos\application\models\Users_model.php 25
+ERROR - 2018-03-30 18:34:32 --> Severity: Notice --> Undefined index: username C:\xampp\htdocs\algoritmos\batalha_algoritmos\application\models\Users_model.php 25
+ERROR - 2018-03-30 18:34:32 --> Severity: Notice --> Undefined index: username C:\xampp\htdocs\algoritmos\batalha_algoritmos\application\models\Users_model.php 25
+ERROR - 2018-03-30 18:34:32 --> Severity: Notice --> Undefined index: username C:\xampp\htdocs\algoritmos\batalha_algoritmos\application\models\Users_model.php 25
+ERROR - 2018-03-30 18:34:32 --> Severity: Notice --> Undefined index: username C:\xampp\htdocs\algoritmos\batalha_algoritmos\application\models\Users_model.php 25
+ERROR - 2018-03-30 18:34:32 --> Severity: Notice --> Undefined index: username C:\xampp\htdocs\algoritmos\batalha_algoritmos\application\models\Users_model.php 25
+ERROR - 2018-03-30 18:34:32 --> Severity: Notice --> Undefined index: username C:\xampp\htdocs\algoritmos\batalha_algoritmos\application\models\Users_model.php 25
+ERROR - 2018-03-30 18:34:32 --> Severity: Notice --> Undefined index: username C:\xampp\htdocs\algoritmos\batalha_algoritmos\application\models\Users_model.php 25
+INFO - 2018-03-30 18:34:32 --> File loaded: C:\xampp\htdocs\algoritmos\batalha_algoritmos\application\views\login.php
+INFO - 2018-03-30 18:34:32 --> Final output sent to browser
+DEBUG - 2018-03-30 18:34:32 --> Total execution time: 0.7473
+INFO - 2018-03-30 18:35:37 --> Config Class Initialized
+INFO - 2018-03-30 18:35:37 --> Hooks Class Initialized
+DEBUG - 2018-03-30 18:35:37 --> UTF-8 Support Enabled
+INFO - 2018-03-30 18:35:37 --> Utf8 Class Initialized
+INFO - 2018-03-30 18:35:37 --> URI Class Initialized
+INFO - 2018-03-30 18:35:37 --> Router Class Initialized
+INFO - 2018-03-30 18:35:37 --> Output Class Initialized
+INFO - 2018-03-30 18:35:37 --> Security Class Initialized
+DEBUG - 2018-03-30 18:35:37 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-03-30 18:35:37 --> Input Class Initialized
+INFO - 2018-03-30 18:35:37 --> Language Class Initialized
+INFO - 2018-03-30 18:35:37 --> Loader Class Initialized
+INFO - 2018-03-30 18:35:37 --> Helper loaded: url_helper
+INFO - 2018-03-30 18:35:37 --> Helper loaded: string_helper
+INFO - 2018-03-30 18:35:37 --> Helper loaded: download_helper
+INFO - 2018-03-30 18:35:37 --> Helper loaded: form_helper
+INFO - 2018-03-30 18:35:37 --> Upload Class Initialized
+DEBUG - 2018-03-30 18:35:37 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2018-03-30 18:35:37 --> Session: Class initialized using 'files' driver.
+INFO - 2018-03-30 18:35:37 --> Controller Class Initialized
+INFO - 2018-03-30 18:35:37 --> Form Validation Class Initialized
+INFO - 2018-03-30 18:35:37 --> File loaded: C:\xampp\htdocs\algoritmos\batalha_algoritmos\application\views\login.php
+INFO - 2018-03-30 18:35:37 --> Final output sent to browser
+DEBUG - 2018-03-30 18:35:37 --> Total execution time: 0.3868
+INFO - 2018-03-30 18:35:42 --> Config Class Initialized
+INFO - 2018-03-30 18:35:42 --> Hooks Class Initialized
+DEBUG - 2018-03-30 18:35:42 --> UTF-8 Support Enabled
+INFO - 2018-03-30 18:35:42 --> Utf8 Class Initialized
+INFO - 2018-03-30 18:35:42 --> URI Class Initialized
+INFO - 2018-03-30 18:35:42 --> Router Class Initialized
+INFO - 2018-03-30 18:35:42 --> Output Class Initialized
+INFO - 2018-03-30 18:35:42 --> Security Class Initialized
+DEBUG - 2018-03-30 18:35:42 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-03-30 18:35:42 --> Input Class Initialized
+INFO - 2018-03-30 18:35:42 --> Language Class Initialized
+INFO - 2018-03-30 18:35:42 --> Loader Class Initialized
+INFO - 2018-03-30 18:35:42 --> Helper loaded: url_helper
+INFO - 2018-03-30 18:35:42 --> Helper loaded: string_helper
+INFO - 2018-03-30 18:35:42 --> Helper loaded: download_helper
+INFO - 2018-03-30 18:35:42 --> Helper loaded: form_helper
+INFO - 2018-03-30 18:35:42 --> Upload Class Initialized
+DEBUG - 2018-03-30 18:35:42 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2018-03-30 18:35:42 --> Session: Class initialized using 'files' driver.
+INFO - 2018-03-30 18:35:42 --> Controller Class Initialized
+INFO - 2018-03-30 18:35:42 --> Form Validation Class Initialized
+INFO - 2018-03-30 18:35:42 --> Language file loaded: language/english/form_validation_lang.php
+INFO - 2018-03-30 18:35:42 --> File loaded: C:\xampp\htdocs\algoritmos\batalha_algoritmos\application\views\login.php
+INFO - 2018-03-30 18:35:42 --> Final output sent to browser
+DEBUG - 2018-03-30 18:35:42 --> Total execution time: 0.3538
+INFO - 2018-03-30 18:35:49 --> Config Class Initialized
+INFO - 2018-03-30 18:35:49 --> Hooks Class Initialized
+DEBUG - 2018-03-30 18:35:49 --> UTF-8 Support Enabled
+INFO - 2018-03-30 18:35:49 --> Utf8 Class Initialized
+INFO - 2018-03-30 18:35:49 --> URI Class Initialized
+INFO - 2018-03-30 18:35:49 --> Router Class Initialized
+INFO - 2018-03-30 18:35:49 --> Output Class Initialized
+INFO - 2018-03-30 18:35:49 --> Security Class Initialized
+DEBUG - 2018-03-30 18:35:49 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-03-30 18:35:49 --> Input Class Initialized
+INFO - 2018-03-30 18:35:49 --> Language Class Initialized
+INFO - 2018-03-30 18:35:49 --> Loader Class Initialized
+INFO - 2018-03-30 18:35:49 --> Helper loaded: url_helper
+INFO - 2018-03-30 18:35:49 --> Helper loaded: string_helper
+INFO - 2018-03-30 18:35:49 --> Helper loaded: download_helper
+INFO - 2018-03-30 18:35:49 --> Helper loaded: form_helper
+INFO - 2018-03-30 18:35:49 --> Upload Class Initialized
+DEBUG - 2018-03-30 18:35:49 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2018-03-30 18:35:49 --> Session: Class initialized using 'files' driver.
+INFO - 2018-03-30 18:35:49 --> Controller Class Initialized
+INFO - 2018-03-30 18:35:49 --> Form Validation Class Initialized
+INFO - 2018-03-30 18:35:49 --> Language file loaded: language/english/form_validation_lang.php
+INFO - 2018-03-30 18:35:49 --> File loaded: C:\xampp\htdocs\algoritmos\batalha_algoritmos\application\views\login.php
+INFO - 2018-03-30 18:35:49 --> Final output sent to browser
+DEBUG - 2018-03-30 18:35:49 --> Total execution time: 0.3468
+INFO - 2018-03-30 18:36:28 --> Config Class Initialized
+INFO - 2018-03-30 18:36:28 --> Hooks Class Initialized
+DEBUG - 2018-03-30 18:36:28 --> UTF-8 Support Enabled
+INFO - 2018-03-30 18:36:28 --> Utf8 Class Initialized
+INFO - 2018-03-30 18:36:28 --> URI Class Initialized
+INFO - 2018-03-30 18:36:28 --> Router Class Initialized
+INFO - 2018-03-30 18:36:28 --> Output Class Initialized
+INFO - 2018-03-30 18:36:28 --> Security Class Initialized
+DEBUG - 2018-03-30 18:36:28 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-03-30 18:36:28 --> Input Class Initialized
+INFO - 2018-03-30 18:36:28 --> Language Class Initialized
+INFO - 2018-03-30 18:36:28 --> Loader Class Initialized
+INFO - 2018-03-30 18:36:28 --> Helper loaded: url_helper
+INFO - 2018-03-30 18:36:28 --> Helper loaded: string_helper
+INFO - 2018-03-30 18:36:28 --> Helper loaded: download_helper
+INFO - 2018-03-30 18:36:28 --> Helper loaded: form_helper
+INFO - 2018-03-30 18:36:28 --> Upload Class Initialized
+DEBUG - 2018-03-30 18:36:28 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2018-03-30 18:36:28 --> Session: Class initialized using 'files' driver.
+INFO - 2018-03-30 18:36:28 --> Controller Class Initialized
+INFO - 2018-03-30 18:36:28 --> Form Validation Class Initialized
+INFO - 2018-03-30 18:36:28 --> File loaded: C:\xampp\htdocs\algoritmos\batalha_algoritmos\application\views\login.php
+INFO - 2018-03-30 18:36:28 --> Final output sent to browser
+DEBUG - 2018-03-30 18:36:28 --> Total execution time: 0.3705
+INFO - 2018-03-30 18:36:32 --> Config Class Initialized
+INFO - 2018-03-30 18:36:32 --> Hooks Class Initialized
+DEBUG - 2018-03-30 18:36:32 --> UTF-8 Support Enabled
+INFO - 2018-03-30 18:36:32 --> Utf8 Class Initialized
+INFO - 2018-03-30 18:36:32 --> URI Class Initialized
+INFO - 2018-03-30 18:36:32 --> Router Class Initialized
+INFO - 2018-03-30 18:36:32 --> Output Class Initialized
+INFO - 2018-03-30 18:36:32 --> Security Class Initialized
+DEBUG - 2018-03-30 18:36:32 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-03-30 18:36:32 --> Input Class Initialized
+INFO - 2018-03-30 18:36:32 --> Language Class Initialized
+INFO - 2018-03-30 18:36:32 --> Loader Class Initialized
+INFO - 2018-03-30 18:36:33 --> Helper loaded: url_helper
+INFO - 2018-03-30 18:36:33 --> Helper loaded: string_helper
+INFO - 2018-03-30 18:36:33 --> Helper loaded: download_helper
+INFO - 2018-03-30 18:36:33 --> Helper loaded: form_helper
+INFO - 2018-03-30 18:36:33 --> Upload Class Initialized
+DEBUG - 2018-03-30 18:36:33 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2018-03-30 18:36:33 --> Session: Class initialized using 'files' driver.
+INFO - 2018-03-30 18:36:33 --> Controller Class Initialized
+INFO - 2018-03-30 18:36:33 --> Form Validation Class Initialized
+INFO - 2018-03-30 18:36:33 --> Language file loaded: language/english/form_validation_lang.php
+ERROR - 2018-03-30 18:36:33 --> Severity: Notice --> Undefined index: name C:\xampp\htdocs\algoritmos\batalha_algoritmos\application\models\Users_model.php 25
+ERROR - 2018-03-30 18:36:33 --> Severity: Notice --> Undefined index: name C:\xampp\htdocs\algoritmos\batalha_algoritmos\application\models\Users_model.php 25
+ERROR - 2018-03-30 18:36:33 --> Severity: Notice --> Undefined index: name C:\xampp\htdocs\algoritmos\batalha_algoritmos\application\models\Users_model.php 25
+ERROR - 2018-03-30 18:36:33 --> Severity: Notice --> Undefined index: name C:\xampp\htdocs\algoritmos\batalha_algoritmos\application\models\Users_model.php 25
+ERROR - 2018-03-30 18:36:33 --> Severity: Notice --> Undefined index: name C:\xampp\htdocs\algoritmos\batalha_algoritmos\application\models\Users_model.php 25
+ERROR - 2018-03-30 18:36:33 --> Severity: Notice --> Undefined index: name C:\xampp\htdocs\algoritmos\batalha_algoritmos\application\models\Users_model.php 25
+ERROR - 2018-03-30 18:36:33 --> Severity: Notice --> Undefined index: name C:\xampp\htdocs\algoritmos\batalha_algoritmos\application\models\Users_model.php 25
+ERROR - 2018-03-30 18:36:33 --> Severity: Notice --> Undefined index: name C:\xampp\htdocs\algoritmos\batalha_algoritmos\application\models\Users_model.php 25
+ERROR - 2018-03-30 18:36:33 --> Severity: Notice --> Undefined index: name C:\xampp\htdocs\algoritmos\batalha_algoritmos\application\models\Users_model.php 25
+ERROR - 2018-03-30 18:36:33 --> Severity: Notice --> Undefined index: name C:\xampp\htdocs\algoritmos\batalha_algoritmos\application\models\Users_model.php 25
+ERROR - 2018-03-30 18:36:33 --> Severity: Notice --> Undefined index: name C:\xampp\htdocs\algoritmos\batalha_algoritmos\application\models\Users_model.php 25
+ERROR - 2018-03-30 18:36:33 --> Severity: Notice --> Undefined index: name C:\xampp\htdocs\algoritmos\batalha_algoritmos\application\models\Users_model.php 25
+ERROR - 2018-03-30 18:36:33 --> Severity: Notice --> Undefined index: name C:\xampp\htdocs\algoritmos\batalha_algoritmos\application\models\Users_model.php 25
+ERROR - 2018-03-30 18:36:33 --> Severity: Notice --> Undefined index: name C:\xampp\htdocs\algoritmos\batalha_algoritmos\application\models\Users_model.php 25
+ERROR - 2018-03-30 18:36:33 --> Severity: Notice --> Undefined index: name C:\xampp\htdocs\algoritmos\batalha_algoritmos\application\models\Users_model.php 25
+ERROR - 2018-03-30 18:36:33 --> Severity: Notice --> Undefined index: name C:\xampp\htdocs\algoritmos\batalha_algoritmos\application\models\Users_model.php 25
+ERROR - 2018-03-30 18:36:33 --> Severity: Notice --> Undefined index: name C:\xampp\htdocs\algoritmos\batalha_algoritmos\application\models\Users_model.php 25
+ERROR - 2018-03-30 18:36:33 --> Severity: Notice --> Undefined index: name C:\xampp\htdocs\algoritmos\batalha_algoritmos\application\models\Users_model.php 25
+INFO - 2018-03-30 18:36:33 --> File loaded: C:\xampp\htdocs\algoritmos\batalha_algoritmos\application\views\login.php
+INFO - 2018-03-30 18:36:33 --> Final output sent to browser
+DEBUG - 2018-03-30 18:36:33 --> Total execution time: 0.6328
+INFO - 2018-03-30 19:25:13 --> Config Class Initialized
+INFO - 2018-03-30 19:25:13 --> Hooks Class Initialized
+DEBUG - 2018-03-30 19:25:13 --> UTF-8 Support Enabled
+INFO - 2018-03-30 19:25:13 --> Utf8 Class Initialized
+INFO - 2018-03-30 19:25:13 --> URI Class Initialized
+DEBUG - 2018-03-30 19:25:13 --> No URI present. Default controller set.
+INFO - 2018-03-30 19:25:13 --> Router Class Initialized
+INFO - 2018-03-30 19:25:13 --> Output Class Initialized
+INFO - 2018-03-30 19:25:13 --> Security Class Initialized
+DEBUG - 2018-03-30 19:25:13 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-03-30 19:25:13 --> Input Class Initialized
+INFO - 2018-03-30 19:25:13 --> Language Class Initialized
+INFO - 2018-03-30 19:25:13 --> Loader Class Initialized
+INFO - 2018-03-30 19:25:13 --> Helper loaded: url_helper
+INFO - 2018-03-30 19:25:13 --> Helper loaded: string_helper
+INFO - 2018-03-30 19:25:13 --> Helper loaded: download_helper
+INFO - 2018-03-30 19:25:13 --> Helper loaded: form_helper
+INFO - 2018-03-30 19:25:13 --> Upload Class Initialized
+DEBUG - 2018-03-30 19:25:13 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2018-03-30 19:25:13 --> Session: Class initialized using 'files' driver.
+INFO - 2018-03-30 19:25:13 --> Controller Class Initialized
+INFO - 2018-03-30 19:25:13 --> Model Class Initialized
+INFO - 2018-03-30 19:25:13 --> Config Class Initialized
+INFO - 2018-03-30 19:25:13 --> Hooks Class Initialized
+DEBUG - 2018-03-30 19:25:13 --> UTF-8 Support Enabled
+INFO - 2018-03-30 19:25:13 --> Utf8 Class Initialized
+INFO - 2018-03-30 19:25:13 --> URI Class Initialized
+INFO - 2018-03-30 19:25:13 --> Router Class Initialized
+INFO - 2018-03-30 19:25:13 --> Output Class Initialized
+INFO - 2018-03-30 19:25:13 --> Security Class Initialized
+DEBUG - 2018-03-30 19:25:13 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-03-30 19:25:13 --> Input Class Initialized
+INFO - 2018-03-30 19:25:13 --> Language Class Initialized
+INFO - 2018-03-30 19:25:13 --> Loader Class Initialized
+INFO - 2018-03-30 19:25:13 --> Helper loaded: url_helper
+INFO - 2018-03-30 19:25:13 --> Helper loaded: string_helper
+INFO - 2018-03-30 19:25:13 --> Helper loaded: download_helper
+INFO - 2018-03-30 19:25:13 --> Helper loaded: form_helper
+INFO - 2018-03-30 19:25:13 --> Upload Class Initialized
+DEBUG - 2018-03-30 19:25:14 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2018-03-30 19:25:14 --> Session: Class initialized using 'files' driver.
+INFO - 2018-03-30 19:25:14 --> Controller Class Initialized
+INFO - 2018-03-30 19:25:14 --> Form Validation Class Initialized
+INFO - 2018-03-30 19:25:14 --> File loaded: C:\xampp\htdocs\algoritmos\batalha_algoritmos\application\views\login.php
+INFO - 2018-03-30 19:25:14 --> Final output sent to browser
+DEBUG - 2018-03-30 19:25:14 --> Total execution time: 0.3793
+INFO - 2018-03-30 19:25:19 --> Config Class Initialized
+INFO - 2018-03-30 19:25:19 --> Hooks Class Initialized
+DEBUG - 2018-03-30 19:25:19 --> UTF-8 Support Enabled
+INFO - 2018-03-30 19:25:19 --> Utf8 Class Initialized
+INFO - 2018-03-30 19:25:19 --> URI Class Initialized
+INFO - 2018-03-30 19:25:19 --> Router Class Initialized
+INFO - 2018-03-30 19:25:19 --> Output Class Initialized
+INFO - 2018-03-30 19:25:19 --> Security Class Initialized
+DEBUG - 2018-03-30 19:25:19 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-03-30 19:25:19 --> Input Class Initialized
+INFO - 2018-03-30 19:25:19 --> Language Class Initialized
+INFO - 2018-03-30 19:25:19 --> Loader Class Initialized
+INFO - 2018-03-30 19:25:19 --> Helper loaded: url_helper
+INFO - 2018-03-30 19:25:19 --> Helper loaded: string_helper
+INFO - 2018-03-30 19:25:19 --> Helper loaded: download_helper
+INFO - 2018-03-30 19:25:19 --> Helper loaded: form_helper
+INFO - 2018-03-30 19:25:19 --> Upload Class Initialized
+DEBUG - 2018-03-30 19:25:19 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2018-03-30 19:25:19 --> Session: Class initialized using 'files' driver.
+INFO - 2018-03-30 19:25:19 --> Controller Class Initialized
+INFO - 2018-03-30 19:25:19 --> Form Validation Class Initialized
+INFO - 2018-03-30 19:25:19 --> Language file loaded: language/english/form_validation_lang.php
+ERROR - 2018-03-30 19:25:19 --> Severity: Notice --> Undefined index: username C:\xampp\htdocs\algoritmos\batalha_algoritmos\application\models\Users_model.php 25
+ERROR - 2018-03-30 19:25:19 --> Severity: Notice --> Undefined index: username C:\xampp\htdocs\algoritmos\batalha_algoritmos\application\models\Users_model.php 25
+ERROR - 2018-03-30 19:25:19 --> Severity: Notice --> Undefined index: username C:\xampp\htdocs\algoritmos\batalha_algoritmos\application\models\Users_model.php 25
+ERROR - 2018-03-30 19:25:19 --> Severity: Notice --> Undefined index: username C:\xampp\htdocs\algoritmos\batalha_algoritmos\application\models\Users_model.php 25
+ERROR - 2018-03-30 19:25:19 --> Severity: Notice --> Undefined index: username C:\xampp\htdocs\algoritmos\batalha_algoritmos\application\models\Users_model.php 25
+ERROR - 2018-03-30 19:25:19 --> Severity: Notice --> Undefined index: username C:\xampp\htdocs\algoritmos\batalha_algoritmos\application\models\Users_model.php 25
+ERROR - 2018-03-30 19:25:19 --> Severity: Notice --> Undefined index: username C:\xampp\htdocs\algoritmos\batalha_algoritmos\application\models\Users_model.php 25
+ERROR - 2018-03-30 19:25:19 --> Severity: Notice --> Undefined index: username C:\xampp\htdocs\algoritmos\batalha_algoritmos\application\models\Users_model.php 25
+ERROR - 2018-03-30 19:25:19 --> Severity: Notice --> Undefined index: username C:\xampp\htdocs\algoritmos\batalha_algoritmos\application\models\Users_model.php 25
+ERROR - 2018-03-30 19:25:19 --> Severity: Notice --> Undefined index: username C:\xampp\htdocs\algoritmos\batalha_algoritmos\application\models\Users_model.php 25
+ERROR - 2018-03-30 19:25:19 --> Severity: Notice --> Undefined index: username C:\xampp\htdocs\algoritmos\batalha_algoritmos\application\models\Users_model.php 25
+ERROR - 2018-03-30 19:25:19 --> Severity: Notice --> Undefined index: username C:\xampp\htdocs\algoritmos\batalha_algoritmos\application\models\Users_model.php 25
+ERROR - 2018-03-30 19:25:19 --> Severity: Notice --> Undefined index: username C:\xampp\htdocs\algoritmos\batalha_algoritmos\application\models\Users_model.php 25
+ERROR - 2018-03-30 19:25:19 --> Severity: Notice --> Undefined index: username C:\xampp\htdocs\algoritmos\batalha_algoritmos\application\models\Users_model.php 25
+ERROR - 2018-03-30 19:25:19 --> Severity: Notice --> Undefined index: username C:\xampp\htdocs\algoritmos\batalha_algoritmos\application\models\Users_model.php 25
+ERROR - 2018-03-30 19:25:19 --> Severity: Notice --> Undefined index: username C:\xampp\htdocs\algoritmos\batalha_algoritmos\application\models\Users_model.php 25
+ERROR - 2018-03-30 19:25:19 --> Severity: Notice --> Undefined index: username C:\xampp\htdocs\algoritmos\batalha_algoritmos\application\models\Users_model.php 25
+ERROR - 2018-03-30 19:25:19 --> Severity: Notice --> Undefined index: username C:\xampp\htdocs\algoritmos\batalha_algoritmos\application\models\Users_model.php 25
+INFO - 2018-03-30 19:25:19 --> File loaded: C:\xampp\htdocs\algoritmos\batalha_algoritmos\application\views\login.php
+INFO - 2018-03-30 19:25:19 --> Final output sent to browser
+DEBUG - 2018-03-30 19:25:19 --> Total execution time: 0.6548
+INFO - 2018-03-30 19:27:09 --> Config Class Initialized
+INFO - 2018-03-30 19:27:09 --> Hooks Class Initialized
+DEBUG - 2018-03-30 19:27:09 --> UTF-8 Support Enabled
+INFO - 2018-03-30 19:27:09 --> Utf8 Class Initialized
+INFO - 2018-03-30 19:27:09 --> URI Class Initialized
+INFO - 2018-03-30 19:27:09 --> Router Class Initialized
+INFO - 2018-03-30 19:27:09 --> Output Class Initialized
+INFO - 2018-03-30 19:27:09 --> Security Class Initialized
+DEBUG - 2018-03-30 19:27:09 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-03-30 19:27:09 --> Input Class Initialized
+INFO - 2018-03-30 19:27:09 --> Language Class Initialized
+INFO - 2018-03-30 19:27:09 --> Loader Class Initialized
+INFO - 2018-03-30 19:27:09 --> Helper loaded: url_helper
+INFO - 2018-03-30 19:27:09 --> Helper loaded: string_helper
+INFO - 2018-03-30 19:27:09 --> Helper loaded: download_helper
+INFO - 2018-03-30 19:27:09 --> Helper loaded: form_helper
+INFO - 2018-03-30 19:27:09 --> Upload Class Initialized
+DEBUG - 2018-03-30 19:27:09 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2018-03-30 19:27:09 --> Session: Class initialized using 'files' driver.
+INFO - 2018-03-30 19:27:09 --> Controller Class Initialized
+INFO - 2018-03-30 19:27:09 --> Form Validation Class Initialized
+INFO - 2018-03-30 19:27:09 --> File loaded: C:\xampp\htdocs\algoritmos\batalha_algoritmos\application\views\login.php
+INFO - 2018-03-30 19:27:09 --> Final output sent to browser
+DEBUG - 2018-03-30 19:27:09 --> Total execution time: 0.3775
+INFO - 2018-03-30 19:27:15 --> Config Class Initialized
+INFO - 2018-03-30 19:27:15 --> Hooks Class Initialized
+DEBUG - 2018-03-30 19:27:15 --> UTF-8 Support Enabled
+INFO - 2018-03-30 19:27:15 --> Utf8 Class Initialized
+INFO - 2018-03-30 19:27:15 --> URI Class Initialized
+INFO - 2018-03-30 19:27:15 --> Router Class Initialized
+INFO - 2018-03-30 19:27:15 --> Output Class Initialized
+INFO - 2018-03-30 19:27:15 --> Security Class Initialized
+DEBUG - 2018-03-30 19:27:15 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-03-30 19:27:16 --> Input Class Initialized
+INFO - 2018-03-30 19:27:16 --> Language Class Initialized
+INFO - 2018-03-30 19:27:16 --> Loader Class Initialized
+INFO - 2018-03-30 19:27:16 --> Helper loaded: url_helper
+INFO - 2018-03-30 19:27:16 --> Helper loaded: string_helper
+INFO - 2018-03-30 19:27:16 --> Helper loaded: download_helper
+INFO - 2018-03-30 19:27:16 --> Helper loaded: form_helper
+INFO - 2018-03-30 19:27:16 --> Upload Class Initialized
+DEBUG - 2018-03-30 19:27:16 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2018-03-30 19:27:16 --> Session: Class initialized using 'files' driver.
+INFO - 2018-03-30 19:27:16 --> Controller Class Initialized
+INFO - 2018-03-30 19:27:16 --> Form Validation Class Initialized
+INFO - 2018-03-30 19:27:16 --> Language file loaded: language/english/form_validation_lang.php
+ERROR - 2018-03-30 19:27:16 --> Severity: Notice --> Undefined index: username C:\xampp\htdocs\algoritmos\batalha_algoritmos\application\models\Users_model.php 25
+ERROR - 2018-03-30 19:27:16 --> Severity: Notice --> Undefined index: username C:\xampp\htdocs\algoritmos\batalha_algoritmos\application\models\Users_model.php 25
+ERROR - 2018-03-30 19:27:16 --> Severity: Notice --> Undefined index: username C:\xampp\htdocs\algoritmos\batalha_algoritmos\application\models\Users_model.php 25
+ERROR - 2018-03-30 19:27:16 --> Severity: Notice --> Undefined index: username C:\xampp\htdocs\algoritmos\batalha_algoritmos\application\models\Users_model.php 25
+ERROR - 2018-03-30 19:27:16 --> Severity: Notice --> Undefined index: username C:\xampp\htdocs\algoritmos\batalha_algoritmos\application\models\Users_model.php 25
+ERROR - 2018-03-30 19:27:16 --> Severity: Notice --> Undefined index: username C:\xampp\htdocs\algoritmos\batalha_algoritmos\application\models\Users_model.php 25
+ERROR - 2018-03-30 19:27:16 --> Severity: Notice --> Undefined index: username C:\xampp\htdocs\algoritmos\batalha_algoritmos\application\models\Users_model.php 25
+ERROR - 2018-03-30 19:27:16 --> Severity: Notice --> Undefined index: username C:\xampp\htdocs\algoritmos\batalha_algoritmos\application\models\Users_model.php 25
+ERROR - 2018-03-30 19:27:16 --> Severity: Notice --> Undefined index: username C:\xampp\htdocs\algoritmos\batalha_algoritmos\application\models\Users_model.php 25
+ERROR - 2018-03-30 19:27:16 --> Severity: Notice --> Undefined index: username C:\xampp\htdocs\algoritmos\batalha_algoritmos\application\models\Users_model.php 25
+ERROR - 2018-03-30 19:27:16 --> Severity: Notice --> Undefined index: username C:\xampp\htdocs\algoritmos\batalha_algoritmos\application\models\Users_model.php 25
+ERROR - 2018-03-30 19:27:16 --> Severity: Notice --> Undefined index: username C:\xampp\htdocs\algoritmos\batalha_algoritmos\application\models\Users_model.php 25
+ERROR - 2018-03-30 19:27:16 --> Severity: Notice --> Undefined index: username C:\xampp\htdocs\algoritmos\batalha_algoritmos\application\models\Users_model.php 25
+ERROR - 2018-03-30 19:27:16 --> Severity: Notice --> Undefined index: username C:\xampp\htdocs\algoritmos\batalha_algoritmos\application\models\Users_model.php 25
+ERROR - 2018-03-30 19:27:16 --> Severity: Notice --> Undefined index: username C:\xampp\htdocs\algoritmos\batalha_algoritmos\application\models\Users_model.php 25
+ERROR - 2018-03-30 19:27:16 --> Severity: Notice --> Undefined index: username C:\xampp\htdocs\algoritmos\batalha_algoritmos\application\models\Users_model.php 25
+ERROR - 2018-03-30 19:27:16 --> Severity: Notice --> Undefined index: username C:\xampp\htdocs\algoritmos\batalha_algoritmos\application\models\Users_model.php 25
+ERROR - 2018-03-30 19:27:16 --> Severity: Notice --> Undefined index: username C:\xampp\htdocs\algoritmos\batalha_algoritmos\application\models\Users_model.php 25
+INFO - 2018-03-30 19:27:16 --> File loaded: C:\xampp\htdocs\algoritmos\batalha_algoritmos\application\views\login.php
+INFO - 2018-03-30 19:27:16 --> Final output sent to browser
+DEBUG - 2018-03-30 19:27:16 --> Total execution time: 0.6510
+INFO - 2018-03-30 19:27:23 --> Config Class Initialized
+INFO - 2018-03-30 19:27:23 --> Hooks Class Initialized
+DEBUG - 2018-03-30 19:27:23 --> UTF-8 Support Enabled
+INFO - 2018-03-30 19:27:23 --> Utf8 Class Initialized
+INFO - 2018-03-30 19:27:23 --> URI Class Initialized
+INFO - 2018-03-30 19:27:23 --> Router Class Initialized
+INFO - 2018-03-30 19:27:23 --> Output Class Initialized
+INFO - 2018-03-30 19:27:23 --> Security Class Initialized
+DEBUG - 2018-03-30 19:27:23 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-03-30 19:27:23 --> Input Class Initialized
+INFO - 2018-03-30 19:27:23 --> Language Class Initialized
+INFO - 2018-03-30 19:27:23 --> Loader Class Initialized
+INFO - 2018-03-30 19:27:23 --> Helper loaded: url_helper
+INFO - 2018-03-30 19:27:23 --> Helper loaded: string_helper
+INFO - 2018-03-30 19:27:23 --> Helper loaded: download_helper
+INFO - 2018-03-30 19:27:23 --> Helper loaded: form_helper
+INFO - 2018-03-30 19:27:23 --> Upload Class Initialized
+DEBUG - 2018-03-30 19:27:23 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2018-03-30 19:27:23 --> Session: Class initialized using 'files' driver.
+INFO - 2018-03-30 19:27:23 --> Controller Class Initialized
+INFO - 2018-03-30 19:27:23 --> Form Validation Class Initialized
+INFO - 2018-03-30 19:27:23 --> File loaded: C:\xampp\htdocs\algoritmos\batalha_algoritmos\application\views\login.php
+INFO - 2018-03-30 19:27:23 --> Final output sent to browser
+DEBUG - 2018-03-30 19:27:24 --> Total execution time: 0.3426
+INFO - 2018-03-30 19:44:22 --> Config Class Initialized
+INFO - 2018-03-30 19:44:22 --> Hooks Class Initialized
+DEBUG - 2018-03-30 19:44:22 --> UTF-8 Support Enabled
+INFO - 2018-03-30 19:44:22 --> Utf8 Class Initialized
+INFO - 2018-03-30 19:44:22 --> URI Class Initialized
+INFO - 2018-03-30 19:44:22 --> Router Class Initialized
+INFO - 2018-03-30 19:44:22 --> Output Class Initialized
+INFO - 2018-03-30 19:44:22 --> Security Class Initialized
+DEBUG - 2018-03-30 19:44:22 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-03-30 19:44:22 --> Input Class Initialized
+INFO - 2018-03-30 19:44:22 --> Language Class Initialized
+INFO - 2018-03-30 19:44:22 --> Loader Class Initialized
+INFO - 2018-03-30 19:44:22 --> Helper loaded: url_helper
+INFO - 2018-03-30 19:44:22 --> Helper loaded: string_helper
+INFO - 2018-03-30 19:44:22 --> Helper loaded: download_helper
+INFO - 2018-03-30 19:44:22 --> Helper loaded: form_helper
+INFO - 2018-03-30 19:44:22 --> Upload Class Initialized
+DEBUG - 2018-03-30 19:44:22 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2018-03-30 19:44:22 --> Session: Class initialized using 'files' driver.
+INFO - 2018-03-30 19:44:22 --> Controller Class Initialized
+INFO - 2018-03-30 19:44:22 --> Form Validation Class Initialized
+INFO - 2018-03-30 19:44:22 --> File loaded: C:\xampp\htdocs\algoritmos\batalha_algoritmos\application\views\login.php
+INFO - 2018-03-30 19:44:22 --> Final output sent to browser
+DEBUG - 2018-03-30 19:44:22 --> Total execution time: 0.5021
+INFO - 2018-03-30 19:44:24 --> Config Class Initialized
+INFO - 2018-03-30 19:44:24 --> Hooks Class Initialized
+DEBUG - 2018-03-30 19:44:24 --> UTF-8 Support Enabled
+INFO - 2018-03-30 19:44:24 --> Utf8 Class Initialized
+INFO - 2018-03-30 19:44:24 --> URI Class Initialized
+INFO - 2018-03-30 19:44:24 --> Router Class Initialized
+INFO - 2018-03-30 19:44:24 --> Output Class Initialized
+INFO - 2018-03-30 19:44:24 --> Security Class Initialized
+DEBUG - 2018-03-30 19:44:24 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-03-30 19:44:24 --> Input Class Initialized
+INFO - 2018-03-30 19:44:24 --> Language Class Initialized
+INFO - 2018-03-30 19:44:24 --> Loader Class Initialized
+INFO - 2018-03-30 19:44:24 --> Helper loaded: url_helper
+INFO - 2018-03-30 19:44:24 --> Helper loaded: string_helper
+INFO - 2018-03-30 19:44:24 --> Helper loaded: download_helper
+INFO - 2018-03-30 19:44:24 --> Helper loaded: form_helper
+INFO - 2018-03-30 19:44:24 --> Upload Class Initialized
+DEBUG - 2018-03-30 19:44:24 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2018-03-30 19:44:24 --> Session: Class initialized using 'files' driver.
+INFO - 2018-03-30 19:44:24 --> Controller Class Initialized
+INFO - 2018-03-30 19:44:25 --> Form Validation Class Initialized
+INFO - 2018-03-30 19:44:25 --> File loaded: C:\xampp\htdocs\algoritmos\batalha_algoritmos\application\views\login.php
+INFO - 2018-03-30 19:44:25 --> Final output sent to browser
+DEBUG - 2018-03-30 19:44:25 --> Total execution time: 0.3531
+INFO - 2018-03-30 19:44:29 --> Config Class Initialized
+INFO - 2018-03-30 19:44:29 --> Hooks Class Initialized
+DEBUG - 2018-03-30 19:44:29 --> UTF-8 Support Enabled
+INFO - 2018-03-30 19:44:29 --> Utf8 Class Initialized
+INFO - 2018-03-30 19:44:29 --> URI Class Initialized
+INFO - 2018-03-30 19:44:29 --> Router Class Initialized
+INFO - 2018-03-30 19:44:29 --> Output Class Initialized
+INFO - 2018-03-30 19:44:29 --> Security Class Initialized
+DEBUG - 2018-03-30 19:44:29 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-03-30 19:44:29 --> Input Class Initialized
+INFO - 2018-03-30 19:44:29 --> Language Class Initialized
+INFO - 2018-03-30 19:44:29 --> Loader Class Initialized
+INFO - 2018-03-30 19:44:29 --> Helper loaded: url_helper
+INFO - 2018-03-30 19:44:29 --> Helper loaded: string_helper
+INFO - 2018-03-30 19:44:29 --> Helper loaded: download_helper
+INFO - 2018-03-30 19:44:29 --> Helper loaded: form_helper
+INFO - 2018-03-30 19:44:29 --> Upload Class Initialized
+DEBUG - 2018-03-30 19:44:29 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2018-03-30 19:44:29 --> Session: Class initialized using 'files' driver.
+INFO - 2018-03-30 19:44:29 --> Controller Class Initialized
+INFO - 2018-03-30 19:44:29 --> Form Validation Class Initialized
+INFO - 2018-03-30 19:44:29 --> Language file loaded: language/english/form_validation_lang.php
+ERROR - 2018-03-30 19:44:29 --> Severity: Notice --> Undefined index: username C:\xampp\htdocs\algoritmos\batalha_algoritmos\application\models\Users_model.php 25
+ERROR - 2018-03-30 19:44:29 --> Severity: Notice --> Undefined index: username C:\xampp\htdocs\algoritmos\batalha_algoritmos\application\models\Users_model.php 25
+ERROR - 2018-03-30 19:44:29 --> Severity: Notice --> Undefined index: username C:\xampp\htdocs\algoritmos\batalha_algoritmos\application\models\Users_model.php 25
+ERROR - 2018-03-30 19:44:29 --> Severity: Notice --> Undefined index: username C:\xampp\htdocs\algoritmos\batalha_algoritmos\application\models\Users_model.php 25
+ERROR - 2018-03-30 19:44:29 --> Severity: Notice --> Undefined index: username C:\xampp\htdocs\algoritmos\batalha_algoritmos\application\models\Users_model.php 25
+ERROR - 2018-03-30 19:44:29 --> Severity: Notice --> Undefined index: username C:\xampp\htdocs\algoritmos\batalha_algoritmos\application\models\Users_model.php 25
+ERROR - 2018-03-30 19:44:29 --> Severity: Notice --> Undefined index: username C:\xampp\htdocs\algoritmos\batalha_algoritmos\application\models\Users_model.php 25
+ERROR - 2018-03-30 19:44:29 --> Severity: Notice --> Undefined index: username C:\xampp\htdocs\algoritmos\batalha_algoritmos\application\models\Users_model.php 25
+ERROR - 2018-03-30 19:44:29 --> Severity: Notice --> Undefined index: username C:\xampp\htdocs\algoritmos\batalha_algoritmos\application\models\Users_model.php 25
+ERROR - 2018-03-30 19:44:29 --> Severity: Notice --> Undefined index: username C:\xampp\htdocs\algoritmos\batalha_algoritmos\application\models\Users_model.php 25
+ERROR - 2018-03-30 19:44:29 --> Severity: Notice --> Undefined index: username C:\xampp\htdocs\algoritmos\batalha_algoritmos\application\models\Users_model.php 25
+ERROR - 2018-03-30 19:44:30 --> Severity: Notice --> Undefined index: username C:\xampp\htdocs\algoritmos\batalha_algoritmos\application\models\Users_model.php 25
+ERROR - 2018-03-30 19:44:30 --> Severity: Notice --> Undefined index: username C:\xampp\htdocs\algoritmos\batalha_algoritmos\application\models\Users_model.php 25
+ERROR - 2018-03-30 19:44:30 --> Severity: Notice --> Undefined index: username C:\xampp\htdocs\algoritmos\batalha_algoritmos\application\models\Users_model.php 25
+ERROR - 2018-03-30 19:44:30 --> Severity: Notice --> Undefined index: username C:\xampp\htdocs\algoritmos\batalha_algoritmos\application\models\Users_model.php 25
+ERROR - 2018-03-30 19:44:30 --> Severity: Notice --> Undefined index: username C:\xampp\htdocs\algoritmos\batalha_algoritmos\application\models\Users_model.php 25
+ERROR - 2018-03-30 19:44:30 --> Severity: Notice --> Undefined index: username C:\xampp\htdocs\algoritmos\batalha_algoritmos\application\models\Users_model.php 25
+ERROR - 2018-03-30 19:44:30 --> Severity: Notice --> Undefined index: username C:\xampp\htdocs\algoritmos\batalha_algoritmos\application\models\Users_model.php 25
+INFO - 2018-03-30 19:44:30 --> File loaded: C:\xampp\htdocs\algoritmos\batalha_algoritmos\application\views\login.php
+INFO - 2018-03-30 19:44:30 --> Final output sent to browser
+DEBUG - 2018-03-30 19:44:30 --> Total execution time: 0.7050
+INFO - 2018-03-30 19:45:28 --> Config Class Initialized
+INFO - 2018-03-30 19:45:28 --> Hooks Class Initialized
+DEBUG - 2018-03-30 19:45:28 --> UTF-8 Support Enabled
+INFO - 2018-03-30 19:45:28 --> Utf8 Class Initialized
+INFO - 2018-03-30 19:45:28 --> URI Class Initialized
+INFO - 2018-03-30 19:45:28 --> Router Class Initialized
+INFO - 2018-03-30 19:45:28 --> Output Class Initialized
+INFO - 2018-03-30 19:45:28 --> Security Class Initialized
+DEBUG - 2018-03-30 19:45:28 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-03-30 19:45:28 --> Input Class Initialized
+INFO - 2018-03-30 19:45:28 --> Language Class Initialized
+INFO - 2018-03-30 19:45:28 --> Loader Class Initialized
+INFO - 2018-03-30 19:45:28 --> Helper loaded: url_helper
+INFO - 2018-03-30 19:45:28 --> Helper loaded: string_helper
+INFO - 2018-03-30 19:45:28 --> Helper loaded: download_helper
+INFO - 2018-03-30 19:45:28 --> Helper loaded: form_helper
+INFO - 2018-03-30 19:45:28 --> Upload Class Initialized
+DEBUG - 2018-03-30 19:45:28 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2018-03-30 19:45:28 --> Session: Class initialized using 'files' driver.
+INFO - 2018-03-30 19:45:28 --> Controller Class Initialized
+INFO - 2018-03-30 19:45:28 --> Form Validation Class Initialized
+INFO - 2018-03-30 19:45:28 --> File loaded: C:\xampp\htdocs\algoritmos\batalha_algoritmos\application\views\login.php
+INFO - 2018-03-30 19:45:28 --> Final output sent to browser
+DEBUG - 2018-03-30 19:45:28 --> Total execution time: 0.3543
+INFO - 2018-03-30 19:45:33 --> Config Class Initialized
+INFO - 2018-03-30 19:45:33 --> Hooks Class Initialized
+DEBUG - 2018-03-30 19:45:33 --> UTF-8 Support Enabled
+INFO - 2018-03-30 19:45:33 --> Utf8 Class Initialized
+INFO - 2018-03-30 19:45:33 --> URI Class Initialized
+INFO - 2018-03-30 19:45:33 --> Router Class Initialized
+INFO - 2018-03-30 19:45:33 --> Output Class Initialized
+INFO - 2018-03-30 19:45:33 --> Security Class Initialized
+DEBUG - 2018-03-30 19:45:33 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-03-30 19:45:33 --> Input Class Initialized
+INFO - 2018-03-30 19:45:33 --> Language Class Initialized
+INFO - 2018-03-30 19:45:33 --> Loader Class Initialized
+INFO - 2018-03-30 19:45:33 --> Helper loaded: url_helper
+INFO - 2018-03-30 19:45:33 --> Helper loaded: string_helper
+INFO - 2018-03-30 19:45:33 --> Helper loaded: download_helper
+INFO - 2018-03-30 19:45:33 --> Helper loaded: form_helper
+INFO - 2018-03-30 19:45:33 --> Upload Class Initialized
+DEBUG - 2018-03-30 19:45:33 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2018-03-30 19:45:33 --> Session: Class initialized using 'files' driver.
+INFO - 2018-03-30 19:45:33 --> Controller Class Initialized
+INFO - 2018-03-30 19:45:33 --> Form Validation Class Initialized
+INFO - 2018-03-30 19:45:33 --> Language file loaded: language/english/form_validation_lang.php
+INFO - 2018-03-30 19:45:33 --> Config Class Initialized
+INFO - 2018-03-30 19:45:33 --> Hooks Class Initialized
+DEBUG - 2018-03-30 19:45:33 --> UTF-8 Support Enabled
+INFO - 2018-03-30 19:45:33 --> Utf8 Class Initialized
+INFO - 2018-03-30 19:45:33 --> URI Class Initialized
+INFO - 2018-03-30 19:45:33 --> Router Class Initialized
+INFO - 2018-03-30 19:45:33 --> Output Class Initialized
+INFO - 2018-03-30 19:45:33 --> Security Class Initialized
+DEBUG - 2018-03-30 19:45:33 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-03-30 19:45:33 --> Input Class Initialized
+INFO - 2018-03-30 19:45:33 --> Language Class Initialized
+INFO - 2018-03-30 19:45:33 --> Loader Class Initialized
+INFO - 2018-03-30 19:45:33 --> Helper loaded: url_helper
+INFO - 2018-03-30 19:45:33 --> Helper loaded: string_helper
+INFO - 2018-03-30 19:45:33 --> Helper loaded: download_helper
+INFO - 2018-03-30 19:45:33 --> Helper loaded: form_helper
+INFO - 2018-03-30 19:45:33 --> Upload Class Initialized
+DEBUG - 2018-03-30 19:45:33 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2018-03-30 19:45:33 --> Session: Class initialized using 'files' driver.
+INFO - 2018-03-30 19:45:33 --> Controller Class Initialized
+INFO - 2018-03-30 19:45:33 --> Model Class Initialized
+INFO - 2018-03-30 19:45:33 --> File loaded: C:\xampp\htdocs\algoritmos\batalha_algoritmos\application\views\exercises.php
+INFO - 2018-03-30 19:45:33 --> Final output sent to browser
+DEBUG - 2018-03-30 19:45:33 --> Total execution time: 0.3905
+INFO - 2018-03-30 19:46:36 --> Config Class Initialized
+INFO - 2018-03-30 19:46:36 --> Hooks Class Initialized
+DEBUG - 2018-03-30 19:46:36 --> UTF-8 Support Enabled
+INFO - 2018-03-30 19:46:36 --> Utf8 Class Initialized
+INFO - 2018-03-30 19:46:36 --> URI Class Initialized
+INFO - 2018-03-30 19:46:36 --> Router Class Initialized
+INFO - 2018-03-30 19:46:36 --> Output Class Initialized
+INFO - 2018-03-30 19:46:36 --> Security Class Initialized
+DEBUG - 2018-03-30 19:46:36 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-03-30 19:46:36 --> Input Class Initialized
+INFO - 2018-03-30 19:46:36 --> Language Class Initialized
+INFO - 2018-03-30 19:46:36 --> Loader Class Initialized
+INFO - 2018-03-30 19:46:36 --> Helper loaded: url_helper
+INFO - 2018-03-30 19:46:36 --> Helper loaded: string_helper
+INFO - 2018-03-30 19:46:37 --> Helper loaded: download_helper
+INFO - 2018-03-30 19:46:37 --> Helper loaded: form_helper
+INFO - 2018-03-30 19:46:37 --> Upload Class Initialized
+DEBUG - 2018-03-30 19:46:37 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2018-03-30 19:46:37 --> Session: Class initialized using 'files' driver.
+INFO - 2018-03-30 19:46:37 --> Controller Class Initialized
+INFO - 2018-03-30 19:46:37 --> Model Class Initialized
+INFO - 2018-03-30 19:46:37 --> File loaded: C:\xampp\htdocs\algoritmos\batalha_algoritmos\application\views\exercises.php
+INFO - 2018-03-30 19:46:37 --> Final output sent to browser
+DEBUG - 2018-03-30 19:46:37 --> Total execution time: 0.3765
+INFO - 2018-03-30 19:46:38 --> Config Class Initialized
+INFO - 2018-03-30 19:46:38 --> Hooks Class Initialized
+DEBUG - 2018-03-30 19:46:38 --> UTF-8 Support Enabled
+INFO - 2018-03-30 19:46:38 --> Utf8 Class Initialized
+INFO - 2018-03-30 19:46:38 --> URI Class Initialized
+INFO - 2018-03-30 19:46:38 --> Router Class Initialized
+INFO - 2018-03-30 19:46:38 --> Output Class Initialized
+INFO - 2018-03-30 19:46:38 --> Security Class Initialized
+DEBUG - 2018-03-30 19:46:38 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-03-30 19:46:38 --> Input Class Initialized
+INFO - 2018-03-30 19:46:38 --> Language Class Initialized
+INFO - 2018-03-30 19:46:38 --> Loader Class Initialized
+INFO - 2018-03-30 19:46:38 --> Helper loaded: url_helper
+INFO - 2018-03-30 19:46:38 --> Helper loaded: string_helper
+INFO - 2018-03-30 19:46:38 --> Helper loaded: download_helper
+INFO - 2018-03-30 19:46:38 --> Helper loaded: form_helper
+INFO - 2018-03-30 19:46:38 --> Upload Class Initialized
+DEBUG - 2018-03-30 19:46:38 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2018-03-30 19:46:38 --> Session: Class initialized using 'files' driver.
+INFO - 2018-03-30 19:46:38 --> Controller Class Initialized
+INFO - 2018-03-30 19:46:38 --> Model Class Initialized
+INFO - 2018-03-30 19:46:38 --> Helper loaded: date_helper
+INFO - 2018-03-30 19:46:38 --> File loaded: C:\xampp\htdocs\algoritmos\batalha_algoritmos\application\views\admin/admin.php
+INFO - 2018-03-30 19:46:38 --> File loaded: C:\xampp\htdocs\algoritmos\batalha_algoritmos\application\views\admin/exercice.php
+INFO - 2018-03-30 19:46:38 --> File loaded: C:\xampp\htdocs\algoritmos\batalha_algoritmos\application\views\footer.php
+INFO - 2018-03-30 19:46:38 --> Final output sent to browser
+DEBUG - 2018-03-30 19:46:39 --> Total execution time: 0.3927
+INFO - 2018-03-30 19:46:40 --> Config Class Initialized
+INFO - 2018-03-30 19:46:40 --> Hooks Class Initialized
+DEBUG - 2018-03-30 19:46:40 --> UTF-8 Support Enabled
+INFO - 2018-03-30 19:46:40 --> Utf8 Class Initialized
+INFO - 2018-03-30 19:46:40 --> URI Class Initialized
+INFO - 2018-03-30 19:46:40 --> Router Class Initialized
+INFO - 2018-03-30 19:46:40 --> Output Class Initialized
+INFO - 2018-03-30 19:46:40 --> Security Class Initialized
+DEBUG - 2018-03-30 19:46:40 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-03-30 19:46:40 --> Input Class Initialized
+INFO - 2018-03-30 19:46:40 --> Language Class Initialized
+INFO - 2018-03-30 19:46:40 --> Loader Class Initialized
+INFO - 2018-03-30 19:46:41 --> Helper loaded: url_helper
+INFO - 2018-03-30 19:46:41 --> Helper loaded: string_helper
+INFO - 2018-03-30 19:46:41 --> Helper loaded: download_helper
+INFO - 2018-03-30 19:46:41 --> Helper loaded: form_helper
+INFO - 2018-03-30 19:46:41 --> Upload Class Initialized
+DEBUG - 2018-03-30 19:46:41 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2018-03-30 19:46:41 --> Session: Class initialized using 'files' driver.
+INFO - 2018-03-30 19:46:41 --> Controller Class Initialized
+INFO - 2018-03-30 19:46:41 --> Model Class Initialized
+INFO - 2018-03-30 19:46:41 --> Helper loaded: date_helper
+INFO - 2018-03-30 19:46:41 --> File loaded: C:\xampp\htdocs\algoritmos\batalha_algoritmos\application\views\admin/admin.php
+INFO - 2018-03-30 19:46:41 --> File loaded: C:\xampp\htdocs\algoritmos\batalha_algoritmos\application\views\admin/exercice.php
+INFO - 2018-03-30 19:46:41 --> File loaded: C:\xampp\htdocs\algoritmos\batalha_algoritmos\application\views\footer.php
+INFO - 2018-03-30 19:46:41 --> File loaded: C:\xampp\htdocs\algoritmos\batalha_algoritmos\application\views\admin/edit_exercice.php
+INFO - 2018-03-30 19:46:41 --> Final output sent to browser
+DEBUG - 2018-03-30 19:46:41 --> Total execution time: 0.4354
+INFO - 2018-03-30 19:46:44 --> Config Class Initialized
+INFO - 2018-03-30 19:46:44 --> Hooks Class Initialized
+DEBUG - 2018-03-30 19:46:44 --> UTF-8 Support Enabled
+INFO - 2018-03-30 19:46:44 --> Utf8 Class Initialized
+INFO - 2018-03-30 19:46:44 --> URI Class Initialized
+INFO - 2018-03-30 19:46:44 --> Router Class Initialized
+INFO - 2018-03-30 19:46:44 --> Output Class Initialized
+INFO - 2018-03-30 19:46:44 --> Security Class Initialized
+DEBUG - 2018-03-30 19:46:44 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-03-30 19:46:44 --> Input Class Initialized
+INFO - 2018-03-30 19:46:44 --> Language Class Initialized
+INFO - 2018-03-30 19:46:44 --> Loader Class Initialized
+INFO - 2018-03-30 19:46:44 --> Helper loaded: url_helper
+INFO - 2018-03-30 19:46:44 --> Helper loaded: string_helper
+INFO - 2018-03-30 19:46:44 --> Helper loaded: download_helper
+INFO - 2018-03-30 19:46:44 --> Helper loaded: form_helper
+INFO - 2018-03-30 19:46:45 --> Upload Class Initialized
+DEBUG - 2018-03-30 19:46:45 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2018-03-30 19:46:45 --> Session: Class initialized using 'files' driver.
+INFO - 2018-03-30 19:46:45 --> Controller Class Initialized
+INFO - 2018-03-30 19:46:45 --> Model Class Initialized
+INFO - 2018-03-30 19:46:45 --> Config Class Initialized
+INFO - 2018-03-30 19:46:45 --> Hooks Class Initialized
+DEBUG - 2018-03-30 19:46:45 --> UTF-8 Support Enabled
+INFO - 2018-03-30 19:46:45 --> Utf8 Class Initialized
+INFO - 2018-03-30 19:46:45 --> URI Class Initialized
+INFO - 2018-03-30 19:46:45 --> Router Class Initialized
+INFO - 2018-03-30 19:46:45 --> Output Class Initialized
+INFO - 2018-03-30 19:46:45 --> Security Class Initialized
+DEBUG - 2018-03-30 19:46:45 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-03-30 19:46:45 --> Input Class Initialized
+INFO - 2018-03-30 19:46:45 --> Language Class Initialized
+INFO - 2018-03-30 19:46:45 --> Loader Class Initialized
+INFO - 2018-03-30 19:46:45 --> Helper loaded: url_helper
+INFO - 2018-03-30 19:46:45 --> Helper loaded: string_helper
+INFO - 2018-03-30 19:46:45 --> Helper loaded: download_helper
+INFO - 2018-03-30 19:46:45 --> Helper loaded: form_helper
+INFO - 2018-03-30 19:46:45 --> Upload Class Initialized
+DEBUG - 2018-03-30 19:46:45 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2018-03-30 19:46:45 --> Session: Class initialized using 'files' driver.
+INFO - 2018-03-30 19:46:45 --> Controller Class Initialized
+INFO - 2018-03-30 19:46:45 --> Model Class Initialized
+INFO - 2018-03-30 19:46:45 --> Helper loaded: date_helper
+INFO - 2018-03-30 19:46:45 --> File loaded: C:\xampp\htdocs\algoritmos\batalha_algoritmos\application\views\admin/admin.php
+INFO - 2018-03-30 19:46:45 --> File loaded: C:\xampp\htdocs\algoritmos\batalha_algoritmos\application\views\admin/exercice.php
+INFO - 2018-03-30 19:46:45 --> File loaded: C:\xampp\htdocs\algoritmos\batalha_algoritmos\application\views\footer.php
+INFO - 2018-03-30 19:46:45 --> Final output sent to browser
+DEBUG - 2018-03-30 19:46:45 --> Total execution time: 0.3971
+INFO - 2018-03-30 19:51:39 --> Config Class Initialized
+INFO - 2018-03-30 19:51:39 --> Hooks Class Initialized
+DEBUG - 2018-03-30 19:51:39 --> UTF-8 Support Enabled
+INFO - 2018-03-30 19:51:39 --> Utf8 Class Initialized
+INFO - 2018-03-30 19:51:39 --> URI Class Initialized
+INFO - 2018-03-30 19:51:39 --> Router Class Initialized
+INFO - 2018-03-30 19:51:39 --> Output Class Initialized
+INFO - 2018-03-30 19:51:39 --> Security Class Initialized
+DEBUG - 2018-03-30 19:51:39 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-03-30 19:51:39 --> Input Class Initialized
+INFO - 2018-03-30 19:51:39 --> Language Class Initialized
+INFO - 2018-03-30 19:51:39 --> Loader Class Initialized
+INFO - 2018-03-30 19:51:39 --> Helper loaded: url_helper
+INFO - 2018-03-30 19:51:39 --> Helper loaded: string_helper
+INFO - 2018-03-30 19:51:39 --> Helper loaded: download_helper
+INFO - 2018-03-30 19:51:39 --> Helper loaded: form_helper
+INFO - 2018-03-30 19:51:39 --> Upload Class Initialized
+DEBUG - 2018-03-30 19:51:39 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2018-03-30 19:51:39 --> Session: Class initialized using 'files' driver.
+INFO - 2018-03-30 19:51:39 --> Controller Class Initialized
+INFO - 2018-03-30 19:51:39 --> Model Class Initialized
+INFO - 2018-03-30 19:51:39 --> Helper loaded: date_helper
+INFO - 2018-03-30 19:51:39 --> File loaded: C:\xampp\htdocs\algoritmos\batalha_algoritmos\application\views\admin/admin.php
+INFO - 2018-03-30 19:51:39 --> File loaded: C:\xampp\htdocs\algoritmos\batalha_algoritmos\application\views\admin/exercice.php
+INFO - 2018-03-30 19:51:39 --> File loaded: C:\xampp\htdocs\algoritmos\batalha_algoritmos\application\views\footer.php
+INFO - 2018-03-30 19:51:39 --> Final output sent to browser
+DEBUG - 2018-03-30 19:51:39 --> Total execution time: 0.4174
+INFO - 2018-03-30 19:51:52 --> Config Class Initialized
+INFO - 2018-03-30 19:51:52 --> Hooks Class Initialized
+DEBUG - 2018-03-30 19:51:52 --> UTF-8 Support Enabled
+INFO - 2018-03-30 19:51:52 --> Utf8 Class Initialized
+INFO - 2018-03-30 19:51:52 --> URI Class Initialized
+INFO - 2018-03-30 19:51:52 --> Router Class Initialized
+INFO - 2018-03-30 19:51:52 --> Output Class Initialized
+INFO - 2018-03-30 19:51:52 --> Security Class Initialized
+DEBUG - 2018-03-30 19:51:52 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-03-30 19:51:52 --> Input Class Initialized
+INFO - 2018-03-30 19:51:52 --> Language Class Initialized
+INFO - 2018-03-30 19:51:52 --> Loader Class Initialized
+INFO - 2018-03-30 19:51:52 --> Helper loaded: url_helper
+INFO - 2018-03-30 19:51:52 --> Helper loaded: string_helper
+INFO - 2018-03-30 19:51:52 --> Helper loaded: download_helper
+INFO - 2018-03-30 19:51:52 --> Helper loaded: form_helper
+INFO - 2018-03-30 19:51:52 --> Upload Class Initialized
+DEBUG - 2018-03-30 19:51:52 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2018-03-30 19:51:52 --> Session: Class initialized using 'files' driver.
+INFO - 2018-03-30 19:51:52 --> Controller Class Initialized
+INFO - 2018-03-30 19:51:52 --> Model Class Initialized
+INFO - 2018-03-30 19:51:52 --> Helper loaded: date_helper
+INFO - 2018-03-30 19:51:52 --> File loaded: C:\xampp\htdocs\algoritmos\batalha_algoritmos\application\views\admin/admin.php
+INFO - 2018-03-30 19:51:52 --> File loaded: C:\xampp\htdocs\algoritmos\batalha_algoritmos\application\views\admin/exercice.php
+INFO - 2018-03-30 19:51:52 --> File loaded: C:\xampp\htdocs\algoritmos\batalha_algoritmos\application\views\footer.php
+INFO - 2018-03-30 19:51:52 --> Final output sent to browser
+DEBUG - 2018-03-30 19:51:53 --> Total execution time: 0.4506
+INFO - 2018-03-30 19:53:22 --> Config Class Initialized
+INFO - 2018-03-30 19:53:22 --> Hooks Class Initialized
+DEBUG - 2018-03-30 19:53:22 --> UTF-8 Support Enabled
+INFO - 2018-03-30 19:53:22 --> Utf8 Class Initialized
+INFO - 2018-03-30 19:53:23 --> URI Class Initialized
+INFO - 2018-03-30 19:53:23 --> Router Class Initialized
+INFO - 2018-03-30 19:53:23 --> Output Class Initialized
+INFO - 2018-03-30 19:53:23 --> Security Class Initialized
+DEBUG - 2018-03-30 19:53:23 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-03-30 19:53:23 --> Input Class Initialized
+INFO - 2018-03-30 19:53:23 --> Language Class Initialized
+INFO - 2018-03-30 19:53:23 --> Loader Class Initialized
+INFO - 2018-03-30 19:53:23 --> Helper loaded: url_helper
+INFO - 2018-03-30 19:53:23 --> Helper loaded: string_helper
+INFO - 2018-03-30 19:53:23 --> Helper loaded: download_helper
+INFO - 2018-03-30 19:53:23 --> Helper loaded: form_helper
+INFO - 2018-03-30 19:53:23 --> Upload Class Initialized
+DEBUG - 2018-03-30 19:53:23 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2018-03-30 19:53:23 --> Session: Class initialized using 'files' driver.
+INFO - 2018-03-30 19:53:23 --> Controller Class Initialized
+INFO - 2018-03-30 19:53:23 --> Model Class Initialized
+INFO - 2018-03-30 19:53:23 --> Helper loaded: date_helper
+INFO - 2018-03-30 19:53:23 --> File loaded: C:\xampp\htdocs\algoritmos\batalha_algoritmos\application\views\admin/admin.php
+INFO - 2018-03-30 19:53:23 --> File loaded: C:\xampp\htdocs\algoritmos\batalha_algoritmos\application\views\admin/exercice.php
+INFO - 2018-03-30 19:53:23 --> File loaded: C:\xampp\htdocs\algoritmos\batalha_algoritmos\application\views\footer.php
+INFO - 2018-03-30 19:53:23 --> Final output sent to browser
+DEBUG - 2018-03-30 19:53:23 --> Total execution time: 0.4264
+INFO - 2018-03-30 19:56:31 --> Config Class Initialized
+INFO - 2018-03-30 19:56:31 --> Hooks Class Initialized
+DEBUG - 2018-03-30 19:56:31 --> UTF-8 Support Enabled
+INFO - 2018-03-30 19:56:31 --> Utf8 Class Initialized
+INFO - 2018-03-30 19:56:31 --> URI Class Initialized
+INFO - 2018-03-30 19:56:31 --> Router Class Initialized
+INFO - 2018-03-30 19:56:31 --> Output Class Initialized
+INFO - 2018-03-30 19:56:31 --> Security Class Initialized
+DEBUG - 2018-03-30 19:56:31 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-03-30 19:56:31 --> Input Class Initialized
+INFO - 2018-03-30 19:56:31 --> Language Class Initialized
+INFO - 2018-03-30 19:56:31 --> Loader Class Initialized
+INFO - 2018-03-30 19:56:31 --> Helper loaded: url_helper
+INFO - 2018-03-30 19:56:31 --> Helper loaded: string_helper
+INFO - 2018-03-30 19:56:31 --> Helper loaded: download_helper
+INFO - 2018-03-30 19:56:31 --> Helper loaded: form_helper
+INFO - 2018-03-30 19:56:31 --> Upload Class Initialized
+DEBUG - 2018-03-30 19:56:31 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2018-03-30 19:56:31 --> Session: Class initialized using 'files' driver.
+INFO - 2018-03-30 19:56:31 --> Controller Class Initialized
+INFO - 2018-03-30 19:56:31 --> Model Class Initialized
+INFO - 2018-03-30 19:56:31 --> Helper loaded: date_helper
+INFO - 2018-03-30 19:56:31 --> File loaded: C:\xampp\htdocs\algoritmos\batalha_algoritmos\application\views\admin/admin.php
+INFO - 2018-03-30 19:56:31 --> File loaded: C:\xampp\htdocs\algoritmos\batalha_algoritmos\application\views\admin/exercice.php
+INFO - 2018-03-30 19:56:31 --> File loaded: C:\xampp\htdocs\algoritmos\batalha_algoritmos\application\views\footer.php
+ERROR - 2018-03-30 19:56:31 --> Severity: Notice --> Undefined index: id C:\xampp\htdocs\algoritmos\batalha_algoritmos\application\views\admin\add_exercice.php 16
+ERROR - 2018-03-30 19:56:31 --> Severity: Notice --> Undefined variable: contatos C:\xampp\htdocs\algoritmos\batalha_algoritmos\application\views\admin\add_exercice.php 21
+ERROR - 2018-03-30 19:56:31 --> Severity: Notice --> Undefined variable: contatos C:\xampp\htdocs\algoritmos\batalha_algoritmos\application\views\admin\add_exercice.php 27
+ERROR - 2018-03-30 19:56:31 --> Severity: Notice --> Undefined variable: contatos C:\xampp\htdocs\algoritmos\batalha_algoritmos\application\views\admin\add_exercice.php 33
+INFO - 2018-03-30 19:56:31 --> File loaded: C:\xampp\htdocs\algoritmos\batalha_algoritmos\application\views\admin/add_exercice.php
+INFO - 2018-03-30 19:56:31 --> Final output sent to browser
+DEBUG - 2018-03-30 19:56:31 --> Total execution time: 0.5071
+INFO - 2018-03-30 19:56:38 --> Config Class Initialized
+INFO - 2018-03-30 19:56:38 --> Hooks Class Initialized
+DEBUG - 2018-03-30 19:56:38 --> UTF-8 Support Enabled
+INFO - 2018-03-30 19:56:38 --> Utf8 Class Initialized
+INFO - 2018-03-30 19:56:38 --> URI Class Initialized
+INFO - 2018-03-30 19:56:38 --> Router Class Initialized
+INFO - 2018-03-30 19:56:38 --> Output Class Initialized
+INFO - 2018-03-30 19:56:38 --> Security Class Initialized
+DEBUG - 2018-03-30 19:56:38 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-03-30 19:56:38 --> Input Class Initialized
+INFO - 2018-03-30 19:56:38 --> Language Class Initialized
+ERROR - 2018-03-30 19:56:38 --> 404 Page Not Found: Admin/index.php
+INFO - 2018-03-30 19:57:02 --> Config Class Initialized
+INFO - 2018-03-30 19:57:02 --> Hooks Class Initialized
+DEBUG - 2018-03-30 19:57:02 --> UTF-8 Support Enabled
+INFO - 2018-03-30 19:57:02 --> Utf8 Class Initialized
+INFO - 2018-03-30 19:57:02 --> URI Class Initialized
+INFO - 2018-03-30 19:57:02 --> Router Class Initialized
+INFO - 2018-03-30 19:57:03 --> Output Class Initialized
+INFO - 2018-03-30 19:57:03 --> Security Class Initialized
+DEBUG - 2018-03-30 19:57:03 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-03-30 19:57:03 --> Input Class Initialized
+INFO - 2018-03-30 19:57:03 --> Language Class Initialized
+INFO - 2018-03-30 19:57:03 --> Loader Class Initialized
+INFO - 2018-03-30 19:57:03 --> Helper loaded: url_helper
+INFO - 2018-03-30 19:57:03 --> Helper loaded: string_helper
+INFO - 2018-03-30 19:57:03 --> Helper loaded: download_helper
+INFO - 2018-03-30 19:57:03 --> Helper loaded: form_helper
+INFO - 2018-03-30 19:57:03 --> Upload Class Initialized
+DEBUG - 2018-03-30 19:57:03 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2018-03-30 19:57:03 --> Session: Class initialized using 'files' driver.
+INFO - 2018-03-30 19:57:03 --> Controller Class Initialized
+INFO - 2018-03-30 19:57:03 --> Model Class Initialized
+INFO - 2018-03-30 19:57:03 --> Helper loaded: date_helper
+INFO - 2018-03-30 19:57:03 --> File loaded: C:\xampp\htdocs\algoritmos\batalha_algoritmos\application\views\admin/admin.php
+INFO - 2018-03-30 19:57:03 --> File loaded: C:\xampp\htdocs\algoritmos\batalha_algoritmos\application\views\admin/exercice.php
+INFO - 2018-03-30 19:57:03 --> File loaded: C:\xampp\htdocs\algoritmos\batalha_algoritmos\application\views\footer.php
+INFO - 2018-03-30 19:57:03 --> Final output sent to browser
+INFO - 2018-03-30 19:57:03 --> Config Class Initialized
+DEBUG - 2018-03-30 19:57:03 --> Total execution time: 0.3955
+INFO - 2018-03-30 19:57:03 --> Hooks Class Initialized
+DEBUG - 2018-03-30 19:57:03 --> UTF-8 Support Enabled
+INFO - 2018-03-30 19:57:03 --> Utf8 Class Initialized
+INFO - 2018-03-30 19:57:03 --> URI Class Initialized
+INFO - 2018-03-30 19:57:03 --> Router Class Initialized
+INFO - 2018-03-30 19:57:03 --> Output Class Initialized
+INFO - 2018-03-30 19:57:03 --> Security Class Initialized
+DEBUG - 2018-03-30 19:57:03 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-03-30 19:57:03 --> Input Class Initialized
+INFO - 2018-03-30 19:57:03 --> Language Class Initialized
+INFO - 2018-03-30 19:57:03 --> Loader Class Initialized
+INFO - 2018-03-30 19:57:03 --> Helper loaded: url_helper
+INFO - 2018-03-30 19:57:03 --> Helper loaded: string_helper
+INFO - 2018-03-30 19:57:03 --> Helper loaded: download_helper
+INFO - 2018-03-30 19:57:03 --> Helper loaded: form_helper
+INFO - 2018-03-30 19:57:03 --> Upload Class Initialized
+DEBUG - 2018-03-30 19:57:03 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2018-03-30 19:57:03 --> Session: Class initialized using 'files' driver.
+INFO - 2018-03-30 19:57:03 --> Controller Class Initialized
+INFO - 2018-03-30 19:57:03 --> Model Class Initialized
+INFO - 2018-03-30 19:57:03 --> Helper loaded: date_helper
+INFO - 2018-03-30 19:57:03 --> File loaded: C:\xampp\htdocs\algoritmos\batalha_algoritmos\application\views\admin/admin.php
+INFO - 2018-03-30 19:57:03 --> File loaded: C:\xampp\htdocs\algoritmos\batalha_algoritmos\application\views\admin/exercice.php
+INFO - 2018-03-30 19:57:03 --> File loaded: C:\xampp\htdocs\algoritmos\batalha_algoritmos\application\views\footer.php
+INFO - 2018-03-30 19:57:03 --> Final output sent to browser
+DEBUG - 2018-03-30 19:57:03 --> Total execution time: 0.4267
+INFO - 2018-03-30 19:57:07 --> Config Class Initialized
+INFO - 2018-03-30 19:57:07 --> Hooks Class Initialized
+DEBUG - 2018-03-30 19:57:07 --> UTF-8 Support Enabled
+INFO - 2018-03-30 19:57:07 --> Utf8 Class Initialized
+INFO - 2018-03-30 19:57:07 --> URI Class Initialized
+INFO - 2018-03-30 19:57:07 --> Router Class Initialized
+INFO - 2018-03-30 19:57:07 --> Output Class Initialized
+INFO - 2018-03-30 19:57:07 --> Security Class Initialized
+DEBUG - 2018-03-30 19:57:07 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-03-30 19:57:07 --> Input Class Initialized
+INFO - 2018-03-30 19:57:07 --> Language Class Initialized
+INFO - 2018-03-30 19:57:07 --> Loader Class Initialized
+INFO - 2018-03-30 19:57:07 --> Helper loaded: url_helper
+INFO - 2018-03-30 19:57:07 --> Helper loaded: string_helper
+INFO - 2018-03-30 19:57:07 --> Helper loaded: download_helper
+INFO - 2018-03-30 19:57:07 --> Helper loaded: form_helper
+INFO - 2018-03-30 19:57:07 --> Upload Class Initialized
+DEBUG - 2018-03-30 19:57:07 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2018-03-30 19:57:07 --> Session: Class initialized using 'files' driver.
+INFO - 2018-03-30 19:57:07 --> Controller Class Initialized
+INFO - 2018-03-30 19:57:07 --> Model Class Initialized
+INFO - 2018-03-30 19:57:07 --> Helper loaded: date_helper
+INFO - 2018-03-30 19:57:07 --> File loaded: C:\xampp\htdocs\algoritmos\batalha_algoritmos\application\views\admin/admin.php
+INFO - 2018-03-30 19:57:07 --> File loaded: C:\xampp\htdocs\algoritmos\batalha_algoritmos\application\views\admin/exercice.php
+INFO - 2018-03-30 19:57:07 --> File loaded: C:\xampp\htdocs\algoritmos\batalha_algoritmos\application\views\footer.php
+ERROR - 2018-03-30 19:57:07 --> Severity: Notice --> Undefined index: id C:\xampp\htdocs\algoritmos\batalha_algoritmos\application\views\admin\add_exercice.php 16
+ERROR - 2018-03-30 19:57:07 --> Severity: Notice --> Undefined variable: contatos C:\xampp\htdocs\algoritmos\batalha_algoritmos\application\views\admin\add_exercice.php 21
+ERROR - 2018-03-30 19:57:07 --> Severity: Notice --> Undefined variable: contatos C:\xampp\htdocs\algoritmos\batalha_algoritmos\application\views\admin\add_exercice.php 27
+ERROR - 2018-03-30 19:57:07 --> Severity: Notice --> Undefined variable: contatos C:\xampp\htdocs\algoritmos\batalha_algoritmos\application\views\admin\add_exercice.php 33
+INFO - 2018-03-30 19:57:07 --> File loaded: C:\xampp\htdocs\algoritmos\batalha_algoritmos\application\views\admin/add_exercice.php
+INFO - 2018-03-30 19:57:07 --> Final output sent to browser
+DEBUG - 2018-03-30 19:57:07 --> Total execution time: 0.5209
