@@ -9,7 +9,8 @@ class Admin extends CI_Controller {
         $this->load->model('Exercises_model', 'exercises_model');
         $this->load->model('Users_model', 'users');
 
-
+        if (!$this->users->is_logged_in())
+            redirect(base_url('users/login'));
 
     }
 
@@ -20,6 +21,16 @@ class Admin extends CI_Controller {
 
         $this->load->view('admin/admin', $data);
         $this->load->view('admin/exercice', $data);
+        $this->load->view('footer', $data);
+    }
+
+    public function users(){
+        $data['user'] = $this->users->get_logged_user();
+        $data['users'] = $this->users->getAllUsers();
+        $this->load->helper('date');
+
+        $this->load->view('admin/admin', $data);
+        $this->load->view('admin/user', $data);
         $this->load->view('footer', $data);
     }
 

@@ -18,6 +18,11 @@ class Users_model extends CI_Model {
         return json_decode(file_get_contents(APPDATA_PATH.'users.json'), true);
     }
 
+
+    public function getAllUsers(){
+        return $this->openFile();
+    }
+
     public function getRows($username, $password){
 
         foreach ($this->openFile() as $user){
