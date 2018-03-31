@@ -1,0 +1,61 @@
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+
+<button type="button" class="btn btn-default " id="pop-up" data-toggle="modal" data-target="#modal" style="margin-left:300px">ble</button>
+
+<div class="modal fade bs-example-modal-md" id="modal"  tabindex="-1" role="dialog" aria-labelledby="mySmallModalLabel" aria-hidden="true"> <!--role="dialog">-->
+    <div class="" style="margin: 25px 100px">
+
+        <!-- Modal content-->
+        <div class="modal-content">
+            <div class="modal-header">
+                <a type="button" class="close" href="<?=base_url("/admin/users")?>">&times;</a>
+                <h4 class="modal-title">Adicionar Usuário</h4>
+            </div>
+            <div class="modal-body">
+                <div class="row">
+                    <div class="col-md-12">
+                        <form action="<?=base_url("/admin/add_user")?>" method="post">
+
+                            <div class="form-row">
+                                <!--nome-->
+                                <div class="col form-group col-md-6">
+                                    <label for="username">Username</label>
+                                    <input type="text" class="form-control" id="username" name="username" ">
+                                </div>
+
+                                <!--Nome da func-->
+                                <div class="col form-group col-md-6">
+                                    <label for="equipe">Equipe</label>
+                                    <input type="text" class="form-control" id="equipe" name="equipe" >
+                                </div>
+                            </div>
+                            <div class="form-row">
+                                <!--telefone-->
+                                <div class="col form-group col-md-6">
+                                    <label for="password">Password</label>
+                                    <input type="text" class="form-control" id="password" name="password">
+                                </div>
+                                <div class="col form-group col-md-6">
+                                    <label for="atividade">Atividade</label>
+                                    <input type="number" class="form-control" id="atividade" name="atividade" placeholder="0 ou 1">
+                                </div>
+                            </div>
+                            <div class="form-group col-md-12">
+                                <button type="submit" class="btn btn-primary form-group" style="float: right">Adicionar</button>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            </div>
+            <div class="modal-footer">
+                <a type="button" class="btn btn-default" href="<?=base_url("/admin/users")?>">Close</a>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script type="application/javascript">
+    $( "#pop-up" ).on( "click");
+    $( "#pop-up" ).trigger( "click" );
+</script>

@@ -20,13 +20,14 @@ class Admin extends CI_Controller {
         $this->load->helper('date');
 
         $this->load->view('admin/admin', $data);
-        $this->load->view('admin/exercice', $data);
+        $this->load->view('admin/exercise', $data);
         $this->load->view('footer', $data);
     }
 
     public function users(){
         $data['user'] = $this->users->get_logged_user();
         $data['users'] = $this->users->getAllUsers();
+
         $this->load->helper('date');
 
         $this->load->view('admin/admin', $data);
@@ -45,11 +46,11 @@ class Admin extends CI_Controller {
         $this->load->helper('date');
 
         $this->load->view('admin/admin', $data);
-        $this->load->view('admin/exercice', $data);
+        $this->load->view('admin/exercise', $data);
         $this->load->view('footer', $data);
 
 
-        $this->load->view('admin/edit_exercice', $data);
+        $this->load->view('admin/edit_exercise', $data);
 
     }
 
@@ -79,7 +80,7 @@ class Admin extends CI_Controller {
         $this->load->helper('date');
 
         $this->load->view('admin/admin', $data);
-        $this->load->view('admin/exercice', $data);
+        $this->load->view('admin/exercise', $data);
         $this->load->view('footer', $data);
 
 
@@ -120,4 +121,57 @@ class Admin extends CI_Controller {
 
         redirect (base_url('/admin'));
     }
+
+    public function add_user_view(){
+        $data['user'] = $this->users->get_logged_user();
+        $data['users'] = $this->users->getAllUsers();
+
+        $this->load->helper('date');
+
+        $this->load->view('admin/admin', $data);
+        $this->load->view('admin/user', $data);
+        $this->load->view('footer', $data);
+
+
+        $this->load->view('admin/add_user', $data);
+    }
+
+    public function add_user(){
+
+        $this->users->add_user($_POST);
+
+        redirect (base_url('/admin/users'));
+    }
+
+    public function edit_user_view(){
+        $data['user'] = $this->users->get_user_by_id($_GET['id']);
+        $data['users'] = $this->users->getAllUsers();
+
+        $this->load->helper('date');
+
+        $this->load->view('admin/admin', $data);
+        $this->load->view('admin/user', $data);
+        $this->load->view('footer', $data);
+
+
+        $this->load->view('admin/edit_user', $data);
+    }
+
+    public function edit_user(){
+        $array = $_POST;
+
+        $array['id'] = $_GET['id'];
+
+        $this->users->edit_user($array);
+
+        redirect (base_url('/admin/users'));
+    }
+
+    public function remove_user(){
+
+        $this->users->remove_user($_GET['id']);
+
+        redirect (base_url('/admin/users'));
+    }
+
 }

@@ -10,7 +10,7 @@
         <div class="modal-content">
             <div class="modal-header">
                 <a type="button" class="close" href="<?=base_url("/admin")?>">&times;</a>
-                <h4 class="modal-title">Editar</h4>
+                <h4 class="modal-title">Adicionar Exercício</h4>
             </div>
             <div class="modal-body">
                 <div class="row">
