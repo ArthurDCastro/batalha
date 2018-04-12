@@ -9,7 +9,7 @@
 
 class Exercises_model extends CI_Model {
 
-    private function openFile(): array {
+    public function openFile(): array {
         return json_decode(file_get_contents(APPDATA_PATH.'exercises.json'), true);
     }
 

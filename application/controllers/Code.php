@@ -46,6 +46,8 @@ class Code extends CI_Controller {
 	    if ($name == null)
             redirect (base_url());
 
+        $data['user'] = $this->users->get_logged_user();
+
         $data['exercise'] = $this->loadExercise($name);
         $data['solved'] = $this->exercises_model->testCaseMessage($data['exercise']['id_exercise']);
         $this->load->view('submit_code', $data);
@@ -55,6 +57,7 @@ class Code extends CI_Controller {
 
         $exercise       = $this->loadExercise($name);
         $data['solved'] = $this->exercises_model->testCaseMessage($exercise['id_exercise']);
+        $data['user'] = $this->users->get_logged_user();
 
 
         $user_folder = $this->session->userdata('username');

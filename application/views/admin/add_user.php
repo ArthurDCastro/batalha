@@ -23,11 +23,18 @@
                                     <label for="username">Username</label>
                                     <input type="text" class="form-control" id="username" name="username" ">
                                 </div>
-
-                                <!--Nome da func-->
                                 <div class="col form-group col-md-6">
-                                    <label for="equipe">Equipe</label>
-                                    <input type="text" class="form-control" id="equipe" name="equipe" >
+                                    <label for="equipe">Example select</label>
+                                    <select class="form-control" id="equipe" name="equipe">
+                                        <option>...</option>
+                                        <option>amarela</option>
+                                        <option>laranja</option>
+                                        <option>verde</option>
+                                        <option>azul</option>
+                                        <option>vermelho</option>
+                                        <option>roxo</option>
+                                        <option>preto</option>
+                                    </select>
                                 </div>
                             </div>
                             <div class="form-row">

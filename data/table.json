@@ -1,0 +1,200 @@
+{
+    "rodada1": [
+        [
+            {
+                "id": "83244555886",
+                "username": "pedroh",
+                "equipe": "verde",
+                "email": "",
+                "password": "0832",
+                "atividade": 1
+            },
+            {
+                "id": "593358aabfc04",
+                "username": "bruno",
+                "equipe": "azul",
+                "email": "",
+                "password": "5933",
+                "atividade": 1
+            }
+        ],
+        [
+            {
+                "id": "59336255183244555886",
+                "username": "matheus",
+                "equipe": "verde",
+                "email": "",
+                "password": "8514",
+                "atividade": 1
+            },
+            {
+                "id": "5933v5949d5acd",
+                "username": "guilherme",
+                "equipe": "vermelho",
+                "email": "",
+                "password": "9335",
+                "atividade": 1
+            }
+        ],
+        [
+            {
+                "id": "5933851465685372017f1",
+                "username": "pedro",
+                "equipe": "preto",
+                "email": "",
+                "password": "8514",
+                "atividade": 1
+            },
+            {
+                "id": "593359xc94630e",
+                "username": "victor",
+                "equipe": "vermelho",
+                "email": "",
+                "password": "59c9",
+                "atividade": 1
+            }
+        ],
+        [
+            {
+                "id": "59338avdw85372017f1",
+                "username": "jessica",
+                "equipe": "preto",
+                "email": "",
+                "password": "8514",
+                "atividade": 1
+            },
+            {
+                "id": "5933c59d288950",
+                "username": "felipe",
+                "equipe": "vermelho",
+                "email": "",
+                "password": "d288",
+                "atividade": 1
+            }
+        ],
+        [
+            {
+                "id": "59333720uam17f1",
+                "username": "arthur",
+                "equipe": "preto",
+                "email": "",
+                "password": "3720",
+                "atividade": 1
+            },
+            {
+                "username": "vitor",
+                "equipe": "roxo",
+                "password": "7788",
+                "atividade": "1",
+                "id": "59335a9df1ba83"
+            }
+        ]
+    ],
+    "rodada2": [
+        [
+            {
+                "username": "lukduk",
+                "equipe": "preto",
+                "password": "asdf",
+                "atividade": "1",
+                "id": "5abfe52b08c8b"
+            },
+            {
+                "id": "593358aabfc04",
+                "username": "bruno",
+                "equipe": "azul",
+                "email": "",
+                "password": "5933",
+                "atividade": 1
+            }
+        ],
+        [
+            {
+                "id": "83244555886",
+                "username": "pedroh",
+                "equipe": "verde",
+                "email": "",
+                "password": "0832",
+                "atividade": 1
+            },
+            {
+                "id": "5933v5949d5acd",
+                "username": "guilherme",
+                "equipe": "vermelho",
+                "email": "",
+                "password": "9335",
+                "atividade": 1
+            }
+        ],
+        [
+            {
+                "id": "59336255183244555886",
+                "username": "matheus",
+                "equipe": "verde",
+                "email": "",
+                "password": "8514",
+                "atividade": 1
+            },
+            {
+                "id": "593359xc94630e",
+                "username": "victor",
+                "equipe": "vermelho",
+                "email": "",
+                "password": "59c9",
+                "atividade": 1
+            }
+        ],
+        [
+            {
+                "id": "5933851465685372017f1",
+                "username": "pedro",
+                "equipe": "preto",
+                "email": "",
+                "password": "8514",
+                "atividade": 1
+            },
+            {
+                "id": "5933c59d288950",
+                "username": "felipe",
+                "equipe": "vermelho",
+                "email": "",
+                "password": "d288",
+                "atividade": 1
+            }
+        ],
+        [
+            {
+                "id": "59338avdw85372017f1",
+                "username": "jessica",
+                "equipe": "preto",
+                "email": "",
+                "password": "8514",
+                "atividade": 1
+            },
+            {
+                "username": "vitor",
+                "equipe": "roxo",
+                "password": "7788",
+                "atividade": "1",
+                "id": "59335a9df1ba83"
+            }
+        ],
+        [
+            {
+                "id": "59333720uam17f1",
+                "username": "arthur",
+                "equipe": "preto",
+                "email": "",
+                "password": "3720",
+                "atividade": 1
+            },
+            {
+                "username": "jeliel",
+                "equipe": "laranja",
+                "password": "59e7",
+                "atividade": "1",
+                "id": "593359ljsne7f1f0e"
+            }
+        ]
+    ]
+}

@@ -14,7 +14,7 @@ class Users_model extends CI_Model {
         $this->userid = $this->session->userdata('user_id');
     }
 
-    protected function openFile(): array {
+    public function openFile(): array {
         return json_decode(file_get_contents(APPDATA_PATH.'users.json'), true);
     }
 

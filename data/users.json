@@ -1,11 +1,10 @@
 [
     {
-        "id": "593358aabfc04",
         "username": "bruno",
         "equipe": "azul",
-        "email": "",
         "password": "5933",
-        "atividade": 1
+        "atividade": "1",
+        "id": "593358aabfc04"
     },
     {
         "id": "5933v5949d5acd",
@@ -86,39 +85,38 @@
         "atividade": 1
     },
     {
-        "id": "832777",
         "username": "ifc",
         "equipe": "ifc",
-        "email": "",
         "password": "ifc123",
-        "atividade": 1
-    },
-    {
-        "username": "lukDuk",
-        "equipe": "preto",
-        "password": "asdd",
         "atividade": "0",
-        "id": "5abef14cc9528"
-    },
-    {
-        "username": "blaa",
-        "equipe": "laranja",
-        "password": "lkjh",
-        "atividade": "0",
-        "id": "5abef1d1609f6"
-    },
-    {
-        "username": "show",
-        "equipe": "amarelo",
-        "password": "fdsa",
-        "atividade": "0",
-        "id": "5abef40997f05"
+        "id": "832777"
     },
     {
         "username": "aaaaaa",
         "equipe": "roxo",
         "password": "aaaa",
-        "atividade": "0",
+        "atividade": "1",
         "id": "5abef4a8de1d2"
+    },
+    {
+        "username": "lukduk",
+        "equipe": "preto",
+        "password": "asdf",
+        "atividade": "1",
+        "id": "5abfe52b08c8b"
+    },
+    {
+        "username": "blee",
+        "equipe": "roxo",
+        "password": "blee",
+        "atividade": "1",
+        "id": "5abfe5503daf1"
+    },
+    {
+        "username": "asdf",
+        "equipe": "laranja",
+        "password": "fdsa",
+        "atividade": "0",
+        "id": "5abfe703f32bb"
     }
 ]
