@@ -20,18 +20,53 @@ class Table_model extends CI_Model {
         $users = $this->users->openFile();
 
         foreach ($users as $user){
-            if ($user['atividade'] and $user['equipe'] != 'ifc'){
+            $ati = (int) $user['atividade'];
+            if ($ati and $user['equipe'] != 'ifc'){
                 $this->ativos[] = $user;
             }
         }
 
         $this->rodada = count($this->exercises_model->openFile());
 
-        $this->getGames();
     }
 
     public function openFile(): array {
         return json_decode(file_get_contents(APPDATA_PATH.'table.json'), true);
+    }
+
+    public function getTodasTables(){
+        $file = $this->openFile();
+        $newTable = [];
+
+        foreach ($file as $rodada){
+            $newConfrontos = [];
+            foreach ($rodada['confrontos'] as $confronto){
+                $confronto['exercicio'] = $this->exercises_model->getExerciseById($confronto['exercicio'])['exercise'];
+                $newConfrontos[] = $confronto;
+            }
+            $rodada['confrontos'] = $newConfrontos;
+            $newTable[] = $rodada;
+        }
+        return $newTable;
+    }
+
+    private function add_confronto($user1, $user2){
+        return [
+            'user1' => [
+                'id'             => $user1['id'],
+                'equipe'         => $user1['equipe'],
+                'username'       => $user1['username'],
+                'aproveitamento' => 0,
+                'tempo_exec'     => 0
+            ],
+            'user2' => [
+                'id'             => $user2['id'],
+                'equipe'         => $user2['equipe'],
+                'username'       => $user2['username'],
+                'aproveitamento' => 0,
+                'tempo_exec'     => 0
+            ]
+        ];
     }
 
     private function users_activeSemConf(){
@@ -41,7 +76,7 @@ class Table_model extends CI_Model {
         foreach ($this->ativos as $ativ){
             $verificaSemConf = true;
             foreach ($this->confrontos as $conf){
-                if ($ativ['id'] == $conf[0]['id'] or $ativ['id'] == $conf[1]['id']){
+                if ($ativ['id'] == $conf['user1']['id'] or $ativ['id'] == $conf['user2']['id']){
                     $verificaSemConf = false;
                     break;
                 }
@@ -102,13 +137,14 @@ class Table_model extends CI_Model {
                             }
 
                             if ($verifica['equipe']){
+
                                 $j = 0;
                                 while ($verifica['while']){
                                     $sorteado = rand(0, count($this->confrontos) - 1);
 
-                                    if ($this->confrontos[$sorteado][0]['equipe'] != $user['equipe'] and $this->confrontos[$sorteado][1]['equipe'] != $this->ativos[$i]['equipe']){
-                                        $this->confrontos[$sorteado] = [$this->confrontos[$sorteado][0], $user];
-                                        $this->confrontos[] = [$this->confrontos[$sorteado][1], $this->ativos[$i]];
+                                    if ($this->confrontos[$sorteado]['user1']['equipe'] != $user['equipe'] and $this->confrontos[$sorteado]['user1']['equipe'] != $this->ativos[$i]['equipe']){
+                                        $this->confrontos[$sorteado] = $this->add_confronto($this->confrontos[$sorteado]['user1'], $user);
+                                        $this->confrontos[] = $this->add_confronto($this->confrontos[$sorteado]['user2'], $this->ativos[$i]);
 
                                         $newSF = [];
                                         foreach ($semConf as $sf){
@@ -121,9 +157,9 @@ class Table_model extends CI_Model {
 
                                         $verifica['while'] = false;
 
-                                    } elseif ($this->confrontos[$sorteado][1]['equipe'] != $user['equipe'] and $this->confrontos[$sorteado][0]['equipe'] != $this->ativos[$i]['equipe']){
-                                        $this->confrontos[$sorteado] = [$this->confrontos[$sorteado][1], $user];
-                                        $this->confrontos[] = [$this->confrontos[$sorteado][0], $this->ativos[$i]];
+                                    } elseif ($this->confrontos[$sorteado]['user2']['equipe'] != $user['equipe'] and $this->confrontos[$sorteado]['user1']['equipe'] != $this->ativos[$i]['equipe']){
+                                        $this->confrontos[$sorteado] = $this->add_confronto($this->confrontos[$sorteado]['user2'], $user);
+                                        $this->confrontos[] = $this->add_confronto($this->confrontos[$sorteado]['user1'], $this->ativos[$i]);
 
                                         $newSF = [];
                                         foreach ($semConf as $sf){
@@ -138,7 +174,7 @@ class Table_model extends CI_Model {
                                     }
 
                                     if ($j > 10){
-                                        $this->confrontos[] = [$this->ativos[$i], $user];
+                                        $this->confrontos[] = $this->add_confronto($this->ativos[$i], $user);
 
                                         $newSF = [];
                                         foreach ($semConf as $sf){
@@ -159,7 +195,7 @@ class Table_model extends CI_Model {
                             }
 
                         } else {
-                            $this->confrontos[] = [$this->ativos[$i], $user];
+                            $this->confrontos[] = $this->add_confronto($this->ativos[$i], $user);
 
                             $newSF = [];
                             foreach ($semConf as $sf){
@@ -172,7 +208,7 @@ class Table_model extends CI_Model {
                         }
 
                     } else {
-                        $this->confrontos[] = [$this->ativos[$i], $user];
+                        $this->confrontos[] = $this->add_confronto($this->ativos[$i], $user);
 
                         $newSF = [];
                         foreach ($semConf as $sf){
@@ -215,5 +251,13 @@ class Table_model extends CI_Model {
         return $this->confrontos;
 
 
+    }
+
+    /**
+     * @return mixed
+     */
+    public function getAtivos()
+    {
+        return $this->ativos;
     }
 }

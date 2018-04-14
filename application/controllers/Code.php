@@ -75,7 +75,7 @@ class Code extends CI_Controller {
 
         $this->upload->initialize($config);
 
-        if ( ! $this->upload->do_upload('file') ||  (time() >  $exercise['deadline'])) {
+        if ( ! $this->upload->do_upload('file')) {
             $data['errors']   = $this->upload->display_errors();
             $data['errors']   = "ou você nao selecionou um aquivo ou o prazo de envio do exercício se esgotou.";
 

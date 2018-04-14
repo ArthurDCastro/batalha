@@ -1,200 +1,185 @@
-{
-    "rodada1": [
-        [
+[
+    {
+        "finalizada": 1,
+        "rodada": "1ª Rodada",
+        "confrontos": [
             {
-                "id": "83244555886",
-                "username": "pedroh",
-                "equipe": "verde",
-                "email": "",
-                "password": "0832",
-                "atividade": 1
+                "exercicio": 1,
+                "confronto": [
+                    {
+                        "id": "83244555886",
+                        "username": "pedroh",
+                        "equipe": "verde",
+                        "aproveitamento": 1,
+                        "tempo_exec": 360
+                    },
+                    {
+                        "id": "593358aabfc04",
+                        "username": "bruno",
+                        "equipe": "azul",
+                        "aproveitamento": 1,
+                        "tempo_exec": 780
+                    }
+                ]
             },
             {
-                "id": "593358aabfc04",
-                "username": "bruno",
-                "equipe": "azul",
-                "email": "",
-                "password": "5933",
-                "atividade": 1
-            }
-        ],
-        [
-            {
-                "id": "59336255183244555886",
-                "username": "matheus",
-                "equipe": "verde",
-                "email": "",
-                "password": "8514",
-                "atividade": 1
+                "exercicio": 2,
+                "confronto": [
+                    {
+                        "id": "59336255183244555886",
+                        "username": "matheus",
+                        "equipe": "verde",
+                        "aproveitamento": 0,
+                        "tempo_exec": 1200
+                    },
+                    {
+                        "id": "5933v5949d5acd",
+                        "username": "guilherme",
+                        "equipe": "vermelho",
+                        "aproveitamento": 1,
+                        "tempo_exec": 900
+                    }
+                ]
             },
             {
-                "id": "5933v5949d5acd",
-                "username": "guilherme",
-                "equipe": "vermelho",
-                "email": "",
-                "password": "9335",
-                "atividade": 1
-            }
-        ],
-        [
-            {
-                "id": "5933851465685372017f1",
-                "username": "pedro",
-                "equipe": "preto",
-                "email": "",
-                "password": "8514",
-                "atividade": 1
+                "exercicio": 3,
+                "confronto": [
+                    {
+                        "id": "5933851465685372017f1",
+                        "username": "pedro",
+                        "equipe": "preto",
+                        "aproveitamento": 1,
+                        "tempo_exec": 120
+                    },
+                    {
+                        "id": "593359xc94630e",
+                        "username": "victor",
+                        "equipe": "vermelho",
+                        "aproveitamento": 1,
+                        "tempo_exec": 900
+                    }
+                ]
             },
             {
-                "id": "593359xc94630e",
-                "username": "victor",
-                "equipe": "vermelho",
-                "email": "",
-                "password": "59c9",
-                "atividade": 1
-            }
-        ],
-        [
-            {
-                "id": "59338avdw85372017f1",
-                "username": "jessica",
-                "equipe": "preto",
-                "email": "",
-                "password": "8514",
-                "atividade": 1
+                "exercicio": 4,
+                "confronto": [
+                    {
+                        "id": "59338avdw85372017f1",
+                        "username": "jessica",
+                        "equipe": "preto",
+                        "aproveitamento": 1,
+                        "tempo_exec": 300
+                    },
+                    {
+                        "id": "5933c59d288950",
+                        "username": "felipe",
+                        "equipe": "vermelho",
+                        "aproveitamento": 0,
+                        "tempo_exec": 1200
+                    }
+                ]
             },
             {
-                "id": "5933c59d288950",
-                "username": "felipe",
-                "equipe": "vermelho",
-                "email": "",
-                "password": "d288",
-                "atividade": 1
-            }
-        ],
-        [
-            {
-                "id": "59333720uam17f1",
-                "username": "arthur",
-                "equipe": "preto",
-                "email": "",
-                "password": "3720",
-                "atividade": 1
-            },
-            {
-                "username": "vitor",
-                "equipe": "roxo",
-                "password": "7788",
-                "atividade": "1",
-                "id": "59335a9df1ba83"
-            }
-        ]
-    ],
-    "rodada2": [
-        [
-            {
-                "username": "lukduk",
-                "equipe": "preto",
-                "password": "asdf",
-                "atividade": "1",
-                "id": "5abfe52b08c8b"
-            },
-            {
-                "id": "593358aabfc04",
-                "username": "bruno",
-                "equipe": "azul",
-                "email": "",
-                "password": "5933",
-                "atividade": 1
-            }
-        ],
-        [
-            {
-                "id": "83244555886",
-                "username": "pedroh",
-                "equipe": "verde",
-                "email": "",
-                "password": "0832",
-                "atividade": 1
-            },
-            {
-                "id": "5933v5949d5acd",
-                "username": "guilherme",
-                "equipe": "vermelho",
-                "email": "",
-                "password": "9335",
-                "atividade": 1
-            }
-        ],
-        [
-            {
-                "id": "59336255183244555886",
-                "username": "matheus",
-                "equipe": "verde",
-                "email": "",
-                "password": "8514",
-                "atividade": 1
-            },
-            {
-                "id": "593359xc94630e",
-                "username": "victor",
-                "equipe": "vermelho",
-                "email": "",
-                "password": "59c9",
-                "atividade": 1
-            }
-        ],
-        [
-            {
-                "id": "5933851465685372017f1",
-                "username": "pedro",
-                "equipe": "preto",
-                "email": "",
-                "password": "8514",
-                "atividade": 1
-            },
-            {
-                "id": "5933c59d288950",
-                "username": "felipe",
-                "equipe": "vermelho",
-                "email": "",
-                "password": "d288",
-                "atividade": 1
-            }
-        ],
-        [
-            {
-                "id": "59338avdw85372017f1",
-                "username": "jessica",
-                "equipe": "preto",
-                "email": "",
-                "password": "8514",
-                "atividade": 1
-            },
-            {
-                "username": "vitor",
-                "equipe": "roxo",
-                "password": "7788",
-                "atividade": "1",
-                "id": "59335a9df1ba83"
-            }
-        ],
-        [
-            {
-                "id": "59333720uam17f1",
-                "username": "arthur",
-                "equipe": "preto",
-                "email": "",
-                "password": "3720",
-                "atividade": 1
-            },
-            {
-                "username": "jeliel",
-                "equipe": "laranja",
-                "password": "59e7",
-                "atividade": "1",
-                "id": "593359ljsne7f1f0e"
+                "exercicio": 5,
+                "confronto": [
+                    {
+                        "id": "59333720uam17f1",
+                        "username": "arthur",
+                        "equipe": "preto",
+                        "aproveitamento": 10,
+                        "tempo_exec": 60
+                    },
+                    {
+                        "username": "vitor",
+                        "equipe": "roxo",
+                        "aproveitamento": 0,
+                        "tempo_exec": 1200,
+                        "id": "59335a9df1ba83"
+                    }
+                ]
             }
         ]
-    ]
-}
+    },
+    {
+        "finalizada": 1,
+        "rodada": "Quartas",
+        "confrontos": [
+            {
+                "exercicio": 1,
+                "confronto": [
+                    {
+                        "id": "83244555886",
+                        "username": "pedroh",
+                        "equipe": "verde",
+                        "aproveitamento": 1,
+                        "tempo_exec": 360
+                    },
+                    {
+                        "id": "593358aabfc04",
+                        "username": "bruno",
+                        "equipe": "azul",
+                        "aproveitamento": 1,
+                        "tempo_exec": 780
+                    }
+                ]
+            },
+            {
+                "exercicio": 2,
+                "confronto": [
+                    {
+                        "id": "59336255183244555886",
+                        "username": "matheus",
+                        "equipe": "verde",
+                        "aproveitamento": 0,
+                        "tempo_exec": 1200
+                    },
+                    {
+                        "id": "5933v5949d5acd",
+                        "username": "guilherme",
+                        "equipe": "vermelho",
+                        "aproveitamento": 1,
+                        "tempo_exec": 900
+                    }
+                ]
+            },
+            {
+                "exercicio": 3,
+                "confronto": [
+                    {
+                        "id": "5933851465685372017f1",
+                        "username": "pedro",
+                        "equipe": "preto",
+                        "aproveitamento": 1,
+                        "tempo_exec": 120
+                    },
+                    {
+                        "id": "593359xc94630e",
+                        "username": "victor",
+                        "equipe": "vermelho",
+                        "aproveitamento": 1,
+                        "tempo_exec": 900
+                    }
+                ]
+            },
+            {
+                "exercicio": 4,
+                "confronto": [
+                    {
+                        "id": "59338avdw85372017f1",
+                        "username": "jessica",
+                        "equipe": "preto",
+                        "aproveitamento": 1,
+                        "tempo_exec": 300
+                    },
+                    {
+                        "id": "5933c59d288950",
+                        "username": "felipe",
+                        "equipe": "vermelho",
+                        "aproveitamento": 0,
+                        "tempo_exec": 1200
+                    }
+                ]
+            }
+        ]
+    }
+]

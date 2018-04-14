@@ -8,13 +8,36 @@ class Admin extends CI_Controller {
 
         $this->load->model('Exercises_model', 'exercises_model');
         $this->load->model('Users_model', 'users');
+        $this->load->model('Table_model', 'table');
+
 
         if (!$this->users->is_logged_in())
             redirect(base_url('users/login'));
 
     }
 
+    //page index
     public function index(){
+        $data['user'] = $this->users->get_logged_user();
+        $data['exercises'] = $this->exercises_model->getAllExercises();
+        $data['users'] = $this->users->getAllUsers();
+        $data['table'] = $this->table->getTodasTables();
+        $data['ativos'] = count($this->table->getAtivos());
+
+        foreach (json_decode(file_get_contents(APPDATA_PATH.'data.json'), true) as $key => $dt){
+            $data[$key] = $dt;
+        }
+
+
+        $this->load->helper('date');
+
+        $this->load->view('admin/admin', $data);
+        $this->load->view('admin/inicio', $data);
+        $this->load->view('footer', $data);
+    }
+
+    //page exercise
+    public function exercise(){
         $data['user'] = $this->users->get_logged_user();
         $data['exercises'] = $this->exercises_model->getAllExercises();
         $this->load->helper('date');
@@ -24,6 +47,7 @@ class Admin extends CI_Controller {
         $this->load->view('footer', $data);
     }
 
+    //page users
     public function users(){
         $data['user'] = $this->users->get_logged_user();
         $data['users'] = $this->users->getAllUsers();
@@ -35,6 +59,7 @@ class Admin extends CI_Controller {
         $this->load->view('footer', $data);
     }
 
+    //page editar exercise
     public function edit_exercise_view(){
         $data['user'] = $this->users->get_logged_user();
         $data['exercises'] = $this->exercises_model->getAllExercises();
@@ -60,6 +85,7 @@ class Admin extends CI_Controller {
         $edit_exercise['id_exercise'] = $exercise['id_exercise'];
         $edit_exercise['func_name']   = $_POST['func_name'];
         $edit_exercise['exercise']    = $_POST['exercise'];
+        $edit_exercise['nivel']    = $_POST['nivel'];
         $edit_exercise['inputs']      = $exercise['inputs'];
         $edit_exercise['expecteds']   = $exercise['expecteds'];
         $edit_exercise['deadline']    = $_POST['deadline'] * 60;
@@ -70,9 +96,10 @@ class Admin extends CI_Controller {
         $this->exercises_model->edit_exercise($edit_exercise);
 
 
-        redirect (base_url('/admin'));
+        redirect (base_url('/admin/exercise'));
     }
 
+    //page add exercise
     public function add_exercise_view(){
         $data['user'] = $this->users->get_logged_user();
         $data['exercises'] = $this->exercises_model->getAllExercises();
@@ -102,6 +129,7 @@ class Admin extends CI_Controller {
         $edit_exercise['id_exercise'] = $maior + 1;
         $edit_exercise['func_name']   = $_POST['func_name'];
         $edit_exercise['exercise']    = $_POST['exercise'];
+        $edit_exercise['nivel']    = $_POST['nivel'];
         $edit_exercise['inputs']      = $this->exercises_model->convert_str_array($_POST['inputs']);
         $edit_exercise['expecteds']   = $this->exercises_model->convert_str_array($_POST['expecteds']);
         $edit_exercise['deadline']    = $_POST['deadline'] * 60;
@@ -112,7 +140,7 @@ class Admin extends CI_Controller {
         $this->exercises_model->add_exercise($edit_exercise);
 
 
-        redirect (base_url('/admin'));
+        redirect (base_url('/admin/exercise'));
     }
 
     public function remove_exercise(){
@@ -122,6 +150,7 @@ class Admin extends CI_Controller {
         redirect (base_url('/admin'));
     }
 
+    //page add user
     public function add_user_view(){
         $data['user'] = $this->users->get_logged_user();
         $data['users'] = $this->users->getAllUsers();
@@ -143,6 +172,7 @@ class Admin extends CI_Controller {
         redirect (base_url('/admin/users'));
     }
 
+    //page editar user
     public function edit_user_view(){
         $data['user'] = $this->users->get_user_by_id($_GET['id']);
         $data['users'] = $this->users->getAllUsers();
@@ -172,6 +202,10 @@ class Admin extends CI_Controller {
         $this->users->remove_user($_GET['id']);
 
         redirect (base_url('/admin/users'));
+    }
+
+    public function finalizar_rodada(){
+
     }
 
 }

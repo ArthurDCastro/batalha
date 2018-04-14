@@ -16,7 +16,7 @@
     <nav id="spy">
         <ul class="sidebar-nav nav" >
             <li class="sidebar-brand">
-                <a href="#home"><span class="fa fa-home solo">Admin</span></a>
+                <a href="<?=base_url('/admin')?>"><span class="fa fa-home solo">Admin</span></a>
             </li>
 
             <li>
@@ -35,7 +35,7 @@
                 </a>
             </li>
             <li>
-                <a href="<?=base_url('/admin')?>">
+                <a href="<?=base_url('/admin/exercise')?>">
                     <span class="fa fa-edit solo">Controlador de Exercício</span>
                 </a>
             </li>

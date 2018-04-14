@@ -3,6 +3,7 @@
         "id_exercise": 1,
         "func_name": "soma",
         "exercise": "Somar Valores",
+        "nivel": "1",
         "inputs": [
             [
                 1,
@@ -64,6 +65,7 @@
         "id_exercise": 2,
         "func_name": "alugueis",
         "exercise": "Lucro de alugueis",
+        "nivel": 1,
         "inputs": [
             [
                 [
@@ -137,9 +139,7 @@
         "deadline": 900,
         "status": "aberto",
         "fight": [
-            "ifc",
-            "lucas",
-            "arthur"
+            "ifc"
         ],
         "description": "<strong>Nomeie sua fun\u00e7\u00e3o de: alugueis<\/strong><br><br> <strong>Tempo: <\/strong> 15 minutos"
     },
@@ -147,6 +147,7 @@
         "id_exercise": 3,
         "func_name": "chineque",
         "exercise": "Dividindo os chineques",
+        "nivel": 1,
         "inputs": [
             [
                 3,
@@ -197,6 +198,7 @@
         "id_exercise": 4,
         "func_name": "maior_numero",
         "exercise": "Maior numero de n digitos",
+        "nivel": 1,
         "inputs": [
             [
                 6
@@ -234,9 +236,7 @@
         "deadline": 900,
         "status": "aberto",
         "fight": [
-            "ifc",
-            "rafael",
-            "victor"
+            "ifc"
         ],
         "description": "<strong>Nomeie sua fun\u00e7\u00e3o de: maior_numero<\/strong><br><br> <strong>Tempo: <\/strong> 20 minutos"
     },
@@ -244,6 +244,7 @@
         "id_exercise": 5,
         "func_name": "maiores_strings",
         "exercise": "Maiores Strings",
+        "nivel": 1,
         "inputs": [
             [
                 [
@@ -279,9 +280,7 @@
         "deadline": 1200,
         "status": "aberto",
         "fight": [
-            "ifc",
-            "jeliel",
-            "heitor"
+            "ifc"
         ],
         "description": "<strong>Nomeie sua fun\u00e7\u00e3o de: maiores_strings<\/strong><br><br> <strong>Tempo: <\/strong> 25 minutos"
     },
@@ -289,6 +288,7 @@
         "id_exercise": 6,
         "func_name": "repetidos",
         "exercise": "Caracteres repetidos",
+        "nivel": 1,
         "inputs": [
             [
                 "aabcc"
@@ -326,9 +326,7 @@
         "deadline": 1500,
         "status": "aberto",
         "fight": [
-            "ifc",
-            "pedro",
-            "felipe"
+            "ifc"
         ],
         "description": "<strong>Nomeie sua fun\u00e7\u00e3o de: repetidos<\/strong><br><br> <strong>Tempo: <\/strong> 12 minutos"
     },
@@ -336,6 +334,7 @@
         "id_exercise": 7,
         "func_name": "palindromo",
         "exercise": "Encontrando palindromos",
+        "nivel": 1,
         "inputs": [
             [
                 "ana"
@@ -373,9 +372,7 @@
         "deadline": 600,
         "status": "aberto",
         "fight": [
-            "ifc",
-            "vitor",
-            "arthur"
+            "ifc"
         ],
         "description": "<strong>Nomeie sua fun\u00e7\u00e3o de: palindromo<\/strong><br><br> <strong>Tempo: <\/strong> 18 minutos"
     },
@@ -383,6 +380,7 @@
         "id_exercise": 8,
         "func_name": "fila",
         "exercise": "Ordenar Listas",
+        "nivel": 1,
         "inputs": [
             [
                 [
@@ -476,9 +474,7 @@
         "deadline": 600,
         "status": "aberto",
         "fight": [
-            "ifc",
-            "jessica",
-            "guilherme"
+            "ifc"
         ],
         "description": "<strong>Nomeie sua fun\u00e7\u00e3o de: fila<\/strong><br><br> <strong>Tempo: <\/strong> 18 minutos"
     },
@@ -486,6 +482,7 @@
         "id_exercise": 9,
         "func_name": "soma_dupla",
         "exercise": "Soma dupla",
+        "nivel": 1,
         "inputs": [
             [
                 [
@@ -576,6 +573,7 @@
         "id_exercise": 10,
         "func_name": "combinacoes",
         "exercise": "Vamos combinar",
+        "nivel": 1,
         "inputs": [
             [
                 "CBA"
@@ -630,9 +628,7 @@
         "deadline": 1200,
         "status": "aberto",
         "fight": [
-            "ifc",
-            "lucas",
-            "guilherme"
+            "ifc"
         ],
         "description": "<strong>Nomeie sua fun\u00e7\u00e3o de: combinacoes<\/strong><br><br> <strong>Tempo: <\/strong> 18 minutos"
     },
@@ -640,6 +636,7 @@
         "id_exercise": 11,
         "func_name": "reverso",
         "exercise": "Reverso de um numero",
+        "nivel": 1,
         "inputs": [
             [
                 321
@@ -677,9 +674,7 @@
         "deadline": 1500,
         "status": "aberto",
         "fight": [
-            "ifc",
-            "pedro",
-            "lucas"
+            "ifc"
         ],
         "description": "<strong>Nomeie sua fun\u00e7\u00e3o de: reverso<\/strong><br><br> <strong>Tempo: <\/strong> 16 minutos"
     },
@@ -687,6 +682,7 @@
         "id_exercise": 12,
         "func_name": "triangulo",
         "exercise": "Mas e triangulo ou nao e",
+        "nivel": 1,
         "inputs": [
             [
                 2,
@@ -742,6 +738,7 @@
         "id_exercise": 13,
         "func_name": "produto_vizinhos",
         "exercise": "Multiplicando os vizinhos",
+        "nivel": 1,
         "inputs": [
             [
                 [
@@ -811,9 +808,7 @@
         "deadline": 960,
         "status": "aberto",
         "fight": [
-            "ifc",
-            "lucas",
-            "arthur"
+            "ifc"
         ],
         "description": "<strong>Nomeie sua fun\u00e7\u00e3o de: produto_vizinhos<\/strong><br><br> <strong>Tempo: <\/strong> 18 minutos"
     },
@@ -821,6 +816,7 @@
         "id_exercise": 14,
         "func_name": "telefones",
         "exercise": "Telefones",
+        "nivel": 1,
         "inputs": [
             [
                 242468
@@ -858,8 +854,7 @@
         "deadline": 1200,
         "status": "aberto",
         "fight": [
-            "ifc",
-            "arthur"
+            "ifc"
         ],
         "description": "<strong>Nomeie sua fun\u00e7\u00e3o de: telefones<\/strong><br><br> <strong>Tempo: <\/strong> 18 minutos"
     },
@@ -867,6 +862,7 @@
         "id_exercise": 15,
         "func_name": "fibonnacci",
         "exercise": "Fibonnacci",
+        "nivel": 1,
         "inputs": [
             [
                 4
@@ -912,6 +908,7 @@
         "id_exercise": 16,
         "func_name": "linguica",
         "exercise": "Linguica",
+        "nivel": 1,
         "inputs": [
             [
                 8
@@ -949,8 +946,7 @@
         "deadline": 1020,
         "status": "aberto",
         "fight": [
-            "ifc",
-            "victor"
+            "ifc"
         ],
         "description": "<strong>Nomeie sua fun\u00e7\u00e3o de: linguica<\/strong><br><br> <strong>Tempo: <\/strong> 12 minutos"
     },
@@ -958,6 +954,7 @@
         "id_exercise": 17,
         "func_name": "troca",
         "exercise": "Troca",
+        "nivel": 1,
         "inputs": [
             [
                 [
@@ -1021,9 +1018,7 @@
         "deadline": 1080,
         "status": "aberto",
         "fight": [
-            "ifc",
-            "guilherme",
-            "rafael"
+            "ifc"
         ],
         "description": "<strong>Nomeie sua fun\u00e7\u00e3o de: troca<\/strong><br><br> <strong>Tempo: <\/strong> 18 minutos"
     },
@@ -1031,6 +1026,7 @@
         "id_exercise": 18,
         "func_name": "posicao_maior",
         "exercise": "Posicao do maior",
+        "nivel": 1,
         "inputs": [
             [
                 [
@@ -1102,9 +1098,7 @@
         "deadline": 540,
         "status": "aberto",
         "fight": [
-            "ifc",
-            "vitor",
-            "jessica"
+            "ifc"
         ],
         "description": "<strong>Nomeie sua fun\u00e7\u00e3o de: posicao_maior<\/strong><br><br> <strong>Tempo: <\/strong> 15 minutos"
     }

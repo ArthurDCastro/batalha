@@ -19,9 +19,13 @@ class Table extends CI_Controller {
     public function index()
     {
 
-        $data['table'] = $this->table_model->getConfrontos();
+        $data['table'] = $this->table_model->getTodasTables();
+        foreach (json_decode(file_get_contents(APPDATA_PATH.'data.json'), true) as $key => $dt){
+            $data[$key] = $dt;
+        }
+        $data['user'] = $this->users->get_logged_user();
 
-        $this->load->view('teste', $data);
+        $this->load->view('rodadas', $data);
 
 
     }

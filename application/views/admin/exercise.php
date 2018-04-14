@@ -15,6 +15,7 @@
                     <th>Exercicio</th>
                     <th>Status</th>
                     <th>Tempo</th>
+                    <th>Nível</th>
                     <th>Editar</th>
                     <th>Excluir</th>
                 </tr>
@@ -26,6 +27,7 @@
                         <td>            <?=$exer['exercise']?></td>
                         <td>            <span class="label label-success"><?=$exer['status']?></span></td>
                         <td>            <?=$exer['deadline']/60?>minutos</td>
+                        <td>            <?=$exer['nivel']?></td>
                         <td><a type="button" class="btn btn-warning" href="<?=base_url("/admin/edit_exercise_view?id={$exer['id_exercise']}")?>"><span class="fa fa-pencil"></span></a></td>
                         <td><a type="button" class="btn btn-danger" href="<?=base_url("/admin/remove_exercise?id={$exer['id_exercise']}")?>"><span class="fa fa-remove"></span></a></td>
                     </tr>

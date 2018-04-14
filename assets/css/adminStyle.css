@@ -1,4 +1,4 @@
-.label-amarelo{
+.label-amarela{
     background-color: #f0ad4e;
 }
 
@@ -28,6 +28,11 @@
 
 .label-ifc{
     background-color: #7f7f7f;
+}
+
+.mx-sm-1{
+    padding: 4px 6px;
+
 }
 
 

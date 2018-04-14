@@ -1,8 +1,5 @@
-<?php
+<?php 
 
-function soma($a, $b){
-	$soma = $a + $b;
-	return $soma;
-
-
+function soma($x, $y){
+	return $x + $y;
 }

@@ -1,90 +1,5 @@
 [
     {
-        "username": "bruno",
-        "equipe": "azul",
-        "password": "5933",
-        "atividade": "1",
-        "id": "593358aabfc04"
-    },
-    {
-        "id": "5933v5949d5acd",
-        "username": "guilherme",
-        "equipe": "vermelho",
-        "email": "",
-        "password": "9335",
-        "atividade": 1
-    },
-    {
-        "id": "593359xc94630e",
-        "username": "victor",
-        "equipe": "vermelho",
-        "email": "",
-        "password": "59c9",
-        "atividade": 1
-    },
-    {
-        "id": "5933c59d288950",
-        "username": "felipe",
-        "equipe": "vermelho",
-        "email": "",
-        "password": "d288",
-        "atividade": 1
-    },
-    {
-        "username": "vitor",
-        "equipe": "roxo",
-        "password": "7788",
-        "atividade": "1",
-        "id": "59335a9df1ba83"
-    },
-    {
-        "username": "jeliel",
-        "equipe": "laranja",
-        "password": "59e7",
-        "atividade": "1",
-        "id": "593359ljsne7f1f0e"
-    },
-    {
-        "id": "59333720uam17f1",
-        "username": "arthur",
-        "equipe": "preto",
-        "email": "",
-        "password": "3720",
-        "atividade": 1
-    },
-    {
-        "id": "59338avdw85372017f1",
-        "username": "jessica",
-        "equipe": "preto",
-        "email": "",
-        "password": "8514",
-        "atividade": 1
-    },
-    {
-        "id": "5933851465685372017f1",
-        "username": "pedro",
-        "equipe": "preto",
-        "email": "",
-        "password": "8514",
-        "atividade": 1
-    },
-    {
-        "id": "59336255183244555886",
-        "username": "matheus",
-        "equipe": "verde",
-        "email": "",
-        "password": "8514",
-        "atividade": 1
-    },
-    {
-        "id": "83244555886",
-        "username": "pedroh",
-        "equipe": "verde",
-        "email": "",
-        "password": "0832",
-        "atividade": 1
-    },
-    {
         "username": "ifc",
         "equipe": "ifc",
         "password": "ifc123",
@@ -92,31 +7,80 @@
         "id": "832777"
     },
     {
-        "username": "aaaaaa",
-        "equipe": "roxo",
-        "password": "aaaa",
+        "username": "adriano",
+        "equipe": "verde",
+        "password": "31ad",
         "atividade": "1",
-        "id": "5abef4a8de1d2"
+        "id": "5ad23288954fe"
     },
     {
-        "username": "lukduk",
+        "username": "heitor",
+        "equipe": "verde",
+        "password": "32he",
+        "atividade": "1",
+        "id": "5ad2329cc61eb"
+    },
+    {
+        "username": "arthur",
         "equipe": "preto",
-        "password": "asdf",
+        "password": "71ar",
         "atividade": "1",
-        "id": "5abfe52b08c8b"
+        "id": "5ad232b138c1a"
     },
     {
-        "username": "blee",
-        "equipe": "roxo",
-        "password": "blee",
+        "username": "mario",
+        "equipe": "preto",
+        "password": "72ma",
         "atividade": "1",
-        "id": "5abfe5503daf1"
+        "id": "5ad232c139ce9"
     },
     {
-        "username": "asdf",
+        "username": "pedro",
+        "equipe": "preto",
+        "password": "73pe",
+        "atividade": "1",
+        "id": "5ad232d02a21c"
+    },
+    {
+        "username": "andre",
+        "equipe": "amarela",
+        "password": "11an",
+        "atividade": "1",
+        "id": "5ad232ea1800e"
+    },
+    {
+        "username": "matheus",
+        "equipe": "vermelho",
+        "password": "51ma",
+        "atividade": "1",
+        "id": "5ad2335742bfa"
+    },
+    {
+        "username": "lara",
+        "equipe": "vermelho",
+        "password": "52la",
+        "atividade": "1",
+        "id": "5ad233694e0f5"
+    },
+    {
+        "username": "guilherme",
         "equipe": "laranja",
-        "password": "fdsa",
-        "atividade": "0",
-        "id": "5abfe703f32bb"
+        "password": "21gu",
+        "atividade": "1",
+        "id": "5ad23385751e6"
+    },
+    {
+        "username": "mateus",
+        "equipe": "roxo",
+        "password": "61ma",
+        "atividade": "1",
+        "id": "5ad233a075147"
+    },
+    {
+        "username": "guardini",
+        "equipe": "roxo",
+        "password": "62gu",
+        "atividade": "1",
+        "id": "5ad233b67ff48"
     }
 ]

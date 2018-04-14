@@ -9,7 +9,7 @@
         <!-- Modal content-->
         <div class="modal-content">
             <div class="modal-header">
-                <a type="button" class="close" href="<?=base_url("/admin")?>">&times;</a>
+                <a type="button" class="close" href="<?=base_url("/admin/exercise")?>">&times;</a>
                 <h4 class="modal-title">Adicionar Exercício</h4>
             </div>
             <div class="modal-body">
@@ -42,13 +42,17 @@
                                 </div>
                             </div>
                             <div class="form-row">
-                                <div class="col form-group col-md-6">
+                                <div class="col form-group col-md-4">
                                     <label for="deadline">Tempo</label>
                                     <input type="number" class="form-control" id="deadline" name="deadline" placeholder="1minuto">
                                 </div>
-                                <div class="col form-group col-md-6">
+                                <div class="col form-group col-md-4">
                                     <label for="status">Status</label>
                                     <input type="text" class="form-control" id="status" name="status">
+                                </div>
+                                <div class="col form-group col-md-4">
+                                    <label for="nivel">Nível</label>
+                                    <input type="number" class="form-control" id="nivel" name="nivel">
                                 </div>
                             </div>
                             <div class="form-row">
@@ -65,7 +69,7 @@
                 </div>
             </div>
             <div class="modal-footer">
-                <a type="button" class="btn btn-default" href="<?=base_url("/admin")?>">Close</a>
+                <a type="button" class="btn btn-default" href="<?=base_url("/admin/exercise")?>">Close</a>
             </div>
         </div>
     </div>

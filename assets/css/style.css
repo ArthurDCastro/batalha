@@ -1,3 +1,36 @@
+.label-amarela{
+    background-color: #f0ad4e;
+}
+
+.label-laranja{
+    background-color: #D45C0A;
+}
+
+.label-verde{
+    background-color: #5cb85c;
+}
+
+.label-azul{
+    background-color: #337ab7;
+}
+
+.label-vermelho{
+    background-color: #d9534f;
+}
+
+.label-roxo{
+    background-color: #55056B;
+}
+
+.label-preto{
+    background-color: #000000;
+}
+
+.label-ifc{
+    background-color: #7f7f7f;
+}
+
+
 /*.btn-file {*/
     /*position: relative;*/
     /*!*overflow: hidden;*!*/
